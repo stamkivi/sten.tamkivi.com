@@ -28,7 +28,9 @@ tags:
   - visualization
 
 ---
-_[<img class=" wp-image-858 alignleft" alt="Bridge_drawing" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png" width="213" height="63" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png 706w, http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing-300x87.png 300w" sizes="(max-width: 213px) 100vw, 213px" />][1]This post is 1st of 3 in the series aimed at discussing ways Silicon Valley and European tech scenes could contribute to and gain more from each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 (video of which should be online soon) but I believe this topic is calls for more discussion and thinking along than 15 one-directional minutes on conference stage._
+![1]
+
+This post is 1st of 3 in the series aimed at discussing ways Silicon Valley and European tech scenes could contribute to and gain more from each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 (video of which should be online soon) but I believe this topic is calls for more discussion and thinking along than 15 one-directional minutes on conference stage._
 
 If you were to sit in the audience of any European tech summit these days you get soaked in action around you. Would it be [TechCrunch Disrupt Europe][2], [LeWeb][3], or the raising 5000-attendee rocket of the region, [Slush][4] in the November darkness of Helsinki &#8211; there is no arguing that the European startup scene is in its most bustling, vibrant shape ever.
 
@@ -84,7 +86,7 @@ To validate this broad sentiment on personal level, I turned to LinkedIn Labs&#8
 
 And then, Silicon Valley venture capital and serial entrepreneurship circles float as a distant burgundy cloud. And the international graduate students and teachers body of Stanford is even further out on the right:
 
-[<img class="alignnone size-large wp-image-855" alt="LinkedIn Inmap for Sten Tamkivi" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/Screenshot-2013-11-02-12.47.07-1024x674.jpg" width="590" height="388" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/Screenshot-2013-11-02-12.47.07-1024x674.jpg 1024w, http://sten.tamkivi.com/wp-content/uploads/2013/11/Screenshot-2013-11-02-12.47.07-300x197.jpg 300w, http://sten.tamkivi.com/wp-content/uploads/2013/11/Screenshot-2013-11-02-12.47.07.jpg 1058w" sizes="(max-width: 590px) 100vw, 590px" />][12]
+![12]
 
 Those familiar with [Granovetter][13]’s theory about the [strength of weak ties][14] should feel a wave of joy here &#8211; the ties linking US and EU scenes are indeed still weak, routed through a relatively small number of connecting nodes in between the clusters. We know there are benefits of weak ties, but then again, there are virtues to tight knit communities talking to each other frequently.
 

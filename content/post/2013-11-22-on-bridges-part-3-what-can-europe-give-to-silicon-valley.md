@@ -26,7 +26,9 @@ tags:
   - vc
 
 ---
-_[<img class=" wp-image-858 alignleft" alt="Bridge_drawing" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png" width="213" height="63" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png 706w, http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing-300x87.png 300w" sizes="(max-width: 213px) 100vw, 213px" />][1]This is the final post of 3 contemplating how Silicon Valley and European tech scenes could get closer to each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 &#8211; video of which should be online soon. I believe this topic calls for more discussion and thinking along than 15 one-directional minutes on conference stage allowed. To get up to speed, read [Part 1][2] and [Part 2][3] here._
+![1]
+
+This is the final post of 3 contemplating how Silicon Valley and European tech scenes could get closer to each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 &#8211; video of which should be online soon. I believe this topic calls for more discussion and thinking along than 15 one-directional minutes on conference stage allowed. To get up to speed, read [Part 1][2] and [Part 2][3] here._
 
 After looking at the [widening gap between European and Silicon Valley tech scenes][2] and establishing that the usual first priority, [raising money from the other side might not be the most feasible way to fix this][3] &#8211; the questions becomes: how can we build more _non-financial_ ties between our scenes?
 

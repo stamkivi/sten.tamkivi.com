@@ -25,7 +25,7 @@ tags:
   - vc
 
 ---
-[<img class="alignnone size-medium wp-image-836" alt="skypemafia - full plot - thumbnail" src="http://sten.tamkivi.com/wp-content/uploads/2013/08/skypemafia-full-plot-thumbnail-300x300.png" width="300" height="300" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/08/skypemafia-full-plot-thumbnail-300x300.png 300w, http://sten.tamkivi.com/wp-content/uploads/2013/08/skypemafia-full-plot-thumbnail-150x150.png 150w, http://sten.tamkivi.com/wp-content/uploads/2013/08/skypemafia-full-plot-thumbnail.png 420w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+![1]
 
 On August 29th Skype is celebrating its birthday. As it did as a small European-rooted startup, so it does as a product in the portfolio of Microsoft. This time it is a round one, too: first 10 years. Sending the best wishes to all the friends who have built and are building Skype over these years, I figured it would be a good time to give in to an idea that has been in the back of my mind for a while: what would it look like if someone somehow visualized the impact of the company Niklas, Janus & a bunch of Estonian engineers started in 2003 to the broader startup ecosystem?
 

@@ -26,7 +26,9 @@ tags:
   - vc
 
 ---
-_[<img class=" wp-image-858 alignleft" alt="Bridge_drawing" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png" width="213" height="63" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing.png 706w, http://sten.tamkivi.com/wp-content/uploads/2013/11/Bridge_drawing-300x87.png 300w" sizes="(max-width: 213px) 100vw, 213px" />][1]This post is 2nd of 3 discussing ways Silicon Valley and European tech scene could get closer to each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 &#8211; video of which should be online soon. I believe this topic calls for more discussion and thinking along than 15 one-directional minutes on conference stage. As an intro, see [Part 1 here][2]._
+![1]
+
+This post is 2nd of 3 discussing ways Silicon Valley and European tech scene could get closer to each other. The series are an expansion of a short speech I gave at Slush conference in November 2013 &#8211; video of which should be online soon. I believe this topic calls for more discussion and thinking along than 15 one-directional minutes on conference stage. As an intro, see [Part 1 here][2]._
 
 Europe&#8217;s tech scene is buzzing. Those of us who have been on both sides can attest that the people innovating there, business models attempted and technologies applied in Europe are very much aligned with what&#8217;s happening in Silicon Valley, despite of the separation. So it would make sense to link up more, right?
 
@@ -66,7 +68,7 @@ There is a simple, sobering reason why companies should have the logic for their
 
 The internationalisation of VC industry has been well on the way and one can draw quite pretty graphs of the $ flow into startups increasing over the last dozen years and so forth. Without going into all of that, I’d like to just leave you with one near-realtime data point from this year, 2013. Looking at closed early stage deals listings in [Pitchbook][6], American VCs still invest in US and European VCs still invest in Europe, loud and clear:
 
-[<img class="alignnone size-large wp-image-857" alt="EU-US invest.007" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/EU-US-invest.007-1024x576.jpg" width="590" height="331" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/EU-US-invest.007-1024x576.jpg 1024w, http://sten.tamkivi.com/wp-content/uploads/2013/11/EU-US-invest.007-300x168.jpg 300w, http://sten.tamkivi.com/wp-content/uploads/2013/11/EU-US-invest.007.jpg 1920w" sizes="(max-width: 590px) 100vw, 590px" />][7]
+![7]
 
 There are some notable exceptions who are swimming agains this current (like [Dave McClure][8] with his [Geeks on a Plane][9] movement and resulting above-average geographic diversification of [500Startups][10] portfolio), but in my overall experience, the &#8220;stay close to home&#8221; mindset applies to most institutional investors in a clearly structured way and is a notable behaviour pattern even for private angels on [AngelList][11].
 

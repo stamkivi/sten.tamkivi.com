@@ -27,7 +27,7 @@ Thinking about the linkages between US and European tech investment and startup 
 
 Recommended reading in full for anyone who cares about intercontinental talent and capital flows, but I just wanted to share this fascinating graph:
 
-[<img class="alignnone  wp-image-851" alt="immigrantinvest" src="http://sten.tamkivi.com/wp-content/uploads/2013/11/immigrantinvest.png" width="421" height="545" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/11/immigrantinvest.png 702w, http://sten.tamkivi.com/wp-content/uploads/2013/11/immigrantinvest-231x300.png 231w" sizes="(max-width: 421px) 100vw, 421px" />][3]
+![3]
 
 You can often hear how foreign investments and emigration are discussed as linearly opposite ends of a see-saw: if you get more of cash invested into your country from abroad your skilled talent can stay home and build companies there as opposed to seeking interesting challenges abroad. What the authors show here is rather a two-way street, another re-inforcing cycle where the movement of talented people will eventually build into increased cross-border investment of capital:
 
