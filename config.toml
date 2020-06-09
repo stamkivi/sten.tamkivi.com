@@ -1,0 +1,44 @@
+baseurl = "https://sten.tamkivi.com/"
+languageCode = "en-us"
+title = "Seikatsu Blog Archive"
+theme = "hugo-lithium-theme"
+googleAnalytics = "UA-1128139-3"
+disqusShortname = "seikatsu"
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
+enableEmooji = true
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "About Sten"
+    url = "https://twitter.com/@seikatsu"
+# [[menu.main]]
+#    name = "GitHub"
+#    url = ""
+# [[menu.main]]
+#    name = "Twitter"
+#    url = ""
+
+[params]
+    mainSections = ["post"]
+
+    description = ""
+
+ #   # path to the favicon, under "static"
+ #   favicon = "favicon.ico"
+
+    [params.logo]
+    url = "icon.png"
+    width = 50
+    height = 50
+    alt = "Sten Tamkivi's Seikatsu"
+
+    [params.icon]
+    url = "favicon.ico"
+
+# enable embedded HTML from the wordpress content import
+ [markup.goldmark.renderer]
+    unsafe = true 
+

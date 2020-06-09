@@ -1,0 +1,23 @@
+---
+title: Toad with Military Training
+author: sten
+type: post
+date: 2007-06-23T10:44:46+00:00
+url: /2007/06/toad_with_military_training/
+tweet_this_url:
+  - https://bit.ly/fEGvwN
+dsq_thread_id:
+  - 400519291
+categories:
+  - In English
+
+---
+[<img src="http://farm2.static.flickr.com/1175/603302267_653c8182ec.jpg" width="500" height="375" alt="Toad in camouflage" />][1]
+  
+This specimen is cautious enough to wear full body [camouflage][2] to steer clear of [Andres][3] who hosts him in his old well.
+
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F06%2Ftoad_with_military_training%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+
+ [1]: http://www.flickr.com/photos/seikatsu/603302267/ "Photo Sharing"
+ [2]: http://en.wikipedia.org/wiki/Camouflage
+ [3]: http://kittermobile.blogspot.com/
