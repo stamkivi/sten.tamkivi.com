@@ -4,7 +4,7 @@ title = "Seikatsu Blog Archive"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-1128139-3"
 disqusShortname = "seikatsu"
-disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableEmooji = true
 
 [permalinks]
@@ -33,7 +33,7 @@ enableEmooji = true
     url = "icon.png"
     width = 50
     height = 50
-    alt = "Sten Tamkivi's Seikatsu"
+    alt = "Sten Tamkivi's Seikatsu - Blog Archive"
 
     [params.icon]
     url = "favicon.ico"
