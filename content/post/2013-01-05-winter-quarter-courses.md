@@ -33,7 +33,7 @@ As the Sloan year has passed the equator, I&#8217;ve signed up for the following
 
 Yes, just two this time, leaving more precious time for electives.
 
-**Electives:<!--more-->**
+**Electives:**
 
   * [FINANCE 373][6] &#8211; Entrepreneurial Finance (Arthur Korteweg)
   * [FINANCE 385][7] &#8211; Angel & VC Financing seminar ([Ilya Strebulaev][2] and [Theresia Gouw][8])

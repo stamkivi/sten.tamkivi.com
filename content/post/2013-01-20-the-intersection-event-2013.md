@@ -25,7 +25,7 @@ tags:
   - video
 
 ---
-[<img class="wp-image-733 alignnone" alt="Entrepreneurship panel @ The Intersection" src="http://sten.tamkivi.com/wp-content/uploads/2013/01/WP_001344.jpg" width="320" height="240" srcset="http://sten.tamkivi.com/wp-content/uploads/2013/01/WP_001344.jpg 718w, http://sten.tamkivi.com/wp-content/uploads/2013/01/WP_001344-300x224.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+![1]
 
 Spent an inspiring day at [The Intersection Event][2] at Googleplex. [Full agenda is here][3] and my notes from the sessions below.
 

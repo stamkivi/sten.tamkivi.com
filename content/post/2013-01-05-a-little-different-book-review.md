@@ -25,11 +25,7 @@ tags:
 
 ---
 The most surprisingly resonating fiction book I&#8217;ve read in a while inspired a little more experimentally formatted review:
-  
-<!--more-->
-
-
-  
-[http://sten.tamkivi.com/penumbra24.html]
+    
+[http://sten.tamkivi.com/penumbra24.html](http://sten.tamkivi.com/penumbra24.html)
 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2013%2F01%2Fa-little-different-book-review%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>

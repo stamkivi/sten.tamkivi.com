@@ -13,9 +13,12 @@ With the help of [Hugo][1] and a [Wordpress-to-Markdown script][2], everything w
 
 Skipped all the navigation gimmicks, tag clouds, content categories and such. You probably landed here by search anyway.
 
-So here's just the stuff I wrote a while ago, in the [simplest possible template][3]. If you scroll down far enough, like to 2007, it is fun to see how I used to use a self hosted blog as the "manual Instagram" for the crappy nascent mobile cams, sometimes daily!
+So here's just the stuff I wrote a while ago, in the [simplest possible template][3].
 
 If you see a broken image or a missing piece, just please ping [me on Twitter][4], will you please?
+
+PS: If you scroll down far enough, like to 2007, it is fun to see how I used to use a self hosted blog as the "manual Instagram" for the crappy nascent mobile cams, sometimes daily!
+
 
 [1]: https://gohugo.io/
 [2]: https://github.com/SchumacherFM/wordpress-to-hugo-exporter
