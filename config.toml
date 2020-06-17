@@ -30,9 +30,9 @@ enableEmooji = true
  #   favicon = "favicon.ico"
 
     [params.logo]
-    url = "icon.png"
-    width = 50
-    height = 50
+    url = "Seikatsu.png"
+    width = 178
+    height = 58
     alt = "Sten Tamkivi's Seikatsu - Blog Archive"
 
     [params.icon]
