@@ -13,7 +13,7 @@ enableEmooji = true
 
 [[menu.main]]
     name = "About Sten"
-    url = "https://twitter.com/@seikatsu"
+    url = "https://tamkivi.com/"
 # [[menu.main]]
 #    name = "GitHub"
 #    url = ""

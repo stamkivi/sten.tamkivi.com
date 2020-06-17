@@ -4,4 +4,4 @@ title = "About"
 
 +++
 
-Lorem ipsum dolor sit amet.
+To learn morea about what Sten Tamkivi is up to these days, see [tamkivi.com](https://tamkivi.com).

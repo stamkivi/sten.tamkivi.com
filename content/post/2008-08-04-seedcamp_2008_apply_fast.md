@@ -30,13 +30,13 @@ As a reminder:
 
 (See also my [invitation post from last year][2] for some background and the great [Seedcamp 2007 recap video][3])
 
+{{< vimeo 1321008 >}}
+
 There was [just one Estonian entry &#8211; RealEyes][4] &#8211; last year and unfortunately they did not make the shortlist. So if you&#8217;ve been playing with an idea to start your own company, get your act together and [apply now][5] to get a proper kickstart.
 
 This year, there is also a potential shortcut to the shortlist. Just go and win the [Video Pitch contest][6].
 
 It looks like I can make it there this year again as one of the [mentors][7]. Last year was fun, hope to see you there.
-
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F08%2Fseedcamp_2008_apply_fast%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://seedcamp.com
  [2]: http://sten.tamkivi.com/2007/07/invitation_spend_some_time_in.html

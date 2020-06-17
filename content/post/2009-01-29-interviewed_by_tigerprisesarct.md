@@ -23,10 +23,10 @@ tags:
 ---
 Talked to [Toivo Tänavsuu][1] last week on what&#8217;s happening at Skype, how is the labour market looking and how do we relate to the broader technology startup scene in Estonia. The video inteview was publised on [TigerPrises][2] and [ArcticStartup][3].
 
+{{< vimeo 2925220 >}}
   
 [Interview with Sten Tamkivi from Skype][4] from [Toivo Tänavsuu][5] on [Vimeo][6].
 
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2009%2F01%2Finterviewed_by_tigerprisesarct%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.ekspress.ee/ajaveeb/toivo/
  [2]: http://www.tigerprises.com/sten-tamkivi-skype-has-had-great-impact-on-estonian-start-ups-market/
