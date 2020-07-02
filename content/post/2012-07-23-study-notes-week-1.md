@@ -47,4 +47,3 @@ Also, probably most interesting new thoughts already in week 1 came from real-li
 
 Overall volume of reading assigned: 168 pages
 
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2012%2F07%2Fstudy-notes-week-1%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>

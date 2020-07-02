@@ -1,6 +1,6 @@
 baseurl = "https://sten.tamkivi.com/"
 languageCode = "en-us"
-title = "Seikatsu Blog Archive"
+title = "Sten Tamkivi's Seikatsu Blog Archive"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-1128139-3"
 disqusShortname = "seikatsu"
@@ -8,9 +8,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableEmooji = true
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
+#    post = "/:year/:month/:day/:title/"
+    post = "/:year/:month/:title/"
     page = "/:title/"
 
+[[menu.main]]
+    name = "Stanford Sloan notes"
+    url = "/stanford-sloan-2013/"
 [[menu.main]]
     name = "About Sten"
     url = "https://tamkivi.com/"
