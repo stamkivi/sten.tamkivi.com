@@ -38,60 +38,19 @@ Pages assigned for reading: 157
           * In class discussion: &#8220;This could not happen in Italy. a) espressos are smaller and b) when you spill coffee on yourself, you say &#8220;I am stupid&#8221; and move on&#8221;
       * A Batman costume manufacturer needs to add labels with: &#8220;Parents, please exercise caution, cape does not enable users to fly&#8221;
       * When Vespa scooters with a storage compartment under the seat are produced, only the ones sent to US market get a warning label: &#8220;do not store babies or pets under the seat&#8221;
-
-<!--more-->
-
-<div>
-  <ul>
-    <li>
-      <a href="http://en.wikipedia.org/wiki/Coase_theorem">Coarse Theorem</a> <ul>
-        <li>
-          externalities are reciprocal (two parties required)
-        </li>
-        <li>
-          Protection of entitlements: <ul>
-            <li>
-              property rule: don&#8217;t infringe an entitlement without the holder&#8217;s consent
-            </li>
-            <li>
-              liability rule: can interfere with another party, but expect to compensate any damages
-            </li>
-          </ul>
-        </li>
-        
-        <li>
-          Liability rules lower the transaction costs for protection <ul>
-            <li>
-              Ex: would be prohibitively expensive to negotiate agreements between every motorist, every other motorist and all pedestrians regarding compensations for injuries per property rule
-            </li>
-            <li>
-              Make sure the person most easy to adjust does adjust for social efficiency
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Common law looks to what people do and want to do to arrange and complete exchanges <ul>
-        <li>
-          Contracts are one means to arrange <em>mutually advantageous </em>(as they have been bargained) trades
-        </li>
-        <li>
-          <em>Torts</em>: civil wrongs (done by one person to another). <ul>
-            <li>
-              US tort system cost $246B in 2003 ($843/person; was $12/person in 1950!)
-            </li>
-          </ul>
-        </li>
-        
-        <li>
-          <em>Class action lawsuits</em> are consolidation of similar torts.
-        </li>
-      </ul>
-    </li>
-  </ul>
-</div>
+  * <a href="http://en.wikipedia.org/wiki/Coase_theorem">Coarse Theorem</a>
+    * externalities are reciprocal (two parties required)
+      * Protection of entitlements:
+        * property rule: don&#8217;t infringe an entitlement without the holder&#8217;s consent
+        * liability rule: can interfere with another party, but expect to compensate any damages
+      * Liability rules lower the transaction costs for protection 
+        * Ex: would be prohibitively expensive to negotiate agreements between every motorist, every other motorist and all pedestrians regarding compensations for injuries per property rule
+        *  Make sure the person most easy to adjust does adjust for social efficiency
+  * Common law looks to what people do and want to do to arrange and complete exchanges 
+  * Contracts are one means to arrange <em>mutually advantageous </em>(as they have been bargained) trades
+  * __Torts__: civil wrongs (done by one person to another). 
+    * US tort system cost $246B in 2003 ($843/person; was $12/person in 1950!)
+  * __Class action lawsuits__ are consolidation of similar torts.
 
   * MTN Group case (African mobile operator) 
       * In $2/day income areas the $30 cost of even the cheapest Motorola phones was so prohibitive that some operators set up &#8220;telephone ladies&#8221; that _rented_ their handsets one call and one customer at a time
@@ -118,133 +77,41 @@ Pages assigned for reading: 157
       * Ruling party usually drives you to their marginal (barely win) consituencies with incentives, etc, to show progress to locals and increase the lead over their political competition
       * At the same time, the political opposition is much more willing to attack your project aggressively &#8211; because they are only marginally behind in elections and could tilt the balance with high-profile &#8220;win&#8221; over you
 
-<div>
-  <p>
-    <strong>MGTECON209 &#8211; Statistics & Economics (prof Oyer)</strong>
-  </p>
-  
-  <ul>
-    <li>
-      Some questions that rose while reading: <ul>
-        <li>
-          why is the indifference curve of perfect complements a right angle? why not just a vertical line?
-        </li>
-        <li>
-          if an utility function &#8220;is a concept&#8221; that &#8220;doesn&#8217;t exist in fundamental sense&#8221;, why do the calculations (like marginal utility) work? especially if utility values are mostly ordinal (relative value to each-other?)
-        </li>
-        <li>
-          what&#8217;s the difference between Marginal Rate of Substitution & MR of Transormation? if the consumer is operating on full budget, these would be the same? is it that MRS is price agnostic (focused on good&#8217;s utility only)?
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      $1 increase in gas price in US increased the market share of the most fuel-efficient cars quartile by 20%, and reduced the least efficient car&#8217;s by 24%. (Zettelmeyer 2009)
-    </li>
-    <li>
-      Reason why &#8220;more is better&#8221; principle can be assumed in demand analysis: we do not observe the consumers who believe &#8220;less is more&#8221; (say from some quantity forward) among those making purchases
-    </li>
-    <li>
-      Vocabulary class: <ul>
-        <li>
-          ordinal measure: one that tells us the relative ranking of two things, but not <em>by how much</em> more one outranks the other (ex: letter grades, A > B)
-        </li>
-        <li>
-          cardinal measure: one that makes absolute comparisons (ex: money, $150 > $50 by $100)
-        </li>
-        <li>
-          convex: downward-sloping curve that curves &#8220;away&#8221; from zero
-        </li>
-        <li>
-          concave: downward-sloping curve that &#8220;circles around&#8221; zero
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      US food stamp program SNAP (supplemental nutrition assistance program to provide food purchasing coupons for the poor) covers $40M people for $73B (2010). <ul>
-        <li>
-          In 2009 recession, fed 1/8 Americans & 1/4 children.
-        </li>
-        <li>
-          Yet for the stigma of &#8220;being poor&#8221; when presenting the stamps for payment and other reasons, this is just 2/3 of eligible targets
-        </li>
-        <li>
-          Economists in ongoing argument if cash (without limitation to spend just on food) would increase or decrease the intended nutrition effects <ul>
-            <li>
-              given that the overall utility would stay the same or go up (people could buy other things they want & need &#8211; or still just food if that is the max utility for them)
-            </li>
-            <li>
-              Whitmore (2002) even concluded cash would reduce their odds of obesity (cheapest calories)
-            </li>
-          </ul>
-        </li>
-        
-        <li>
-          Classic example where positive (scientific) answer might not match the normative (value judgement) answer &#8211; e.g the perceived risk of misjudgement by poor to buy drugs & booze instead of food.
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Definition of &#8220;goods&#8221; is <em>not</em>limited to consumption, passing resources to someone else&#8217;s possession in exchange for something <ul>
-        <li>
-          &#8220;savings&#8221; are just another a good.
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Definition of &#8220;short&#8221; and &#8220;long&#8221; in economics: is there enough time to change all the inputs of a function (long run) or at least one of them practically needs to remain fixed as is (short run)
-    </li>
-    <li>
-      Legal structure of a firm determines who is liable for its debts. Effect of limited liability (e.g higher willingness to risk) In 2010 in US: <ul>
-        <li>
-          LL corporations are 19% of all non farm firms, yet took home 83% sales & 67% profits
-        </li>
-        <li>
-          Nonfarm sole proprietorships are 72% of all firms, but 4% of sales & 10% of net income
-        </li>
-        <li>
-          Partnerships 10% of firms, 13% of sales, 23% of income
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      On innovation: <ul>
-        <li>
-          Max number of miles the most effective Ford model could drive on a gallon of gas in 2003: 36
-        </li>
-        <li>
-          Ford Model T in 1912: 35 miles
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      Relationship between <em>sunk cost </em>& <em>opportunity cost: </em>If specialised equipment was bought for $25k and can be resold for $10k, then $15k of original expenditure is sunk and $10k the opportunity cost.
-    </li>
-    <li>
-      <em>Franchise tax</em> aka <em>business licence fee</em> &#8211; one year licence to sell hot dogs in front of Metropolitan in NYC: $642,701 in 2009
-    </li>
-    <li>
-      Labor & leisure can be thought of as consumption goods that get traded off against other goods <ul>
-        <li>
-          Alternatively, in labor context you could say your personal productive output is a &#8220;bad&#8221;, because more of it means less of leisure
-        </li>
-      </ul>
-    </li>
-    
-    <li>
-      All production functions have a region where returns to scale are increasing, and region where they are decreasing <ul>
-        <li>
-          If they didn&#8217;t, we&#8217;d see infinite size factories or all of them ending up zero-size?
-        </li>
-      </ul>
-    </li>
-  </ul>
-</div>
+**MGTECON209 &#8211; Statistics & Economics (prof Oyer)**
+* Some questions that rose while reading:
+  * why is the indifference curve of perfect complements a right angle? why not just a vertical line?
+  * if an utility function &#8220;is a concept&#8221; that &#8220;doesn&#8217;t exist in fundamental sense&#8221;, why do the calculations (like marginal utility) work? especially if utility values are mostly ordinal (relative value to each-other?)
+  * what&#8217;s the difference between Marginal Rate of Substitution & MR of Transormation? if the consumer is operating on full budget, these would be the same? is it that MRS is price agnostic (focused on good&#8217;s utility only)?
+* $1 increase in gas price in US increased the market share of the most fuel-efficient cars quartile by 20%, and reduced the least efficient car&#8217;s by 24%. (Zettelmeyer 2009)
+* Reason why &#8220;more is better&#8221; principle can be assumed in demand analysis: we do not observe the consumers who believe &#8220;less is more&#8221; (say from some quantity forward) among those making purchases
+* Vocabulary class:
+  * ordinal measure: one that tells us the relative ranking of two things, but not <em>by how much</em> more one outranks the other (ex: letter grades, A > B)
+  * cardinal measure: one that makes absolute comparisons (ex: money, $150 > $50 by $100)
+  * convex: downward-sloping curve that curves &#8220;away&#8221; from zero
+  * concave: downward-sloping curve that &#8220;circles around&#8221; zero
+* US food stamp program SNAP (supplemental nutrition assistance program to provide food purchasing coupons for the poor) covers $40M people for $73B (2010).
+* In 2009 recession, fed 1/8 Americans & 1/4 children.
+  * yet for the stigma of &#8220;being poor&#8221; when presenting the stamps for payment and other reasons, this is just 2/3 of eligible targets
+* Economists in ongoing argument if cash (without limitation to spend just on food) would increase or decrease the intended nutrition effects
+  * given that the overall utility would stay the same or go up (people could buy other things they want & need &#8211; or still just food if that is the max utility for them)
+  * Whitmore (2002) even concluded cash would reduce their odds of obesity (cheapest calories)
+* Classic example where positive (scientific) answer might not match the normative (value judgement) answer &#8211; e.g the perceived risk of misjudgement by poor to buy drugs & booze instead of food.
+* Definition of &#8220;goods&#8221; is <em>not</em>limited to consumption, passing resources to someone else&#8217;s possession in exchange for something
+  * &#8220;savings&#8221; are just another a good.
+* Definition of &#8220;short&#8221; and &#8220;long&#8221; in economics: is there enough time to change all the inputs of a function (long run) or at least one of them practically needs to remain fixed as is (short run)
+* Legal structure of a firm determines who is liable for its debts. Effect of limited liability (e.g higher willingness to risk) In 2010 in US:
+  * LL corporations are 19% of all non farm firms, yet took home 83% sales & 67% profits
+  * Nonfarm sole proprietorships are 72% of all firms, but 4% of sales & 10% of net income
+  * Partnerships 10% of firms, 13% of sales, 23% of income
+* On innovation:
+  * Max number of miles the most effective Ford model could drive on a gallon of gas in 2003: 36
+  * Ford Model T in 1912: 35 miles
+* Relationship between <em>sunk cost </em>& <em>opportunity cost: </em>If specialised equipment was bought for $25k and can be resold for $10k, then $15k of original expenditure is sunk and $10k the opportunity cost.
+* <em>Franchise tax</em> aka <em>business licence fee</em> &#8211; one year licence to sell hot dogs in front of Metropolitan in NYC: $642,701 in 2009
+* Labor & leisure can be thought of as consumption goods that get traded off against other goods
+  * Alternatively, in labor context you could say your personal productive output is a &#8220;bad&#8221;, because more of it means less of leisure
+* All production functions have a region where returns to scale are increasing, and region where they are decreasing
+  * If they didn&#8217;t, we&#8217;d see infinite size factories or all of them ending up zero-size?
 
 **OB289 &#8211; Negotiations (prof Neale)**
 
@@ -280,10 +147,6 @@ Pages assigned for reading: 157
 * * *
 
 For more posts on the Stanford GSB Sloan life &#8211; [click here to search by tag &#8220;sloan&#8221;][4].
-
-&nbsp;
-
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2012%2F08%2Fweek-6-torts-the-samurai-and-dance-of-joy%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.jstor.org/stable/30025019
  [2]: http://www.imdb.com/title/tt0325710/
