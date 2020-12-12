@@ -65,41 +65,16 @@ Pages assigned for reading: 121 (but quite a few written assignment deadlines)
           * Sample size gets smaller
   * p-value makes only a _statistical_ difference, not necessarily in _business_ or _economic_ sense. Don&#8217;t jump to conclusions.
 
-<div>
-  <p>
-    <strong>OB289 &#8211; Negotiations (prof Neale)</strong>
-  </p>
-  
-  <ul>
-    <li>
-      Basic negotiation errors (Bazerman & Neale textbook) <ul>
-        <li>
-          You can think of market competition as a form of negotiations between competitors over industry practices (for example pricing). Which in turn can lead to the very same irrational mistakes as in any other negotiation &#8211; for example the &#8220;irrational escalation of commitment,&#8221; where winning the other party <em>on any terms</em> becomes more important than, say, maximising the profits in an industry.
-        </li>
-        <li>
-          Misdirected persistence: decisionmakers are often obsessed by the small probability that escalating the conflict one step further could lead to victory. <ul>
-            <li>
-              People (esp leaders, politicians) want to look consistent. Persistence, even if irrational, helps to be perceived that way.
-            </li>
-            <li>
-              Organizations need systems to reward good decision making over effective impression management.
-            </li>
-          </ul>
-        </li>
-        
-        <li>
-          Focus on time and money already invested in negotiations (the sunk costs) as an argument, rather than evaluating <em>only</em> the future costs & benefits
-        </li>
-        <li>
-          Reactive devaluation of proposals just because they are made by adversary
-        </li>
-        <li>
-          Attempt to solve singular issues (sometimes &#8220;let&#8217;s start with easy ones&#8221;, sometimes &#8220;the hardest ones&#8221;) instead of issue &#8220;packages&#8221; which allow for more granular compromises & trading
-        </li>
-      </ul>
-    </li>
-  </ul>
-</div>
+**OB289 &#8211; Negotiations (prof Neale)**
+
+  * Basic negotiation errors (Bazerman & Neale textbook)
+      * You can think of market competition as a form of negotiations between competitors over industry practices (for example pricing). Which in turn can lead to the very same irrational mistakes as in any other negotiation for example the irrational escalation of commitment, where winning the other party _on any terms_ becomes more important than, say, maximising the profits in an industry.
+      * Misdirected persistence: decisionmakers are often obsessed by the small probability that escalating the conflict one step further could lead to victory.
+          * People (esp leaders, politicians) want to look consistent. Persistence, even if irrational, helps to be perceived that way.
+          * Organizations need systems to reward good decision making over effective impression management.
+          * Focus on time and money already invested in negotiations (the sunk costs) as an argument, rather than evaluating <em>only</em> the future costs & benefits
+          * Reactive devaluation of proposals just because they are made by adversary
+          * Attempt to solve singular issues (sometimes let's start with easy ones, sometimes the hardest ones) instead of issue "packages"; which allow for more granular compromises & trading
 
 **Other thoughs to remember** (no attribution as we just agreed to [Chatham House Rule][1] for in class and for guest presentations):
 
@@ -111,9 +86,6 @@ Pages assigned for reading: 121 (but quite a few written assignment deadlines)
 
 For more posts on the Stanford GSB Sloan life &#8211; [click here to search by tag &#8220;sloan&#8221;][2].
 
-&nbsp;
-
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2012%2F08%2Fweek-4-monopolies-multiple-regressions-negotiations-kickoff%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://en.wikipedia.org/wiki/Chatham_House_Rule
  [2]: http://sten.tamkivi.com/tag/sloan/

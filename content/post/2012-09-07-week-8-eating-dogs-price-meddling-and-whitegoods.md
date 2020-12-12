@@ -152,7 +152,6 @@ Usual format of study notes follow, with maybe more than usual further reading /
 
 For more posts on the Stanford GSB Sloan life – [click here to search by tag “sloan”][11].
 
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2012%2F09%2Fweek-8-eating-dogs-price-meddling-and-whitegoods%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://flavors.me/plibin
  [2]: http://evernote.com
