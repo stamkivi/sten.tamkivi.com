@@ -31,4 +31,4 @@ Well, in the very beginning of a child's life there are some good biological nee
 
 75% of my offspring are boys. Maybe the example of this year will help to tilt their choices in the future too.
 
-Let's go!
+Let's go.
