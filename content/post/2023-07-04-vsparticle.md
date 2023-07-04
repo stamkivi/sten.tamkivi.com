@@ -5,7 +5,7 @@ type: post
 draft: false
 ---
 
-    _“There are only two industries. This has always been true,” said Madame Ping, enfolding a lovely porcelain teacup in her withered fingers, the two-inch fingernails interleaving neatly like the pinions of a raptor folding its wings after a long hard day of cruising the thermals. “**There is the industry of things, and the industry of entertainment. The industry of things comes first. It keeps us alive. But making things is easy now that we have the Feed.** This is not a very interesting business anymore. “After people have the things they need to live, everything else is entertainment. Everything. This is Madame Ping's business.”_
+_“There are only two industries. This has always been true,” said Madame Ping, enfolding a lovely porcelain teacup in her withered fingers, the two-inch fingernails interleaving neatly like the pinions of a raptor folding its wings after a long hard day of cruising the thermals. “**There is the industry of things, and the industry of entertainment. The industry of things comes first. It keeps us alive. But making things is easy now that we have the Feed.** This is not a very interesting business anymore. “After people have the things they need to live, everything else is entertainment. Everything. This is Madame Ping's business.”_
 
 ― Neal Stephenson, [The Diamond Age](https://www.goodreads.com/work/quotes/2181158-the-diamond-age)
 
@@ -14,6 +14,10 @@ Creating a matter printer (aka “The Feed”) is the science fiction dream that
 Imagine solving a challenge for renewable energy generation by simply instructing a computer as to what properties are required. Once you’ve ‘ordered’ the right ingredients - ask for it to, say, coat an electrode with the cheapest and most stable possible material that has certain electrical properties at 83 degrees Celsius – all you then need to do is wait for the printer to ‘print’ the answer in minutes.
 
 And by "printing the answer" I mean the actual physical material, not some descriptive text about it.
+Like this example of precision application of 7nm gold particles on glass plate:
+
+![1] 
+
 
 Imagine knowing that you simply need material that starts conducting electricity only when it “touches” a certain other molecule at room temperature, and then printing out a working gas sensor just based on these end product properties, without having a strong hypothesis ahead what the solution should consist of.
 
@@ -34,3 +38,5 @@ We don't think that China can or should control this vital aspect of frontier te
 Europe has a unique combination of deep scientific foundations, deep humanist values, and increasingly optimistic entrepreneurial spirit with which it can create our own futures. As a proof point, it was the Netherlands (with its ~80X smaller population than China) that already gave us [ASML](https://en.wikipedia.org/wiki/ASML_Holding), [the most valuable tech company in Europe](https://www.bbc.com/news/business-64514573) - a great domestic benchmark for VSParticle to live up to when conquering the world.
 
 Read more coverage from [Sifted](https://sifted.eu/articles/inkjet-printer-periodic-table-vsparticle-news) to [The Next Web](https://thenextweb.com/news/startup-nanotech-creating-new-materials-energy-transition).
+
+[1]: /images/VSParticle-Plural.jpg
