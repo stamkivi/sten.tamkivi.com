@@ -3,3 +3,4 @@
 
 # local:
 hugo && rsync -avz --delete public/ ~/sten.tamkivi.com/
+hugo server
