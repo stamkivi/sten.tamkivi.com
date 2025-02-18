@@ -65,4 +65,4 @@ By allowing companies to access what they need in orbit, Karman+ is building the
 
 PS: Thanks, [Salar](https://sal.ar/) for nudging Teun and me to have a call back in August.
 
-[1]: /images/DescentSLAM.png
+[1]: /images/karman-spacecraft-asteroid.png
