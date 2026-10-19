@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Presidendid omavahel
 author: sten
 type: post
@@ -33,3 +34,20 @@ Kiirematele võib õnnestuda veel leida paar kutset, palun [andke märku][5]. Ja
  [3]: http://president.ee/et/president/
  [4]: http://about.skype.com/executiveteam/joshsilverman/
  [5]: skype:sten?chat
+
+---
+
+## Comments (archived from the old blog)
+
+**indrek** · 2009-02-17 21:48
+
+Kui nobedate näppude voor veel läbi pole, siis oleks meelsasti huvitatud :)
+
+**[Olev](http://vaher.blogspot.com/)** · 2009-02-19 08:56
+
+Samuti kui veel läbi pole, siis oleks meelsasti huvitatud :)
+
+**[sten](http://sten.tamkivi.com)** · 2009-02-25 16:36
+
+Indrek ja Olev,\
+kutsesoove ootan jätkuvalt Skype chati teel, ja palun koos e-mailiaadressiga kuhu kutse edastada...

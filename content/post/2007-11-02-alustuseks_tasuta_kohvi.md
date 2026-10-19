@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Alustuseks tasuta kohvi
 author: sten
 type: post
@@ -47,3 +48,42 @@ Millest alustada? IT-tudengi harimisest, et ta teaks, mis asi on riskikapital ja
  [3]: http://www.arileht.ee/artikkel/403243
  [4]: http://www.arengufond.ee/files/Eesti%20Arengufondi%20seadus.pdf
  [5]: http://euro.postimees.ee/300107/esileht/majandus/242089.php
+
+---
+
+## Comments (archived from the old blog)
+
+**Janno** · 2007-11-02 14:16
+
+Üheks oluliseks probleemiks on see, et tehnilise valdkonna spetsialist olla ei ole noorte jaoks atraktiivne. Palju "coolim" on ju olla mingi ärijuht või manager või muu "businessman". Tehnilised spetsialistid ei ole ühiskonnas piisavalt hinnatud ja seetõttu siirduvad noored talendid teistele erialadele.
+
+**[sten](http://sten.tamkivi.com)** · 2007-11-04 00:17
+
+Nõus.\
+Samas on irooniline, et ka ükski tehnoloogiaettevõte ei saa ilma äriinimesteta, et tehnoloogid saaksid pühenduda sellele, mida nad tegelikult armastavad ja oskavad. Nende eesti startuppide häda, mis Eestis riskikapitali kaasanud on, on enamasti just tugeva müügi- ja turunduskompetentsi puudumine, mis aitaks tehnoloogidest arendajate ideed globaalsele turule viia.\
+Kahjuks need vajalikud kompetentsid (koos reaalse kogemusega) ei ole sama asi, mis EBSi rahvulsvahelise ärijuhtimise bakalaureus. Ehk siis nende leidmine on pea sama keerukas kui inseneride puhul.
+
+**[Edvard](http://mitworld.mit.edu/video/308/)** · 2007-11-07 01:56
+
+Tere, väga huvitav lugemine jälle, aitäh Sten. Kust aadressilt leida Eesti startuppe? Või Eesti r-kapitaliga ettevõtteid. Vb kusagil on hea ülevaade?
+
+**[sten](http://sten.tamkivi.com)** · 2007-11-08 12:08
+
+Edvard,\
+ei ole silma hakanud kompaktset ülevaadet. Mingi pildi saad ehk ette kui käid läbi Eesti väheste organiseerunud riskikapitalistide (tehnoloogias nt ASI, MTVP, ...) veebilehed ja vaatad nende avalikku portfelli?\
+Pisut ringi guugeldades leidsin ka ühe Eesti riskikapitali puudutava Tartu Ülikooli koolitöö - ise seda lugenud ei ole:\
+<a href="http://www.mtk.ut.ee/orb.aw/class=file/action=preview/id=148914/febawb44.pdf" rel="nofollow">http://www.mtk.ut.ee/orb.aw/class=file/action=preview/id=148914/febawb44.pdf</a>\
+Sten
+
+**[Martin](http://www.csapartners.eu)** · 2007-11-15 10:23
+
+Mulle tundub, et vaadates viimasel ajal kasvõi Martinsoni väljaütlemisi, siis tegelikult ta ei ootagi Eestist väga Startupi kultuuri, olgu seda siis turu väiksuse või inimeste väikese unistamise vms põhjused.\
+Samas pole ka üksi VC tegelikult võtnud Eestis enda peale algatust seda startup community't tekitada. Näiteks Londonis ja lisaks veel juba 80+ maailma linnas iganädalane OpenCoffee (www.opencoffeeclub.org) üritus ei ole minuteada seni Eestis endiselt eestvedajat leidnud.\
+Ürituse käivitamiseks oleks vaja väga väikest "ajalist" investeeringut - valida välja üks WiFi ühendusega kesklinna kohvik ning käia 1x nädalas seal 1-2 tundi inimestega suhtlemas, nõustamas ja inspireerimas. Kui VC-d paari firma peale kokku lepiks, siis sisuliselt oleks see igale firmale ca 1-2 tundi kuus väikest ajalist investeeringut, suhtlemist ja kultuuri külvamist. Aga seni pole mina seda tahet näinud... kahju.
+
+**[sten](http://sten.tamkivi.com)** · 2007-11-15 11:08
+
+Saul Klein, kes seda OpenCoffee't veab, on juba mitu korda norinud, et kus siis Eesti oma jääb - võtad äkki ette, Martin? ;)\
+Ma arvan, et see ei peakski olema VC-de vedada üritus, kui ettevõtjad omavahel koos käima hakkaksid ja üritus toimiks, siis ega siis raha kohale ilmumata jäta...\
+Ise olen küll mõelnud, et Eesti sees on võrgustikud niigi olemas - mistahes teist ettevõtjat või eksperti üles leida on ühe-kahe telefonikõne küsimus. See tekitab riski, et OpenCoffee taolised üritused jäävad paarikordseks katsetuseks ja ei teki regulaarsust. Kas keegi FirstTuesday katsetust üheksakümnendate lõpus veel mäletab?\
+Võibolla võiks võimalikult palju eestlasi alustuseks läbi jalutada hoopis Stockholmi, Helsinki, Londoni või mõne muu otseühendusega sihtkoha OpenCoffee'd ja oma rahvusvahelist võrgustikku laiendada?

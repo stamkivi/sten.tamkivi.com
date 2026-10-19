@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Restart konverentsilt
 author: sten
 type: post
@@ -102,3 +103,27 @@ Urmas Klaas:
  [9]: http://www.re-start.ee/majandus-reformierakond-terry-miller/
  [10]: http://www.re-start.ee/majandus-reformierakond-pekka-roine/
  [11]: http://www.re-start.ee/majandus-reformierakond-andrus-ansip/
+
+---
+
+## Comments (archived from the old blog)
+
+**margus** · 2008-11-17 07:27
+
+Tänan Sten, selle kokkuvõtte eest!\
+Natuke jäi mulje, et selle konverentsi eesmärk ei olnud mitte Eesti majandusele "uue hingamise" leidmine, vaid rahva veenmine (üli)liberaalse turumajanduse jätkuvas ajakohasuses... aga ma loodan, et eksin.\
+Kas juhtumisi tõstatas keegi ka keskse RE valimislubaduse - 15 aastaga 5 rikkama Euroopa riigi sekka - "elujõulisuse"? :)\
+Aga lõpuks ka üks ettepanek, kuidas riik saaks oluliselt kokku hoida ja püsikulusid kärpida - tuleks tühistada (või kardinaalselt muuta) Riigihangete seadust. Hetkel on olukord selline, kus - julgen hinnata - selle seaduse väljatöötamise või igapäevase rakendamisega on meie riigis seotud ehk kuskil tuhat inimest. Lisaks veel siis erasektor, kes selleks, et saaks oma hinnapakkumist esitada, peavad kokku panema üsna palju aega nõudvaid pabereid, mis iseenesest (arvestades riigihangete loogikat) on täiesti ebaefektiivne ja tulemuseta tegevus majanduslikus mõttes). Julgen väita, et minimaalselt oleks võimalik sellega ühe aasta riigieelarvest kokku hoida minimaalselt miljard krooni (vastavate ametnike koondamise läbi ning odavamate tööde/teenuste läbi - lisaks saaksid paljud ametnikud keskenduda oma põhitööle, mitte ei peaks olema käppapidi sees hangete asjus, kui tahetakse mingit väikest teenust/tööd sisse osta). Rääkimata siis palju hoiaks kokku erasketor, kes ei pea kogu seda bürokraatiat läbi tegema, kui tahetakse riigile oma teenust müüa.\
+Üks videosoovitus ka finantskriisi teemadel: 60 Minutes - The Bet That Blew Up Wall Street <a href="http://www.cbsnews.com/stories/2008/10/26/60minutes/main4546199.shtml" rel="nofollow">http://www.cbsnews.com/stories/2008/10/26/60minutes/main4546199.shtml</a>
+
+**toivo** · 2008-11-17 07:59
+
+... Eestis ...
+
+**[Olev Vaher](http://vaher.blogspot.com/)** · 2008-11-17 12:18
+
+Suur tänu olulisema kajastamise eest! Kuna teade konverentsist tuli liiga hilja, ei saanud ise kohale tulla.
+
+**Edvard** · 2008-11-17 23:52
+
+Tänan kokkuvõtte eest ! Kas keegi on veel kusagil midagi sellest postitanud?

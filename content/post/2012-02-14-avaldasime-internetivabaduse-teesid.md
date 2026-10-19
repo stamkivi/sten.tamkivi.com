@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Avaldasime internetivabaduse teesid
 author: sten
 type: post
@@ -36,3 +37,15 @@ Kas need on meie õigused internetikasutajatena, mille kaitstuses kindlad olles�
  [3]: http://linnar.viik.ee/
  [4]: http://memokraat.ee
  [5]: http://praxis.ee/
+
+---
+
+## Comments (archived from the old blog)
+
+**albert juur** · 2012-02-15 18:47
+
+Mitte tahtes algatust kuidagi kritiseerida aga... ACTA puhul on preambuli mõju suhteliselt piiratud, sest kui karistusõigus välja jätta, on suur osa IP õigusest EL-i pädevuses. See tähendab, et ACTA Euroopa tasemel vastu võtmisel võivad meile ACTAst tekkida kohustused läbi direktiivide, mis on meile kohustuslikud.
+
+**albert juur** · 2012-02-15 19:18
+
+Ah. Ja argument, et meie seadusi ei ole vaja ACTA pärast muuta on täpselt samal põhjusel absurdne. Kui direktiiv tuleb, siis on meie diskretsioon küllaltki ahtake.

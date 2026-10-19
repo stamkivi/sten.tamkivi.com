@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Plaadiarvustuste metatasand
 author: sten
 type: post
@@ -34,3 +35,11 @@ Inspiratsioon selleks harjutuseks hiljuti kuuldud Kreisiraadio kordussaatest, ku
 
  [1]: http://www.ekspress.ee/viewdoc/BBE0C03AC2986E02C225730700421C42
  [2]: http://evolutionzone.com/kulturezone/c-g.writing/index_body.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres](http://belzaah.blogspot.com)** · 2007-07-10 17:26
+
+Need olid apokalüptilised, mitte akustilised kõlakatedraalid :)

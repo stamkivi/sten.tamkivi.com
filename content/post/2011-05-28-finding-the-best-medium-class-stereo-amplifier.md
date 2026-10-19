@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Finding The Best Medium Class Stereo Amplifier
 author: sten
 type: post
@@ -180,3 +181,24 @@ Thank you: [HiFi Klubi][41], [Hertsius][42], [HiFi Studio][43], [Henrik][44], [E
  [44]: http://twitter.com/henrikroonemaa
  [45]: http://www.eliteaudio.eu/
  [46]: http://www.estelon.com/company/
+
+---
+
+## Comments (archived from the old blog)
+
+**[alastr](http://twitter.com/alastr)** · 2012-10-03 22:52
+
+Totally agree. Had the same dilemma. Nait seemed to be a winner, until I heard Heed Audio. Not integrated in my case, but their monoblocks. With Eclipse TD508mk3 hey sound exceptional. Plus, the sound is so sweet, I could afford adding Nordost Red Dawn (usually on the zingy side) without any trouble, thus enhancing speed and detail even further.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-10-07 02:15
+
+Thanks for sharing further matching component tips, alastr!\
+Nordost cables seem to be super-sensitive indeed, I've struggled with their lack of / subpar shielding when they need to run in a cabinet next to power cables.
+
+**vnndr** · 2012-12-10 23:16
+
+Thank you for this good review of our local market! I am also looking for the Blues+Heed integrated combination. What do you think about it now, after a year of usage? Does it have enough of sheer power to drive Blues properly at low volume level?
+
+**Raptor Jesus** · 2014-07-21 21:17
+
+I have the Heed with the outboard power supply. VERY musical. Like tube gear but with zero hassles and it always sounds the same (no change with warm up because it's always on).

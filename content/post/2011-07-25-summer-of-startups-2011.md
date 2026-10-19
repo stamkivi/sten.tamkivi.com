@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Summer of Startups 2011
 author: sten
 type: post
@@ -76,3 +77,33 @@ Thanks again for the invitation, guys.
  [14]: http://www.jalohelsinki.fi/
  [15]: http://tribestudios.com/
  [16]: http://www.stagecraftgames.com/
+
+---
+
+## Comments (archived from the old blog)
+
+**Miki Kuusi** · 2011-07-26 12:00
+
+I think the question here is whether everyone's willing to contribute together instead of doing their own thing? Thanks for the great post Sten!
+
+--Miki
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-07-26 12:50
+
+Yes, will and positive intent are required of course. Thinking further, though, there is also the negative flip side that needs careful management and could be an even bigger obstacle: multi-country, consensus-seeking co-operation always runs the risk of becoming bureaucratic and thus slow.
+
+So we need to find a way the startup support functions in neighboring markets can consolidate, but not grind to a halt in the process. Sometimes it could be about chipping into a joint pool while swallowing some pride and delegating a lot of decision making power to a few actively managing partners. Or maybe creating a two-layer structure where there is a clear place for ultralocal, fast moving and adaptive initiatives which still have a clear relationship with the broader "regional" umbrella...
+
+With startups dreaming of changing the world, the (nation-)state borders always are a nuisance and barrier, one way or another... Huge advantage US, China, etc have.
+
+WDYT?
+
+**[Alan Mendelevich](http://www.adduplex.com)** · 2011-07-29 08:48
+
+Consolidation of accelerators would make total sense in theory. Honestly (pessimistically?) thinking, I doubt there's enough interesting ideas/teams to support several accelerators in each small Baltic country.
+
+In practice though, I guess, local programs get more attention (and help?) from local media, governments, etc.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-07-30 10:39
+
+Yup, good point and maybe again an argument for some sort of a two-tier approach I mentioned in the previous comment - that would provide some common umbrella (mentor network, funding, brand...) for relatively independent and locally executed programs.

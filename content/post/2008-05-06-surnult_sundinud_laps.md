@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Surnult sündinud laps?
 author: sten
 type: post
@@ -59,3 +60,34 @@ PS: tänan küsimast, lapsega on kõik suurepärases korras.
  [7]: https://www.eesti.ee/est/parast_lapse_sundi/
  [8]: https://www.eesti.ee/portaal/!rrteenus.avaldused?tab=uusavaldus&tutvustus=1&aliik=A05
  [9]: http://www.flickr.com/photos/seikatsu/2470932534/ "Sünni registreerimise vorm by seikatsu, on Flickr"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Dänn](http://www.d2nn.com/)** · 2008-05-06 18:23
+
+Praegu selle vana süsteemiga küll jama!\
+Aga kui hästi läheb siis järgmise aasta alguses saab eesti.ee kaudu sünni registreerida, 8 inimest Helmeses töötavad selle nimel\
+et sul on nappilt aega veel üks korraldada :)\
+Praeguseks hetkeks uued isikukoodid Rahvastiku Registri saadavad aint kaks haiglat, tulevikus peaks kõik seda tegema\
+Aga palju õnne lapse puhul :)
+
+**[Peeter P. Mõtsküla](http://peeterpaul.motskula.net)** · 2008-05-07 10:33
+
+Tõhk, sellist pealkirja ei tohi panna oma plooki. Või siis just peab, sest see garanteerib, et RSS-lugejad (nagu mina) ei piirdu vaid pealkirjaga.
+
+**[sten](http://sten.tamkivi.com)** · 2008-05-07 16:36
+
+Sorry, Wolli, ehk sai pisut liiga sõnumilehelik (karm väide, mis küsimärgiga lahjemaks loputatud) pealkiri tõesti.\
+Aga samas, annab edasi vihje neist emotsioonidest, mis toda vormi lugedes tekivad.
+
+**[siimm](http://siin.blogspot.com)** · 2008-05-09 16:41
+
+Tallinna "Sünd" leht on küll müstiline - hulk linke seadustele ja pdfidele, puudu ainult see, kus saaks asja kohe ära teha.\
+Me siin regministri juures ajame projekte, et saaks omavalitsustes ka teenused veebi ja veebilehed normaalseks, et sealt juba olemasolevad riigi e-teenused üles leiaks jne. Alati oleme rääkinud, et Tallinn on e-teenuste poolest teistega võrreldes esirinnas, aga kui sellist jama toodetakse, siis on piinlik toda mainidagi.
+
+**d-pend5** · 2008-05-09 18:22
+
+See oli aga huvitav kirjeldus - küll see tehnoloogia on imepärane... "enabling technology" tegelikult, see tegeb täiesti uusi võimalusi ka lollakas olla.\
+Just oli meiel beebiga sama jutt, aga Soome enam traditsionaalise süsteemiga. Sellega ei täpselt sellist kohmakust tulnud.

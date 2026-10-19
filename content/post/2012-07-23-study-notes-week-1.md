@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Sloan Study Notes, Week 1
 author: sten
 type: post
@@ -47,3 +48,28 @@ Also, probably most interesting new thoughts already in week 1 came from real-li
 
 Overall volume of reading assigned: 168 pages
 
+---
+
+## Comments (archived from the old blog)
+
+**[Siim Lepisk](http://siim.lepisk.com/)** · 2012-07-24 21:44
+
+Sten, please do keep those notes coming!
+
+**[Ott Kaukver](http://www.facebook.com/people/Ott-Kaukver/536592624)** · 2012-07-24 22:04
+
+keep us posted on those topics on week by week basis (however, I can guarantee you that you won't have time for more than month by month :)) - for me personally it will be interesting to compare with my year at INSEAD. for example - Corporate Social Responsibility topics came in rather late (however ethics was almost the first topic that we discussed).
+
+let me know when you get to hetero- and homoskedasticity, anchoring, overconfidence and other funky and very practical topics.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-07-26 06:22
+
+thanks for the encouragement. :)
+
+Re: schedule, we will have the following core courses in the summer semester, out of which first 3 have kicked off this far:
+
+\- economics / data & decisions (e.g statistics)\
+\- strategy beyond markets (e.g not just CSR, but rather a broader spectrum of how to work with (and against, if needed) non-market actors: governments, NGOs, activists, media...)\
+\- org behavior / org design\
+\- negotiations\
+\- ethics

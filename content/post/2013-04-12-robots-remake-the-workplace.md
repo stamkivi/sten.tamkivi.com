@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Robots Remake the Workplace
 author: sten
 type: post
@@ -175,3 +176,19 @@ Steve Jurvetson, Managing Director, [Draper Fisher Jurvetson][29]; Ajay Agarwa
  [29]: http://www.dfj.com/
  [30]: http://www.baincapitalventures.com/
  [31]: http://www.4moms.com/origami
+
+---
+
+## Comments (archived from the old blog)
+
+**[Alan Murfee](http://twitter.com/safety_welding)** · 2013-04-15 11:18
+
+If robots take on human jobs, the burdens of vacillating work requirements will be greatly relieved off our shoulders. It will greatly enhance our work flexibility as machines can work for longer time and offer a more competitive environment.
+
+**[Steve Jurvetson](http://www.facebook.com/jurvetson)** · 2013-04-16 19:24
+
+Great writeup! thanks. I paraphrased some of the quotes on my post here: http://www.flickr.com/photos/jurvetson/8644729508/#comment72157633257701757 and here http://www.flickr.com/photos/jurvetson/8640552285/
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-04-16 19:40
+
+Thnx. We're getting pretty good in collective geeky conference coverage. :)

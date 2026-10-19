@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Confusing way to say No Smoking
 author: sten
 type: post
@@ -19,3 +20,11 @@ Why go through the hassle of carefully laying out dozens of No Smoking signs _as
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F06%2Fconfusing_way_to_say_no_smokin%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/627929420/ "Photo Sharing"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Agris Koppel](http://agriskoppel.blogspot.com)** · 2007-06-26 15:16
+
+Maybe this is for keeping the cloth on the table :)

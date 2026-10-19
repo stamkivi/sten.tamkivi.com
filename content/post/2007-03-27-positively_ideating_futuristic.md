@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Positively Ideating Futuristic Communicator-Wooer
 author: sten
 type: post
@@ -54,3 +55,37 @@ PS: I also learned a new word I now like: wooo!
 
  [1]: http://wolli.blogspot.com/2007/03/minu-tugevad-kljed.html
  [2]: https://sf1.strengthsfinder.com/faq/$LINGO/0/0/booksite/en/learn_more_home.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[methodik](http://methodik.djstore.ee)** · 2007-03-27 21:10
+
+so the theory is that everyone completely fits to at least one of these boxes if not more? :)
+
+**[methodik](http://methodik.djstore.ee)** · 2007-03-27 21:47
+
+useful! but what's the trick for remaining completely honest when taking those tests?
+
+**[sten](http://sten.tamkivi.com)** · 2007-03-28 10:55
+
+*so the theory is that everyone completely fits to at least one of these boxes if not more? :)*\
+Nope, it is actually a bit more flexible than that. There are I think 36 different strenghts defined and what the test does is to order them into your toplist. And the theory is that you should focus on the top 5, not on trying to get better at, say, \#28-36 on the list.\
+*but what's the trick for remaining completely honest when taking those tests?*\
+Very good point. With this particular one I never felt like cheating (architecting my choices with a specific result in mind) because:\
+\* its an online test with something like 150 questions that each have a short timespan: e.g you don´t have time to think what´s the most appropriate answer, you have to react more from your gut or you miss and get the next question\
+\* each question is about choosing how you feel about two claims on the scale of 5 (neutral or a bit/completely towards one). The trick is that the claims are never contradictory, you pretty much have to choose between 2 good or bad things. I guess they can extract additional information about you from this, how often you really can decide clearly. I think I stayed mostly in the netutral +/-1 zone.
+
+**[seikatsu](http://sten.tamkivi.com/2007/03/my_first_opencoffeclub.html)** · 2007-03-29 16:34
+
+**My first OpenCoffeClub**
+
+I attended today's OpenCoffeeClub event, the one in London. It is a loose framework of entrepreneurial meetup events that Saul Klein recently kicked off, as part of his recent broader initiatives to encourage interaction between and raise the confidenc...
+
+**[michael](http://wagshy731.blogspot.com)** · 2007-03-30 18:45
+
+interesting, I found myself strongly towards one or the other.\
+But philosophy of doing what your best at and dropping what your not is something I attempt to use. Hence you will not see me in marketing discussions, or team coaching psychiatric attempts because I simply don't get excited by them, and therefore am not good at them.\
+It's very counter 'general' schooling discussions, but it fits well in environments where there is not time for learning.\
+Of course, results of one test at one time while in a certain humour are never to be precise, but having done 15 of these over twenty years, they do show a remarkable consistency. (which is different to my correlation with horoscopes)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: A little rant on values and innovation
 author: sten
 type: post
@@ -44,3 +45,11 @@ The rest of the [presentations of the day are available in video too][8], of cou
  [6]: http://www.youtube.com/watch?v=x48FDd1ZAtg
  [7]: http://www.youtube.com/watch?v=ok1pyoxTwUw
  [8]: http://www.re-start.ee/eng/majandus-reformierakond-videod.html
+
+---
+
+## Comments (archived from the old blog)
+
+**Mark** · 2008-12-30 14:10
+
+Sten, your comment about tolerance, or to be more correct about its lack in Estonia is very valid. Wish we all could contribute a bit to fix this cultural aspect...

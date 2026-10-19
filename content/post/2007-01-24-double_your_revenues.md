@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Double your revenues
 author: sten
 type: post
@@ -23,3 +24,19 @@ However, I never thought of the upside of those annoying coins. The owners of bi
  [1]: http://www.flickr.com/photos/seikatsu/375512960/ "Photo Sharing"
  [2]: http://www.eestipank.info/pub/en/yldine/pangatahed/pangatahed/
  [3]: http://www.riso.ee/en/pub/2004it/p432_s.htm
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres](http://asehr.blogspot.com)** · 2007-01-31 23:02
+
+Actually, imo paper money is more out of date than coins since they have a shorter life span and are easier to counterfeit. In Canada we got rid of \$1 and \$2 bills and switched them with coins and the U.S. has unsucessfully tried a number of times to introduce a \$1 bill. Switching to coins especially helped homeless people and charities because people often gave them more money than they would if they'd given bills.
+
+**[Andrus](http://tuhat.pravda.ee)** · 2007-02-03 12:02
+
+This feature may also slash the expected revenues in half, don't you think :)
+
+**[sten](http://sten.tamkivi.com)** · 2007-02-11 17:00
+
+Andrus, the preconception should be that the actual cost base for a service like this is 0.1 EUR per user or less... :)

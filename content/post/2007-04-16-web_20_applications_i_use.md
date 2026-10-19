@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Web 2.0 Applications I Use
 author: sten
 type: post
@@ -60,3 +61,36 @@ And last but not least there is the geeky interest into where the web and it&#82
  [14]: http://feedburner.com
  [15]: http://creativecommons.org/
  [16]: http://en.wikipedia.org/wiki/Mashup_%28web_application_hybrid%29
+
+---
+
+## Comments (archived from the old blog)
+
+**[Anne-Aymone](http://www.plazes.com)** · 2007-04-16 16:03
+
+Hi Sten,\
+Would you like to take part in the exclusive sneak preview of the new Plazes?\
+If yes, please send me your name, email address and blog URL at: anneaymone@plazes.com\
+Best,\
+Anne-Aymone
+
+**rayc** · 2007-04-16 20:59
+
+have you tried Jaiku from our Finnish neighbors? I prefer it to Twitter.
+
+**[methodik](http://methodik.djstore.ee)** · 2007-04-16 23:43
+
+As you seem to be brave to use Personalized Google, haven't you ever experienced such thing as Google-Paranoia? ;)
+
+**[sten](http://sten.tamkivi.com)** · 2007-04-17 10:09
+
+rayc \>\
+Haven't really tried Jaiku, but heard of it. As usual with these kind of services, you tend to land where your friends invite you to. I wouldn't twit if they didn't nudge me, to use the Twitter-lingo. :)
+
+**[sten](http://sten.tamkivi.com)** · 2007-04-17 10:16
+
+methodik \>\
+Of course, there are risks involved with any data you put online. I'd refer you back to the transparency point in my post.\
+First of all, I just don't think there is that much of what I keep with Google that I badly need to hide. My truly secure communications happen over Skype chats & calls. My business mail & calendar are elsewhere. My personalized Google homepage has panels such as summary output from Google Reader, a few Google Analytics graphs and a <a href="http://sten.tamkivi.com/2007/01/seikatsu.html" rel="nofollow">japanese word of the day</a> panel. :)\
+It becomes the paranoia-compromise point of course if you start thinking what Google could do with not the data itself, but the potential metalayer of analysis of the relations between me and various parties (like regular readers of this blog & other bloggers I read) and my usage patterns of various data.\
+Thanks, this is a good discussion to have.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Tallink Taxi – Service Matters
 author: sten
 type: post
@@ -36,3 +37,19 @@ It was so different, polite and genuinely caring that I&#8217;m almost a little 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F05%2Ftallink_taxi_service_matters%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.tallinktakso.ee/ee/content/
+
+---
+
+## Comments (archived from the old blog)
+
+**Priidu** · 2008-05-30 14:25
+
+That is \*exactly\* my experience with Tallink Taxi from yesterday morning. Perhaps it was the same dude. :)
+
+**[kaur](http://no.spam.ee/~kaur)** · 2008-05-30 16:26
+
+Sounds like a scam. Genuinely excellent service from a taxy company? Come on...
+
+**[Vincent Oberle](http://www.oberle.org)** · 2008-05-30 20:06
+
+No way, someone made a joke on you :)

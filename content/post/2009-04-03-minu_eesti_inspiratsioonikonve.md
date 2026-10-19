@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Minu Eesti Inspiratsioonikonverentsi ettekanne
 author: sten
 type: post
@@ -146,3 +147,11 @@ Minu Eesti konverentsi jutupunktid
  [2]: http://www.boms.ee/Video.aspx?VID=9355
  [3]: http://www.boms.ee/Video.aspx?VID=9353
  [4]: http://www.boms.ee/Video.aspx?VID=9356
+
+---
+
+## Comments (archived from the old blog)
+
+**[Jaanus](http://www.jaanuskase.com/)** · 2009-04-05 07:24
+
+ei ole selle konverentsi kohta mingit lehekülge vms, kus leiaks organiseeritud nimekirja videotest.

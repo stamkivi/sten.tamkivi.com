@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Soov Vabariigi aastapäevaks
 author: sten
 type: post
@@ -31,3 +32,12 @@ Riigid on kujuteldavad, neid ei eksisteeri objektiivses maailmas &#8211; nagu [D
 
  [1]: http://paber.ekspress.ee/viewdoc/74D649787EF36A4DC225755300511A11
  [2]: http://memokraat.blogspot.com/2009/02/maailm-vajab-eestit.html
+
+---
+
+## Comments (archived from the old blog)
+
+**Boris** · 2009-02-24 22:12
+
+vabandust, ma viitsisin Vaariku artiklit ainult sõnadeni "Edward Lucas" lugeda.\
+lugupidamisega,

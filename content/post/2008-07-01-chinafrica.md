@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: ChinAfrica
 author: sten
 type: post
@@ -45,3 +46,21 @@ This report on what China has done in Africa over just 5 years should give you s
  [3]: http://fastcompany.com
  [4]: http://www.flickr.com/photos/seikatsu/2625410733/ "The Race for Raw Materials by seikatsu, on Flickr"
  [5]: http://www.flickr.com/photos/seikatsu/2625449195/ "Beijing's Leverage by seikatsu, on Flickr"
+
+---
+
+## Comments (archived from the old blog)
+
+**Bertrand** · 2008-07-01 20:57
+
+Very hard to comment without writing down blunt statements. That's a really interesting and rich, piece of lecture.\
+Maybe a few things...\
+Soft values have been pushed only recently through westerners' policies (for France : it was made official during the Franco-African summit of La Baule in 1990). China is far from having to face the same kind of pressure from NGOs' and internal public opinion and therefore is far less likely to follow the same path. It lets only the international "pressure of peers" as solution to get some evolution of Beijing's attitude. Who is going to be a "peer ? :-)\
+But facing the size of the issue, it seems anyway slightly difficult to imagine a solution that will not have a high cost for China and the developed world.\
+Secondly, it makes people think twice on the responsibility of emerging giants towards the rest of the world : it is definitely not enough to say to locals : "we share the same old ideology and fight against colonialism" while scraping their continent down to bare rocks. There will be tens of millions of refugees driven away from their countries by the eco-disasters that will follow the actual massive "extraction" of raw materials. And we are \*all\* going to have to participate in their rescue (either we are willing or not, to do so). That would be slightly irritating to have to bear most of the cost of this predator-minded policy of today's China. Do we have some politician able to say it loud ?
+
+**[Märt Ridala](http://martridala.blogspot.com)** · 2008-08-20 19:58
+
+China is an issue! I totally agree. But in my mind we, The Western Civilization, have accepted the current economic and moral situation. We are most happily buying the things produced in China made from the material imported from Africa. Until we keep doing that our political statements about Tibet or statements that "China is colonizing Africa" are useless and show double moral standards. ;-) "It is not OK to use cheap labour and do a lot of CO2 emissions, but it is OK to buy products produced this way.... because they are really cheap."\
+Actually I don't think that we have the right to moralize China about communism, colonization or human rights. Human rights are not an absolute truth! (They are that only for the Western Civilization.) But I do think that for the sake of the Earth we should implement import taxes on things produced cheaply by "saying no to toxic waste management and saying OK to any kind of CO2 emissions."\
+Huntington is good reading! :-)

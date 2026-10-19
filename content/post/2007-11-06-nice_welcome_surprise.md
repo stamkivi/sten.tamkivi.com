@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Nice Welcome Surprise
 author: sten
 type: post
@@ -33,3 +34,29 @@ Thanks for the neat surprise, Radisson! Estonian has just a bit over 1 million s
 
  [1]: http://www.flickr.com/photos/seikatsu/1880021912/ "Photo Sharing"
  [2]: http://www.radissonedwardian.com/londonuk_kenilworth
+
+---
+
+## Comments (archived from the old blog)
+
+**another customer;)** · 2007-11-06 16:41
+
+Well, if a friendly note is all they can do to make you feel good...\
+Not quite enough for me though!
+
+**[sepp](http://sepp.offline.ee)** · 2007-11-06 21:42
+
+In Estonian, "kallis" means also "expensive". You're not cheap, are you ;)
+
+**Juha** · 2007-11-08 00:06
+
+The fact that Kenilworth now employs a Estonian lady (met her in the reception) might have something to do with the letter...
+
+**[Siki](http://sikisunshine.spaces.live.com/)** · 2007-11-30 14:48
+
+Hei,\
+ei see küll eestlanna abiga tehtud pole. Pigem kasutatud mingit otsetõlkeprogrammi vmt. Väga "inglisekeelne" tekst:\
+"If there is anything we can do.... please dont hesitate to contact.."\
+Aga see, et üldse selline tervituskiri külalise emakeeles üllitatakse, on super! Grammatiline korrektsus on siin teisejärguline.\
+Respekt!\
+:)

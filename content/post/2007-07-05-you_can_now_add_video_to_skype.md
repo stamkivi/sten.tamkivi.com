@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: You can now add video to Skype Moodmessages
 author: sten
 type: post
@@ -26,3 +27,20 @@ Please [download Skype 3.5beta for Windows][2] and play around with it. And [pin
  [2]: http://www.skype.com/go/getskype-beta
  [3]: skype://sten?chat
  [4]: http://forum.skype.com/index.php?showforum=143
+
+---
+
+## Comments (archived from the old blog)
+
+**[Jüri](http://jk.nagi.ee/)** · 2007-07-05 19:59
+
+Too bad you can't add your own videos, just select from the Metacafe clips. Not very personal, is it :) You should be able to upload your own clips, most importantly 3gp mobile videos.
+
+**[sten](http://sten.tamkivi.com)** · 2007-07-05 20:36
+
+Well, actually you can add your own clips, but in a more roundabout way at this stage - just upload them to Metacafe. (There is even a banner for this on the right side of the Metacafe gallery)\
+And stay tuned for more content providers.
+
+**[Jüri](http://jk.nagi.ee/)** · 2007-07-06 11:55
+
+Right, old greek or romans had a saying about this, something about fixing you teeth not through your mouth but another hole ... ;)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'On Bridges, Part 2: Why Should Europe Care for Silicon Valley'
 author: sten
 type: post
@@ -101,3 +102,52 @@ In the final post of this series we will further discuss what these other, non-f
  [11]: http://angel.co/
  [12]: http://andrewchen.co/2013/10/09/the-rise-of-fat-venture-capital/#
  [13]: http://en.wikipedia.org/wiki/Query_theory
+
+---
+
+## Comments (archived from the old blog)
+
+**[James Ferguson @kWIQly](http://blog.kwiqly.com/)** · 2013-11-21 00:18
+
+\>\> Europe still is where the best engineers I know are, it is the core of my network, my actual unfair home court advantage.
+
+Here you have triggered a passion in me ...
+
+There are whole industries that have toy-town versions of the real thing in the US. I'll save the best to last but to illustrate areas where the US is not on the map.:
+
+Trains - Who commutes by rail in the US ?\
+Languages - Enough said.\
+Architecture - Yes old cities are quaint (but also diverse and functional)\
+Sports - Rugby, Cricket, Football, Skiing (OK they have a few skiers). And for fun who-ever heard of these sports in the US...
+
+From Estonia ! http://www.youtube.com/watch?v=o6ugc3MmeDg - Kiiking (not so much an industry as a cool distraction) and even more obscure\
+From Switzerland http://www.youtube.com/watch?v=GdIHOV6VGNU - Hornussen
+
+So what happens when you take the best engineers, mix them with an huge growth industry where the US has long been a cultural laughing stock, and combine a need for deep domain knowledge, to be applied in the context of emergent big data technologies.
+
+\- There you find Energy Efficiency - not cleantech requiring massive hardware or weird new unproven technologies, but cold, hard analytical software engineering.
+
+Now add some cultural diversity where for example our Estonian and Alpine Buildings use completely different heating technologies, and you see the US as an intellectual backwater. In energy efficiency in buildings, the US is so backward it isn't even a laughing matter, in fact, it's probably not even PC any more to use the term "US" and "efficiency" in one sentence.
+
+So, yes while we visited SF for example to present and win at O'Reilly's fluent conf, it was only because we knew we could - and it helps web exposure a little !
+
+For serious things e.g. to develop, hire, establish traction, diversify product and to scale are all things where cultural homogeneity are distinct disadvantages. And that's why we, like skype don't need to start with Stanford graduates or US pay-scales.
+
+Europe was the home of education (universities), philosophy (greece), the industrial revolution (uk), real automation (germany) and from a VC perspective it may be down - but it isn't out.
+
+Wait until a few more European unicorns are seen, the tide will turn.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-11-21 00:35
+
+Ha, thanks for the contribution, James - I'm afraid you're giving away with where I'm steering towards with the upcoming Part 3 post... ;)
+
+**didzis** · 2013-11-23 19:25
+
+I consider startups as early adopters for location agnostic business. Work in the cloud is not the privilege of freelance translators only. Online community and network becomes the primary environment, Seedcamp network is a good example in Balaji's article (http://www.wired.com/opinion/2013/11/software-is-reorganizing-the-world-and-cloud-formations-could-lead-to-physical-nations/)\
+Is Grabcad Estonian or US startup? What defines the origin, country of incorporation, homeland of founders or the location of HQ?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-11-23 21:31
+
+In my personal experience (managing multi-site teams at Skype), to be truly effective you have to build relationships in person and then you can maintain & evolve them using cloud tools. That is bound to evolve, as Balaji predicts, but I'd say this is the current state of things, say 2005-2015(20?).
+
+If you believe that startups are the growing extension of their founders idea+execution, you can follow the logic that in the early days the startup is where the founders are, physically. Whom they hire personally, how they lead their growing team on site, etc will have the largest impact of the culture and success of the company later. Some founders manage to share their time (Hardi from GrabCAD, and many other his peers spend time between Estonia & US), others settle down on one site - and that's where eventually the senior leadership will gather and the heart of the company will be. Country of incorporation, hosting locations & other technicalities are completely irrelevant here, I'd say.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Uutmoodi ettevõtjate riik
 author: sten
 type: post
@@ -67,3 +68,11 @@ Teadmistemahukas äri vajab majanduskeskkonnalt muidugi enamat kui madalad maksu
  [2]: http://sten.tamkivi.com/2008/11/restart_konverentsilt.html
  [3]: http://sten.tamkivi.com/2008/11/tarkade_inimeste_eesti_tegevus.html
  [4]: http://www.epl.ee/arvamus/408029
+
+---
+
+## Comments (archived from the old blog)
+
+**[BC](http://voyag.blogspot.com/)** · 2008-11-26 13:53
+
+sul oli üks kalkulaatori link pandud delicious'isse, siin üks viisakama välimusega sama asi: <a href="http://www.kalkulaator.ee/" rel="nofollow">http://www.kalkulaator.ee/</a>

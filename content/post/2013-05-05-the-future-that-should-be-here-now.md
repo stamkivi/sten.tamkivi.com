@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: The Future That Should Be Here Now
 author: sten
 type: post
@@ -131,3 +132,88 @@ UPDATE: re-used the content above to experiment with Medium: [the post with inli
  [6]: http://e-estonia.com
  [7]: http://e-estonia.com/components
  [8]: https://medium.com/this-happened-to-me/a569c87b42ad
+
+---
+
+## Comments (archived from the old blog)
+
+**[Rauno Rüngas](http://www.qminderapp.com/)** · 2013-05-05 15:58
+
+We did imagined a world with the DMV line redesigned, and Sten was one of the first see and encourage us at StartupSauna WarmUp in Tallinn a while back.\
+By today we have created Qminder - the simplest queue management system and giving people their time back around the world. www.qminderapp.com
+
+"Demand that future, or even better – dream it, define it and deliver it every day."
+
+Thanks Sten and keep on demanding!
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-05-05 22:27
+
+Indeed, Qminder plugs well into this storyline. However I think the process design at DMV could use some unpacking from far before a queue of any kind assembles...
+
+**Some Guy** · 2013-05-06 00:01
+
+I agree that we should think about processes the average citizen faces, and look at how those can be improved. Because of volume, the time saved overall can be tremendous.
+
+However, I also think you need to look at processes that the average person does every day, not the more rare situations. How many people need to protest parking tickets? The process isn't online, but there is a form you can fill out and mail it in:http://www.sfmta.com/cms/penf/documents/ARPROTESTFORM.pdf
+
+You write about how difficult it is to mail something, but I don't see why. Just about everyone passes a mailbox in the course of their daily life.
+
+Looking at taxes, the US tax system complexity has nothing to do with technology, but rather the government's interest (and we'll assume the people as well) in legislating behavior through the tax system (tax credits for this and that, deductions for something else, etc). The US tax system is overly complex, which can be witnessed by the fact that people need to engage expert accountants or use specialized software (TurboTax, Taxcut) to do them. The complexity comes not from technology, but from the overall system.
+
+Now let's look at your DMV example. On the California DMV site, you can renew your driver's license and car registration without every having to go to their office. You can do it all online or perhaps through mail.
+
+Meanwhile, on Estonia's DMV site (http://www.mnt.ee/?id=11342) you can't renew your driver's license or registration online at all. Want to sell a car in Estonia? Both buyer and seller need to go to the DMV together. In the US, the seller can just show up with a signed title. Want to turn in old license plates? In my state, I can either mail them in, or there's a special kiosk at the DMV for this, with no waiting.
+
+Or let's look at the Estonian banking sector. How do you get a debit or credit card in Estonia? You have to go to a specific bank branch and pick it up. In the US, it comes in the mail. My bank in the US doesn't even have branches - I interact with them online and by phone.
+
+Next let's look at the Estonian ID cards and the ability to digitally sign documents. It's not accepted in Estonia by banks as a power of attorney (I know, I tried), nor by notaries. I had to get a notarized power of attorney, and then an apostille, to have a power of attorney accepted in Estonia.
+
+If you look at the San Francisco city government's website, the online services available to citizen largely reflect the types of activities they will need, like reporting a broken street light, or paying a parking ticket. How do you report a broken street light in Tallinn? There's no form for it last I checked (just a general contact form - avaldus). Sure, you can request a building permit online in Tallinn, but how often does the average citizen do that? Here's a list of services from the city of San Francisco: http://www.sf311.org/
+
+I agree with you that there is plenty of room for improvement, especially in the tax system. However, I think the time being wasted in the US is not as bad as you say, and the Estonian "e-country" isn't so automated and smooth as people think either.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-05-06 04:00
+
+Thanks for the thorough and critical read and response! I am far from claiming Estonia is a perfect example (let alone how Tallinn is governed - even if they do have a "report a broken streetlight" hotline), as I underlined this just happens to be the example I know.
+
+Some of your counterexamples are actually quite interesting - as I have received debit/credit cards by mail in Estonia if that's what I want, never visited DMV to buy a car and am yet to run into a something I needed but couldn't do with the ID-card (have not tried power of attorney stuff)... I think there is a whole another topic embedded here: which of these annoyances are generic and which just a factor of being an alien? I know my student-visa based, social security and credit history-less presence makes me less of a human in CA anyway, when dealing with banks, telcos, IRS or whoever. To some extent this is fine, I understand I am a guest and this state should not be designed for me, but its citizens foremost. Yet, I for sure I would want the generally digital Estonia be much more welcoming for anyone coming from outside.
+
+Oh, and I apologize, but "what's difficult about sending snail mail" is quite an amusing positioning of the question for me - much like "what's difficult about taking a boat across Atlantic". Why would anyone ship large volumes of atoms if shipping the exact same information as bits is possible? To burn more oil, cut trees for paper and create non-productive jobs (lifting bags, opening envelopes and retyping info?) in the entire supply chain? For sure it is not to transport information actually required for the process in the most efficient way for citizens, customers or taxpayers...
+
+**Some Guy** · 2013-05-06 06:22
+
+Fair enough on the alien vs citizen in a country. I do have an Estonian ID card (and isikukood), but I am not a citizen, so maybe things are by nature going to be more complicated for me.
+
+I agree that snail mail is not the most efficient if things can be done otherwise (and I agree SF should accept online appeals -- my state does for example). What I meant is that snail mail is not that difficult to use, and in fact I think the US postal system works remarkably well if you consider the cost, delivery times, and volume of mail they handle daily. The way I interpreted your post is that you found the process difficult to find a stamp and mail a letter, and it shouldn't be.
+
+Estonia has an excellent postal service, in that pretty much the whole country is next day delivery. I was always surprised how Estonians wanted to meet to give me some item or piece of paper that could have been easily mailed, apparently out of distrust in the efficiency of the postal service there. I always found it to work perfectly, which cannot be said of some other countries in Europe in my experience.
+
+The reason is bring this up is that I think a functioning, efficient postal service is one of the necessary elements for businesses to flourish, and I consider it part of a country's vital infrastructure just like highways and electricity.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-05-06 07:36
+
+Yeah, indeed, there is the legal status, and then just the mental models that develop when you grow up in a certain environment. Maybe I would be gentler on mailing cheques if I had seen my parents and grandparents do it without ever raising an eyebrow... But then again, maybe that's where some external feedback becomes useful, both ways.
+
+Re: postal service, I do agree as well that it is part of an important infrastructure, and the larger the nation, the more complex to run an efficient system (thinking just of the outrage USPS suffered over deciding to kill Saturday deliveries of letters - a fully rational decision IMHO). And e-commerce is a perfect example - you need feet on the ground to deliver the atoms you bought, but for sure you don't need them to place the order (information), close the transaction (information) and move the money (information). But I guess we're in agreement here anyway.
+
+And for me the personal snail mail friction is not the lack of mailboxes, but the fact that I've chosen not to own a printer (one can \_almost\_ study paperless at Stanford), I don't stock a stamp or envelope for 99% of information-based transactions in my life. So every time one (irrationally) comes along, I reserve the right to question why. As I believe 5-10 years from now there will be more rather than less weirdos like me. :)
+
+**Andrew Atkins** · 2013-06-03 05:11
+
+Interesting topic (saw it after someone shared it on Facebook), but I would argue that the premise upon which the presentation was built on is a bit flawed.
+
+One of the key questions the presentation started with was why do the banks in the US still use checks? The banking system in this country is hundreds of years old. Sure, that by itself is not the reason not to innovate, but it just serves as a reminder of how complex the problem may be. Estonia has perhaps a handful banks, if that, all of which built its infrastructure in the country in the last 18 years or so. The clearing system and the corresponding infrastructure in the US (http://goo.gl/bI7fe) handles money movements worth almost \$500 trillion per year. There are so many players in the ecosystem of funds movement that you simply cannot redesign the ecosystem in a few decades. Estonia started from a blank sheet in the early 1990s, so you really end up just comparing apples and oranges. Yes, money movement is involved, but it's a totally different scale, and a different set of problems, which you can't simply change by changing legislation or by funding innovation at a single bank.
+
+Your anecdotal encounter with the public school is not surprising at all. First, you can just use online bill payment to make a payment. Very electronic experience--doesn't clear until a few days and although the bank actually issues a check to FED from the user's perspective it's a simple online payment. You can do it from your iPhone too if you'd like. Another thing to remember is that public schools do not accept payments as part of their daily operations, so having a Square-enabled device or some other POS device as part of their daily operations is probably not their top-most priority. Also, it's a reconciliation problem. It's easier for the older generation administrators to put a checkmark on paper and track who has paid than to start cross checking student IDs on a banking platform. They would also have to factor in the credit card fees, etc. Also, they are not in the business of making your life easier.
+
+The second question that was raised was along the lines of: "How could any federal or local government plicate something like he e-Estonia platform?" I think you "preached" to the wrong audience. The entrepreneurs (or at least the type that would build solutions for the problems you describe) are usually motivated by revenue. The revenue source is determined by the government's (federal or local) willingness to fund these types of projects. Funding has to be competitive, only then can a problem attract the best ideas. So the flaw is not so much in the lack of willingness to innovate in this area (the role of business schools graduates, IT community) as it is in the lack of willingness to fund the innovation (by the politicians). I would argue that the only reason Estonia was able to build the ecosystem, in addition to their willingness to invest into the incubator projects (http://en.wikipedia.org/wiki/Tiigrih%C3%BCpe), was simply because they had carte blanche prior to 1991 and the country has the adult population of less than 1 million. Although it is unclear how much of that funding was just given by the EU; so no big sacrifices were necessarily made even by the local politicians and government. Many of these projects were and probably still are funded by the EU tax payers.
+
+Finally, the comparison of efficiency and turning those minutes into lifetimes is cute, but I'm not sure how it really illustrates much. I would argue that 10 minutes of daily bureaucracy is actually pretty good, depending on how much you deal with the public sector. The same argument can be made about reading or writing emails, responding to blogs (pun intended), consuming news content, etc., even eating or going to bathroom. Lots of lifetimes are "spent." Just like schools are not in the business of making your life easier, the same goes for local governments. Did anyone in this thread think for a minute why protesting of tickets is not available online? Just a wild guess: it is there to lower the incentives of doing so in the first place; because people on average are whiners (especially the generation Y--the self-entitled brats), so the government would want only those to protest who truly feel that they were wronged. Put the service online and you'll need a small army of people to process the claims because they would be too numerous.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-06-03 07:47
+
+Thanks for putting in time for the lengthy addition to the discussion. I am a bit confused about the link between "premise of the talk being flawed" statement and the following arguments, though. US and Estonia different - for sure, for good reasons a few of which you listed. For sure I did not hold an assumption this is a 1:1 comparison, or that the solutions should be identical. To a large part I was speaking exactly about the differences as they can be seen by a simple user - and suggesting maybe there is stuff to learn from each others, not to settle with status quo as the inevitable...
+
+And I do disagree strongly with counter-innovation suggestions like "public services need to be broken because that's how they've always been, it makes the life of bureaucrats easier and change is complex". This is only human, of course, we get a fair share of that back in Estonia too - and progress can only be made once enough people zoom out to remember who exists for whom in this picture: customers for the bank or vice versa? State for the citizens or the other way around? You might not like the "self-entitled brats of gen Y", but if you're a public official elected or hired by them (among others), you better get used to understanding what kind of services they expect.
+
+And yeah, extrapolating time waste can be argued around, but it does stand as a common technique in assessing potential ROI of user experience improvements. And as a small nuance, your examples of "reading emails, consuming news and responding to blogs" are all mostly examples of things that you do by choice, things that you want to do. Paying taxes or renewing a licence are things that you have to do (leaving aside a passive-agressive "go live somewhere else if you don't like them"), changing for me the premise for how much time waste forced upon users should be tolerated. Another distinction I tried to get across with this speech.

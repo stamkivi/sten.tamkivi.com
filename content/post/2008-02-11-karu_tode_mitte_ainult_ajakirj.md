@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Karu Tõde, mitte ainult ajakirjanike kohta
 author: sten
 type: post
@@ -29,3 +30,16 @@ Kohtustuse-osa kõrvale jättes, võiks kehtida ka hea bloggeri kohta?
 
  [1]: http://jakobkaru.blogspot.com/
  [2]: http://paber.ekspress.ee/viewdoc/C5651AE5B43D80ABC22573E500350D01
+
+---
+
+## Comments (archived from the old blog)
+
+**[kaur](http://kurinurm.blogspot.com)** · 2008-02-11 12:38
+
+Eieieiei. Blogimine on palju laiem nähtus kui ajakirjandus. Blogi eesmärk võib olla ka puhtalt isiklik. Mina näiteks kirjutan eelkõige iseendale, sorteerides igapäeva-elust välja asju (mõtteid, tegusid, muljeid..), mida ma tahan pikemalt meeles pidada ja hiljem uuesti lugeda. Mõni teine kirjutab blogi puhtalt eneseteraapiaks. Jne. Lugejate harimine või neile millegi pakkumine võib olla eesmärk, aga ei pruugi.\
+Või ei mahu isikliku märkmeraamatu / treeningupäeviku / hingepiinade väljakirjutajad "hea bloggeri" alla?
+
+**[Parasiil](http://parasiil.blogspot.com)** · 2008-02-11 22:05
+
+Ei jah, mina blogin ikka sellepärast, et järeltulevad põlved ei jääks lolliks :P

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: SkypePrime meets Hite Prime
 author: sten
 type: post
@@ -29,3 +30,11 @@ Skype Prime is _the_ way to share advice, knowledge or services over Skype to an
  [5]: http://www.skype.com/intl/et/download/skype/windows/
  [6]: skype:sten?call
  [7]: http://www.skype.com/help/guides/skypeprime_create/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Ivan Veretelnyk](http://primeskype.com)** · 2007-07-25 11:17
+
+You could find directory for Skype Prime users at <a href="http://primeskype.com" rel="nofollow">http://primeskype.com</a>

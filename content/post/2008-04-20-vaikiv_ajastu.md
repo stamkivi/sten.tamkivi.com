@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Vaikiv ajastu
 author: sten
 type: post
@@ -39,3 +40,16 @@ Seepärast tahangi öelda, et tubli, Mele! Väga selgelt ja lihtsalt oled kirja 
  [1]: http://sten.tamkivi.com/mt-search.cgi?tag=politics&blog_id=1
  [2]: http://www.ekspress.ee/2008/04/17/areen/2250-puhta-eesti-mytoloogia
  [3]: http://www.epl.ee/artikkel/288733
+
+---
+
+## Comments (archived from the old blog)
+
+**Daniel** · 2008-04-21 23:37
+
+Ilmselt jõuab üha rohkem inimesi arusaamisele, et anonüümne kommentaar pole mitte sõnavabadus, vaid selle vaenlane. Samas ei tasu leimarite pärast veel jätta midagi kirjutamata, sest siis on nad just saavutanud oma eesmärgi. Steni mõtted on mulle alati endalegi hoogu andnud, ma lihtsalt pole sellest seal ruumis rääkimas käinud, võib olla peaks. Keep going.
+
+**Kris Haamer** · 2008-04-22 11:27
+
+Ei oskaks rohkem nõustuda. Samas nooremate inimeste seas (näiteks TLUs) on õhkkond mulle tundub palu vabam ja avatum.\
+Üks huvitav podcast konverentsilt kus samu teemasid Kanada kontekstis arutati - CBC Radio: The Best of Ideas – Canada: Nation or Notion?

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: President’s Speech on Innovation
 author: sten
 type: post
@@ -73,3 +74,37 @@ I wish success to the conference. Thank you for your attention.
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F09%2Fpresidents_speech_on_innovatio%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/2826689665/ "President's opening address by seikatsu, on Flickr"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Vincent Oberle](http://www.oberle.org)** · 2008-09-08 22:22
+
+Thanks for sharing this. It feels good to read this.\
+I especially liked the part on the need of great universities. I think this is the key aspect in the long term, and something clearly achievable for Estonia: The basis with primary and secondary educations are there, Estonia has shown it can focus on specific goals (being small helps there) and I really think Tallinn or Tartu can be very attractive to foreign students - and later foreign workers.
+
+**[Märt Ridala](http://martridala.blogspot.com)** · 2008-09-08 23:37
+
+Good speach! I think the next thing we should do in Estonia is to have some more concrete programs, campaigns, measures done to really do something about the innovation. There has been a lot talk about it so the mood is ready for something new and .... innovative. :-)\
+For the last couple of years the innovation and enterpreneurship of estonians has been low also because our salaries just have been rising constantly and all the good people have always been needed by all the companies. So on a personal level of economics creating your own business just does not make much sense. Now, at least the growth of salaries has stopped and maybe we will soon see people wanting to do something innovative on their own to keep their families economic situation on the rise.\
+The one idea that I think would be useful is "the startup enterpreneur salary". Something like our "mother's salary". If you start a new business the government could help you by paying you allowance for 6 months in the amount of your last years salary. This would most certainly help our specialists in starting new businesses. Of course there should be many measures to prevent misuse of such an allowance, but this technicialities can be overcome.
+
+**Westhighlander** · 2008-09-09 17:41
+
+A good speech however I think there is a missing ingredient in his litany of innovation:\
+Entrepreneurial Culture\
+As a citizen of a leading innovation economy center (Boston) and a past resident of another center (Austin Texas) I think that I can identify a key ingredient that is not included in the address by President Toomas Hendrik Ilves\
+Specifically it is a culture of innovation and risk\
+It is present in various forms in various places -- but it manifests itself in one word -- entrepreneurship\
+If your society doesn't encourage the taking of risk and the opportunity to benefit from it -- It doesn't matter how many university's that you have or the "quality of life" or even the tax rate\
+On the other hand if your society fosters entrepreneurial activity (e.g. Boston, Silicon Valley, Austin, Research Triangle in North Carolina, etc) -- you will all benefit from it -- despite high taxes, potentially a less than stellar quality of life\
+Weaty
+
+**[sten](http://sten.tamkivi.com)** · 2008-09-12 13:37
+
+Weaty,\
+fully agree. There is an underlying mindset shift that needs to happen. However, it is a bit of a chicken and egg issue as well - can the society change values first or should we first create an environment encouraging innovation, which would lead to a gradual change in people's values as a result?\
+I actually recently wrote a longer piece on this, a public call for entrepreneurship and risk taking. Unfortunately it is in Estonian.\
+BR,\
+Sten

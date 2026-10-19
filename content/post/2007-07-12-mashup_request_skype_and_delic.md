@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Mashup request: Skype and del.icio.us'
 author: sten
 type: post
@@ -46,3 +47,16 @@ Thanks. Let me know where I can download it when ready! And don&#8217;t forget t
  [2]: https://developer.skype.com/wiki/MashUp
  [3]: http://creativecommons.org/licenses/by-sa/2.5/
  [4]: http://del.icio.us
+
+---
+
+## Comments (archived from the old blog)
+
+**[Peter Parkes](http://hiddenchemistry.com)** · 2007-07-12 15:57
+
+Seeing as I'm unlikely to have time to cobble anything together for the competition, could whoever's going to do this allow me to bookmark blacklisted sites as private bookmarks, rather than ignoring them altogether. Thanks :)
+
+**[maru](http://www.6stops.com/)** · 2007-08-17 02:39
+
+Hi! I really like your idea.\
+I'll try to convince my boss ;)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Correction: Estonian entry to Seedcamp'
 author: sten
 type: post
@@ -19,3 +20,14 @@ Happy to say that I was just a bit hasty with my [posting a few days ago][1]. Ap
  [1]: http://sten.tamkivi.com/2007/08/lonely_estonian_at_seedcamp.html
  [2]: http://blog.seedcamp.com/2007/08/over-260-completed-seedcamp.html
  [3]: http://realeyes.ee/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Peter A. Woolsey](http://www.ebsa.ee)** · 2007-08-27 09:44
+
+Hi, The Euro-Baltic Software Alliance AS and Positive Concepts AS are actively assisting Estonian ICT sme's to find venture capital.\
+As CEO of both firms I am directly involved in this. Also, as an e-govevernment expert in the EC's framework 7 I have some first hand experience of how to assist them.\
+Finally, the French firm MBDA has asked me to assist them invest €6 million in Estonian sme's involved in export generating activities.\
+Peter Woolsey

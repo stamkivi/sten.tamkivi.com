@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Why and How I Became a Stanford Student
 author: sten
 type: post
@@ -116,3 +117,60 @@ If past 7 years have taught me anything is that it is pointless to try to predic
  [19]: http://www.europeanentrepreneursatstanford.com/
  [20]: http://skype.com
  [21]: http://sten.tamkivi.com/stanford-sloan-2013/ "Stanford Sloan 2013"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andris Berzins](http://www.facebook.com/profile.php?id=684267711)** · 2012-02-28 18:28
+
+Sten - great decision. If you want to chat about how to make the most of your time at Stanford GSB, let me know. Andris K. Berzins
+
+**[Ants Viira](http://www.facebook.com/people/Ants-Viira/1341562882)** · 2012-02-29 04:11
+
+Good luck!! I'm studying for the GMAT right now. I hope to get into Booth. Data sufficiency and sentence correction are kickin' my ass...
+
+**[Cicero](http://www.cicerossongs.blogspot.com/)** · 2012-02-29 09:53
+
+I think it looks like a great plan, just hope we don't lose you from Estonia forever!
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-29 10:07
+
+Good luck to \_you\_ then! 
+
+Make khanacademy.org your best friend. :)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-29 10:08
+
+Thanks, Andris
+
+**[Ants Viira](http://www.facebook.com/people/Ants-Viira/1341562882)** · 2012-03-01 06:08
+
+Thank you, Sir! Much appreciated :)
+
+**[Sven Kautlenbach](http://www.facebook.com/sven.kautlenbach)** · 2012-07-23 21:14
+
+Actually the same idea have been recently starting to grow in my mind also. I've seen two biggest\
+Estonian universities providing quite rubbish education in the technology area, so I've locked myself to the idea to continue my academical journey near San Francisco also.
+
+**[Herbert Yang](http://www.facebook.com/herbert.yang)** · 2012-08-27 06:52
+
+excellent memo.. I should do the same to save time of calling many of friends to explain the whole story
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-08-27 07:22
+
+Thanks, man - and feel free to share this one to feed your friends' curiosity to the extent we had an overlap of approach... :)
+
+**[Tracee Cheng Bonnici](http://www.facebook.com/tracee.chengbonnici)** · 2013-01-10 03:31
+
+Sten arrives at Stanford, and changes the world.
+
+**Andrew Atkins** · 2013-06-02 21:58
+
+I realize that this is an old post, but just a quick FYI, which I'm sure you knew but it's not clear from your analysis: Stanford MSx is a bit different from Stanford MBA, and so is MIT Sloan (business chool providing different types of degrees) vs. Stanford Sloan Master's program, which is a sub-program at GSB.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-06-03 04:18
+
+Well, of course they are different, and for added short-term confusion (and reduced long-term confusion with MIT), Stanford Sloan is indeed renamed to MSx now. :) And for clarity, at MIT I was looking at the Sloan Fellowship as a one year option.
+
+That said, beyond the compressed duration and slightly more senior class composition, the Sloan/MSx and MBA are academically very intertwined at GSB. Some cores differ, but 90%+ of the electives are the same, taught to mixed MBA/Sloan groups.

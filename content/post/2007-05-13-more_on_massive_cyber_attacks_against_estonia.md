@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: More on massive cyber attacks against Estonia
 author: sten
 type: post
@@ -35,3 +36,12 @@ A few additional references to those who have followed up on my [previous post][
  [11]: http://edwardlucas.blogspot.com/2007/05/estonia-under-cyber-attack.html
  [12]: http://edwardlucas.blogspot.com/
  [13]: http://edwardlucas.blogspot.com/2007/05/russias-blunder-estonias-recovery.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Erki Esken](http://dreamdrummer.com/)** · 2007-05-14 17:05
+
+"...with their internet bank down for almost an hour and a half..."\
+Not so for access from outside Estonia. From Netherlands, access to hanza.net was nonexistant or sporadic for many days, up until 13.05 or so. Fortunately there is a way to access the bank site via their Latvian branch site. But still, a lot of confusion and problems for hanza.net users abroad.

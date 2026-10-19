@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Business to Business to Consumer
 author: sten
 type: post
@@ -34,3 +35,11 @@ Thus, people working on a consumer-facing product have to be equally good at _bo
     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F03%2Fbusiness_to_business_to_consum%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://sethgodin.typepad.com/seths_blog/2007/02/how_to_succeed_.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Online CRM Guide](http://crm.brainuse.com)** · 2007-03-31 19:11
+
+Some companies are a pure B2B or a B2C play and sometimes a company can have both processes. One of the biggest problems facing companies that ebrace both B2B and B2C business processes end up using two different CRM solutions, since most CRM applications are focused on the B2B sector. Very few CRM vendors offer both flavoures to their customers, but it seems some of the on-demand CRM players are starting to offer such tools.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Estonian State Budget Visualized
 author: sten
 type: post
@@ -79,3 +80,27 @@ On this baseline I hope at least part of the team will stick together and levera
  [11]: http://wheredoesmymoneygo.org/
  [12]: http://praxis.ee/index.php?id=96&L=1
  [13]: http://sten.tamkivi.com/2007/05/joined_the_board_of_praxis/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Toomas Trapido](http://www.facebook.com/toomas.trapido)** · 2011-02-28 21:12
+
+Thanks, Sten, for good overview and describing the potential to go further! Just for the record - the idea was presented to G48 by Hille Hinsberg (Praxis) and there were several consultants in the team - Paul Tammert, Rein Püi and me.\
+I'm personally very interested to develop it further, into a kind of reality game.
+
+**[Henri Laupmaa](http://www.facebook.com/henri.laupmaa)** · 2011-02-28 21:20
+
+I am happy that we finally have the first working beta up - the discussion about it has been there for some time. Thanks Sten and Toomas for supporting the concept.
+
+One print sample done as a course work in Art Academy by one of our Latvian students:\
+http://www.infograafika.info/blog-1/infograafika-kursusetoo-visuaalne-riigieelarve
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-03-01 10:19
+
+Cool, didn't know we have an Institute for Infographics, even... :)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-03-01 10:20
+
+Sorry for leaving you guys out - updating the post now. Thanks for all the effort this far!

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Upcoming book on internet effects in Estonia and elsewhere
 author: sten
 type: post
@@ -21,3 +22,11 @@ Hope I could help him a bit with his [upcoming book on the Liberating Effects of
  [1]: http://cyrusfarivar.com/blog/?p=1350
  [2]: http://www.slate.com/id/2166749/
  [3]: http://cyrusfarivar.com/blog/?p=1205
+
+---
+
+## Comments (archived from the old blog)
+
+**kaur** · 2007-07-12 13:11
+
+"a team of Estonian computer and network experts from the various affected agencies is working around the clock in a secure chat room" - using Skype, I hope? :)

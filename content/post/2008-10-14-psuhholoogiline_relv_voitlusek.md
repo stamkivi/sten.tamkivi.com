@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Psühholoogiline relv võitluseks idioot-kommentaatoritega
 author: sten
 type: post
@@ -38,3 +39,21 @@ Eesti kommentaariumide &#8220;puhastamiseks&#8221; on küll eelregistreerimise n
  [3]: http://xkcd.com/481/
  [4]: http://www.leim.ee/
  [5]: http://www.eki.ee/keeletehnoloogia/projektid/syntees/
+
+---
+
+## Comments (archived from the old blog)
+
+**mmmuna** · 2008-10-15 03:32
+
+Ilma viiteta youtube teenusele pole jutul erilist tähendust.
+
+**[sten](http://sten.tamkivi.com)** · 2008-10-15 09:45
+
+Sellele teenusele on otse raske viidata, kuna sisuliselt on tegu ühe nupuga iga kommentaarivälja juures:\
+\* mine youtube.com\
+\* logi sisse\
+\* võta suvaline video\
+\* kliki "Post a text comment"\
+\* kirjuta kommentaarikasti tekst\
+\* vajuta "Audio preview"

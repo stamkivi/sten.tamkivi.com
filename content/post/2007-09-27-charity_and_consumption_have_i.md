@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Charity And Consumption Have Issues In Common
 author: sten
 type: post
@@ -46,3 +47,25 @@ Maybe the dominance of brand-influenced impulses is a luxury the world can&#8217
  [3]: http://elver.wordpress.com/2007/09/25/i-dont-see-the-problem/#comments
  [4]: http://www.wired.com/techbiz/people/magazine/15-09/st_thompson
  [5]: http://www.virginunite.co.uk/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Teller](http://www.siimteller.cm)** · 2007-09-28 10:38
+
+<a href="http://www.moreintelligentlife.com/node/182" rel="nofollow">http://www.moreintelligentlife.com/node/182</a> ties nicely into this thread.
+
+**bertrand** · 2007-10-06 13:24
+
+Could it be so that stories are built around brand because of the structure of the "news-spreading" system ? It uses mainly traditional media approach i.e. the same channel that is distributing entertainment is distributing news, and it has a strong financial constraint : advertisement =\> competition on volume of listeners/viewers/readers.\
+This said, it is also obvious that a news-diffusion system that is focusing on more fairness and less "brand attractiveness" such as the NPR, get a limited attendance. This leads to the same conclusion as Sten's : the problem is in the attendance. It has to be motivated by fairness more than thrill (dream...).. and the attendance is us :) And individually, we need to use the most efficient combination of heart and brain, without loosing the perception of the global picture : kind of challenging... but why not ?
+
+**bertrand** · 2007-10-07 00:12
+
+I made a shortcut in the previous comment. The link with Sten's post being the question of the accuracy of the decision : why focusing on such charity helping kids in this country rather than another... and behind this decision, there is the amount and quality of information I could have gotten through news (mainly).\
+The problem is that the decider (people with less fortune i.e. the average citizen) is not a passive receiver of the news. And "wonder of the web", I find this study that gives an interesting insight on the gap existing between "standard users" (does such thing exist ? ;) ) and professional journalists while evaluating the importance of an information to be (or not) diffused.\
+<a href="http://www.journalism.org/node/7493" rel="nofollow">http://www.journalism.org/node/7493</a>\
+For those who are french speaking, the previous study led to an interesting post of Francis Pisani :\
+<a href="http://pisani.blog.lemonde.fr/2007/10/05/a-quoi-ca-sert-lactu/" rel="nofollow">http://pisani.blog.lemonde.fr/2007/10/05/a-quoi-ca-sert-lactu/</a>\
+A few steps later, world-news may become a rich conversation...

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Some berries are blacker than others
 author: sten
 type: post
@@ -48,3 +49,16 @@ So, we&#8217;ll see how it goes. My e-mail alerts are on silent, in any case, to
  [1]: http://sten.tamkivi.com/2007/04/byebye_nokia_e70.html
  [2]: http://www.blackberry8800.com/
  [3]: http://sten.tamkivi.com/2007/01/vacation_complete_email_dead.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[nerdgirl](http://www.nerdgirl.com)** · 2007-04-15 15:42
+
+Welcome to the darkside, my friend. I have my BB set up on the corporate Blackberry server and my email on Exchange server which is a magical thing (as much as I hate Exchange). I add a number in my phone, voila it is on my Outlook - same for managing all my calendar requests. It makes me giddy when everything just syncs automatically - including task list, notes. Ahhhhh....\
+Enjoy!
+
+**[Jaanus](http://www.jaanuskase.com/en/)** · 2007-04-18 19:25
+
+Use a Mac for syncing ;) <a href="http://www.jaanuskase.com/en/2006/12/switch_calendaring_contact_man.html" rel="nofollow">http://www.jaanuskase.com/en/2006/12/switch_calendaring_contact_man.html</a>

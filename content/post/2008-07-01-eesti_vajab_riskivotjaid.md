@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Eesti vajab riskivõtjaid
 author: sten
 type: post
@@ -78,3 +79,29 @@ Lõpetuseks üks tähtis asi veel. Suurema riski võtmine tähendab ka suuremat 
 
  [1]: http://am.ee
  [2]: http://sten.tamkivi.com/2007/12/koige_pehmem_on_maanduda_mulka.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[LK](http://leho.kraav.com)** · 2008-07-01 12:55
+
+Tere Sten\
+Pikk jutt ja kindlasti oluline kirjutis. Jõuan loodetavasti täna-homme keskendudes läbi lugeda.\
+Pealkirja põhjal on minu esimene mõte: Eesti vajab kõigepealt inimesi kes üldse teavad misasjad riskid on, nende mitmeid tasemeid ja kuidas neid kalkuleerida, mis peaks olema juba kuidagi pealkirjas väljendatud, kui sellel teemal kirjutada. Enne nende teadmiste omamist on enamik elutegevusi enamiku jaoks pigem õnnemäng ja hädapärane ellujäämistase.\
+Järgmine tase on juba "Eesti vajab kalkuleeritud eesmärgipäraste (vmt. sõna) riskide võtjaid", mida tõenäoliselt Sinu kirjutis ka sisuliselt ütleb.\
+Võtan eesmärgiks järgmise kahe päeva jooksul lähemalt analüüsida ja kirjutan siis veel, väga südamelähedane teema.
+
+**Janno** · 2008-07-01 13:15
+
+Väga asjalik blogpost, olen täiesti nõus. Samas ma arvan, et riskide võtmisel peab olema tugev alus. Ei ole mõtet riski võtta ja loota heale õnnele. See peaks tuginema ikkagi mingile olulisele eelisele. Mulle tundub, et Eestis jääb see sageli silmaringi ja teadmiste piiratuse taha. Osa inimesi teadvustab seda endale mingil määral ja nende puhul on ka loomulik, et riski võtmisel on enesekindlus väiksem. Teised jälle ei teadvusta riski, on lühinägelikud ja hüppavad pea ees vette. Nad võivad läbi lüüa, aga suur oht on valusalt põleda.\
+Osaliselt aitaks tugevam ja kaasaegsem haridussüsteem, aga minu arvates isegi tähtsam oleks muutus inimeste mõttelaadis. Avatum suhtlemine, suurem respekt teiste inimeste suhtes, sisemine tahtmine ennast arendada ja õppida jne. Sellist muutust ei ole lihtne saavutada, aga kindlasti aitaks kaasa kui rahva liidrid sellist suhtumist üles näitaks ja muidu ka meedia seda rohkem propageeriks.
+
+**[Märt Ridala](http://mridala.blogspot.com)** · 2008-08-20 20:11
+
+Väga õige postitus Sten! Kahju, et ma oma kommentaari nii hilja kirjutan ja ilmselt paljud seda enam ei loe. :-(\
+MicroLinkis oleme käivitanud selliste riskimiste lihtsustamiseks ja mõistlikuks läbiviimiseks inkubaatori programmi: <a href="http://inkubaator.microlink.ee" rel="nofollow">http://inkubaator.microlink.ee.</a> Nii, et kui sa oled üks neist kes "Jalad kõhu alt välja võtab" ja su idee on IT-ga seotud, siis tule räägi meiega. Kui mitte muud, siis saame vähemalt kogemusi vahetada ja teineteisele head nõu anda. Meil on kuigi palju tarkust kogunenud startup-de korraldamisest.\
+Või riskija.... külasta Open Coffee-d: <a href="http://www.facebook.com/group.php?gid=6854479626" rel="nofollow">http://www.facebook.com/group.php?gid=6854479626</a>\
+<a href="http://www.opencoffeeclub.org/" rel="nofollow">http://www.opencoffeeclub.org/</a>\
+Ma liiga palju ei põeks seda, et meil tehnoloogiaharidust on liiga vähe. Edukat äri saab teha ka majandusharidusega. Vaadakem kasvõi Skype-i. :-) Sten ilmselt oskab täpsemalt öelda, aga eBay tehingu suurema võidu said ikka ärimehed mitte Eesti tehnoloogid. Siin ka minu ettepanek selles vallas: <a href="http://mridala.blogspot.com/2008/07/nokia-asemel-hoopis.html" rel="nofollow">http://mridala.blogspot.com/2008/07/nokia-asemel-hoopis.html</a>\
+Lühidalt: Tehnoloogilist teadmist saab sisseosta.

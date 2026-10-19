@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 21: Finance, Ventures, Stories and Space'
 author: sten
 type: post
@@ -422,3 +423,11 @@ For more posts on the Stanford GSB Sloan life – [see the table of contents he
  [50]: http://stanford.edu/group/policyforum/cgi-bin/drupal/node/331
  [51]: http://siepr.stanford.edu/
  [52]: http://sten.tamkivi.com/stanford-sloan-2013/
+
+---
+
+## Comments (archived from the old blog)
+
+**Raju Kumar Sinha** · 2014-04-21 10:04
+
+Thank you for sharing valuable information. Nice post. I enjoyed reading this post. The whole blog is very nice found some good stuff and good information here Thanks..Also visit my page <a href="http://www.intouchaccountants.co.nz/" rel="nofollow">Accountants Auckland</a>

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Happy Birthday, Mutant Disco!
 author: sten
 type: post
@@ -50,3 +51,12 @@ Respect, Raul & Chris, and happy birthday again!
  [11]: http://www.discogs.com/artist/Moodymann
  [12]: http://melu.ee/index.php?id=1069
  [13]: http://melu.ee/index.php?id=1082
+
+---
+
+## Comments (archived from the old blog)
+
+**edvard** · 2008-01-02 22:21
+
+Hi, thanks for sharing this one with us. I persnoally joined this MD ride somewhere "in the middle of the best times" (ca. Ericsson Party with Kerri Chandler) and it is hard to over-credit Raul & Chris for their priceless efforts and work. MD is super duper in direct meaning of those words. It is hard to explain better than you put it.\
+Many people don't know about it even in our tiny country :)

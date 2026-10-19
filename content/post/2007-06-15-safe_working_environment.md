@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Safe Working Environment
 author: sten
 type: post
@@ -19,3 +20,11 @@ While waiting for the elevator this morning I noticed that the guys operating th
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F06%2Fsafe_working_environment%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/551026218/ "Photo Sharing"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres](http://asehr.blogspot.com)** · 2007-06-15 15:47
+
+Apparently they've done a lot of customer research and know what they're client need. :)

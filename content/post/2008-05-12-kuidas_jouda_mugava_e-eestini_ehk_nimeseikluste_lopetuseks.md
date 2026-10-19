@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Kuidas jõuda mugava E-Eestini? (ehk nimeseikluste lõpetuseks)
 author: sten
 type: post
@@ -55,3 +56,57 @@ Ja ise täna käisin E-Maksuametis maamaksu saldot vaatamas. Varasema kümnekonn
  [2]: http://www.epl.ee/?uudised=428283
  [3]: http://www.epl.ee/?uudised=428283&kommentaarid=0
  [4]: https://portaal.riik.ee/x/kodanik/
+
+---
+
+## Comments (archived from the old blog)
+
+**Tarmo Tali** · 2008-05-12 22:46
+
+Esitluskihi kohta rääkis Hennu-onu juba 5 aastat tagasi, et riigi asi ei ole portaale ehitada. Sellele olemasolevale infrale tuleb anda võimalus integratsiooniks nendele ettevõtetele, kus on tööl kuhi kodanikke, kelle ainuke mure on see, kuidas oma portaali funktsionaalsemaks muuta. Oma lapse nime panemist saad alustada perekool.ee-st, oma juhiluba saad vaadata auto24.ee-st, oma kinnisvaraga seotud asju kv.ee-st jne. jne. Väga hästi toimivaks näiteks on pank -\> maksuamet link. MA ehk teab kui palju inimesi alustab oma deklarit pangast ja kuipalju otse MA lehelt.
+
+**[Peeter Marvet](http://tehnokratt.net)** · 2008-05-12 23:23
+
+Kusjuures enamus probleemidest on sellisel ... small frustrations tasemel. Suutsin eelmine nädal rahakoti kaotada ja olen just hulga asutusi läbi käinud - tulemuseks enamus homseks taastatud (pangakaardid võtavad nt paar-kolm päeva), IDkaardiga läheb veel nädal sest passi ja PIN-kalkulaatorite olemasolul oli see teisejärguline.\
+Kõik asjad said aetud ja kui ilusti paluda siis isegi paremini kui protsess ette nägi. Aga mitte ühtki neist ei teinud ma E-viisil (kui mõned netipangast tasutud riigilõivud välja arvata), vaid ametnike abil kellel toimingute teostamiseks vajalik liides ekraanil olemas.\
+Puudus kas liides, juhend mis oleks kinnitanud valitud liidese sobivust antud olukorda - või miski muu pisidetail.
+
+**Lauri** · 2008-05-12 23:52
+
+Vähempakkujaga konkursid ei kutsu jah kreatiivseid tüüpe kohale aga samas on kohustus neid korraldada alates 40 000€ +km suurusest summast. Kui ainult disainist või konsuldist rääkida ja teostus/kood osta senistelt tegijailt siis iga asutuse kohta 40K EUR.. saab päris mahukaid asju teha, kas pole? Tahtmist või siis ütleme arusaama et see on vajalik - seda pigem ei ole. Raha pidi ju veel olema ;)
+
+**[sepp](http://sepp.offline.ee)** · 2008-05-13 01:54
+
+khm, pro bono'st. ma ei mäleta, et me RIK'is oleks rahvastikuregistri ja/või x-tee liidestega tegelenud. esimene peaks olema sisemin+andmevara teema, teine vist RISO+Cell Networks.\
+kodanikuportaali eesti.ee tegemist ei tea, ent kardan, et RIK'il on klassikalise justmin registriala ja uue põneva eToimikuga niigi käed tööd täis.\
+a noh, igasuguseid kibestunud tölplasi võis riigisüsteemis, nagu ka mujal, kohata :)\
+oh, and last but not least - RIK ratsahobuse seljas saab ikka palka ka, ei pea ainult patriotismist tööd tegema
+
+**[sten](http://sten.tamkivi.com)** · 2008-05-13 12:42
+
+Tiki,\
+muidugi peaks olema võimalus teenustele otse viidata, ja seda peaksid perekoolid ja kinnisvarasaidid tegema juba täna.\
+Sügavam integratsioon pole vist alati mõistlik - riigi seadused, info kogumise protsessid ja statistikavajadused muutuvad. Selle haldamine juhul kui kümme erasaidi omanikku on oma vormid ära koodinud, on paras peavalu.\
+Kasvõi sellesama maksuameti puhul liidestuvad ju pangad e-maksuametiga, mitte ei implementeeri SEB või Hansa värvides kogu tulumaksudeklarit uuesti.\
+Aga üks ei välista teist. Mulle eesti.ee kui e-teenuseid koondava portaali idee meeldib.\
+Sten
+
+**[sten](http://sten.tamkivi.com)** · 2008-05-13 12:46
+
+Lauri,\
+kui iga asutus oma 39999 EUR eraldi kulutama läheb puhtalt oma haldusala süsteemide seisukohalt, läheb asi ainult süvenevalt hullemaks ja killustub veelgi. Sellesama lapse sünni puhul peaks kasutajaliides olema ühtlustatud - teatad, et selline isikukood ja selline nimi, paned paar linnukest ehk ja kogu moos.\
+Kuidas kapoti all sotsmin, kohalik omavalitsus, haigekassa, rahvastikuregister jne jne andmeid vahetavad ja millised protsessid (registreerimine, toetused) käivitavad, ei peaks olema enam kodaniku peavalu.\
+Sten
+
+**Urmo** · 2008-05-13 18:30
+
+Olen X-tee liidestusi omajagu teinud ja kui viimase aasta sees pole kardinaalselt palju muutunud, siis ma kahjuks küll ei väidaks, et tehnoloogiline vundament superhea oleks. API-d on üsna nigelad, valmistarkvara (eelkõige turvaserveri haldustarkvara ja see kurikuulus MISP) jätab vägagi soovida ja mis minumeelest kõige tähtsam - arendajatele suunatud dokumentatsioon on kaunis hägune. Niivõrd levinud lahenduse juures ei peaks arendaja istuma kunagises Cell Networksis koolitusel, et X-tee peale teenuseadaptereid või siis kliente tootma hakata. Ma mõistan, miks Cellile see meeldis, ma ei mõista miks riigile.
+
+**Kaidi Teller** · 2008-05-15 11:35
+
+Tere! Tahtsin veel küsida, et kas lapse nime osas ei olnud mingeid probleeme, et seda ei saa või ei tohi panna? Nimelt aasta tagasi Tartu Perekonnaseisuametis teatati meile, et ei tohi sellist tüdruklapse nime panna ja käidi veel juhatajalt üle küsimas ja ei tea kust veel otsiti ja tulemuseks oli see, et pidime lapsele kohapeal uue eesnime mõtlema. Loodetavasti saame seda siis kunagi tulevikus äkki hea õnne korral kolmandale tütrele panna:)
+
+**[Siim](http://siim.lepisk.com)** · 2008-06-24 15:16
+
+TO: Kaidi\
+Lapse nime osas on toredas "sinises x-tee keskkonnas" vastav rakenduski olemas, mis lubab kontrollida, kas mingit nime võib lapsele panna või mitte :)

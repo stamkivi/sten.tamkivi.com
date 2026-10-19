@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: IT-hariduse intervjuu Arvutimaailmale
 author: sten
 type: post
@@ -68,3 +69,24 @@ Just sellises interdistsiplinaarse ja üle riigipiiride mõtleva lähenemise juu
  [2]: http://am.ee/
  [3]: http://twitter.com/henrikroonemaa
  [4]: http://www.arengufond.ee/foresight/ita
+
+---
+
+## Comments (archived from the old blog)
+
+**[Tanel Raja](http://www.facebook.com/tanel.raja)** · 2011-06-03 14:38
+
+Tegelikult on selle eriala ebapopulaarsuses suuresti süüdi meedia; ma ei tea kedagi, kes oleks teinud plaani "Kui suureks saan, saab minust paks prillidega poiss, kellel on võidunud teksased ning veel võidunum pats ja kes suudab suhelda ainult teiste omasugustega." Eestlane tahab hirmsasti olla "Normaalne" ja igasugune erinevus on friik ja aut. Mu sõprade lapsed on seniajani olnud tõsiselt üllatunud, kui nad on avastanud, et ma olen 15 aastat programmeerijana töötanud.
+
+Mida meil vaja on, on arvamusliidreid, inimesi, kes demonstreerivad, et IT valdkonnas edukas olemiseks ei pea ilmtingimata olema erakust veidrik. Meil on vaja valdkonna evangeliste.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-06-05 16:33
+
+Täiesti nõus, et rohkem mõjuvaid näiteid on vaja. Seda üheplaanilist "pesemata patsiga poisi" kuvandi lõhkumise eesmärki täidavad muuhulgas ka need aastast aastasse kõige kiuste edasi tehtavad ITL koolikülastused, mida ma mainisin - ei ole sinna lihtne leida ei esinejaid ega toetajaid, aga neid tuleb teha. Ja IT-maailma tegeliku kirevuse näitamisel on kõvasti abiks ka kogu see tants startup-maastiku ümber, mille paljukritiseeritud liigne mängulisus ja fun'i-ihalus võiks tegelikult just noortes huvi tekitada ja näidata, et "keeruliste" kooliteemade taga ei olegi hilisem kuivikuelu kuskil keldrilaboris.
+
+Ma isegi eriti meediat ei süüdistaks siin, kui üldse kedagi siis meid endid sektoris. Muidugi on sellise selgitus- ja promotöö jaoks raske ennast hästimakstud kiirete tegemiste juurest eemale kiskuda. Aga peaks. Järelkasvu pärast.
+
+**Targo Tennisberg** · 2011-07-06 23:53
+
+You da man! Täitsa nagu omad mõtted oleks kirja pandud :)\
+Mu oma vastused siin: http://www.targotennisberg.com/tarkvara/2011/07/06/mehaanikud-elektrikud-ja-insenerid/

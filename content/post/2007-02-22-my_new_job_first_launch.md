@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'My new job: first launch'
 author: sten
 type: post
@@ -26,3 +27,11 @@ By the way these real-time stats are public for you in the SkypeFind tab of 3.1 
 
  [1]: http://share.skype.com/sites/en/2007/02/skype_31_beta_for_windows_skyp.html
  [2]: http://www.skype.com/download/skype/windows/skype31beta.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[nerdgirl](http://www.nerdgirl.com)** · 2007-02-22 19:16
+
+Yipee Sten! Now can I come work for you? Shh! Don't tell Carter!

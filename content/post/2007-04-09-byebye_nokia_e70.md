@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Bye-bye Nokia E70
 author: sten
 type: post
@@ -50,3 +51,38 @@ Thanks, Nokia for the most solid idea I&#8217;ve seen so far for physical phone 
  [2]: http://www.businesssoftware.nokia.com/mail_for_exchange_downloads.php
  [3]: http://www.google.com/mobile/mail/index.html
  [4]: http://www.sonyericsson.com/spg.jsp?cc=gb&lc=en&ver=4000&template=pip1&zone=pp&pid=10407
+
+---
+
+## Comments (archived from the old blog)
+
+**Anonymous** · 2007-08-17 06:28
+
+Mine was similar, the build quality flaws are most likely consistent across all units.\
+\- joystick/d-pad seems to have intermittent contacts\
+\- button paints wear out easily\
+\- buttons on the num-pad fall off easily. The "1","4","7" buttons on mine are gone.\
+Besides build quality, we have slow and bug-infested software all around.
+
+**David** · 2007-12-21 00:44
+
+i have to admit software operates a bit slugishly when utilizing third party software. but aside from that the phone is the best business cellular phone i have ever used. all of the problems you list do not exist for me and i am an all around power user whom travels extensively. hell its even been in a car accident with me and still works like a charm.
+
+**Charly** · 2008-01-13 11:50
+
+Interesting reading. I thought I had just got a Monday phone but I have exactly the same problems.\
+I never managed to use the SIP connection to our Asterisk phone system despite getting the Guru's in to set my phone up after I had failed miserably.\
+It is a pity that a phone packed with really good ideas and features is spoiled by sub standard hardware and software that has not been properly tested before it is released, but the this has been my experience with Nokia they never seem to get one phone working properly before they release it and start on the next model.\
+I never had these problems with my Sony Ericsson P910.\
+The Nokia is going very soon, I just need to decide between the P1 or one of the HTC phones
+
+**Emmanuel** · 2008-02-07 14:22
+
+Agreed. This is the worst phone I have ever owned. I will never every buy a Nokia phone again.\
+The form factor is pretty good (slightly too large), but\
+that is where the praise ends.\
+I have been using the phone for about 9 months or so and\
+find it to be unstable (unable to make calls multiple\
+times a day), very slow (especially to restart so I can\
+make a call again), buggy, the VPN cannot be configured\
+without a Nokia VPN gateway (separate big \$\$) and its battery life is poor (with WiFi and 3G).

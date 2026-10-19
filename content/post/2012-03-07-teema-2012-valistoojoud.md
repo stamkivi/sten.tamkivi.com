@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Teema 2012: Välistööjõud'
 author: sten
 type: post
@@ -67,3 +68,27 @@ Sageli vaadatakse avalikkuse poolt välistööjõu immigratsioonile võõristade
  [4]: http://www.teenusmajandus.ee/teema2012/meie-tervis/
  [5]: http://www.teenusmajandus.ee/teema2012/meie-konkurentsivoimeline-maj/
  [6]: http://www.teenusmajandus.ee/teema2012/meie-intellektuaalne-ruum/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Liisa Past](http://www.facebook.com/profile.php?id=734229076)** · 2012-03-08 09:07
+
+Lisaksin: Leida võimalused Eesti kraadiõppes lõpetanud (kolmandatest riikidest pärit) välistudengitele ülemineku- või tööotsimiselamislubade andmiseks. Sarnased skeemid on olemas paljudes riikides, näiteks USA OPT (optional practical training), mis on pärast kooli lõpetamist eraldi taotletav viisa+elamisluba, mis kestab kuni aasta ja ei seo sel perioodil inimest kindla tööandjaga. Sarnased skeemid on ka paljudes Euroopa riikides. 
+
+Eestis on aga kord selline, et väljaspoolt Euroopa Liitu tuleva tudengi elamisluba saab koos õpingutega läbi ja tal on väga piiratud võimalused siin tööturul ringi vaadata. Tööandja seisukohast on ta sellest hetkest alates nagu iga teine kolmanda riigi kodanik. 
+
+Samas on ta juba eluga Eestis kohanenud, võib-olla on tekkinud suhted siinsete ettevõtetega, tihti on huvitatud ja kvalifitseeritud siin tööd leidma.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-03-08 14:59
+
+Absoluutselt nõus, tarkade ja seiklushimuliste inimeste (mõneks ajaks) Eestisse meelitamiseks on nende siin koolitamine üks lihtsamaid ja loogilisemaid viise - ja kooli lõppedes peaks pingutama, et neid mitte kohe minema lasta vaid \_veenda\_ neid jääma riiki oma teadmisi, võrgustikku ja maksutulu meie ettevõtetega jagama. Igasugused täiendavad barjäärid on siin kurjast.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-03-08 15:05
+
+Üks huvitav lahendusvihje, mida viimastel päevadel selles arutelus kuulnud olen on tööviisa.
+
+Selle lähenemise kohaselt on elamisluba kui pika-ajalise residentsuse esimene samm (või isegi esimene samm kodakondsuse suunal) laetud tervest portsust probleemidest, mis võib-olla ei vajagi esmast lahendamist mobiilsete tarkade töötajate jaoks - olgu nendeks sotsiaalhoolekanne või osalemine kohaliku tasandi poliitikas. Kas saaksime lahendada inimeste võimaluse Eestis tarkadele töökohtadele tööle asumiseks läbi spetsiaalsete viisade? Ja mitmeaastane tööviisaga Eestis viibimine oleks omamoodi tugevaks eelkontrolliks (seadusega mitte pahuksisse minek, maksulaekumised jne) elamislubade väljastamisel, juhul kui külaline peaks otsustama kunagi hiljem seda taotlema asuda.
+
+Kui keegi seda mõtet kaugemale on mõelnud, oleks tore kuulda.

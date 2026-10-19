@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Un-age your brain
 author: sten
 type: post
@@ -26,3 +27,13 @@ Even though I never played either of the devices referred to, I think out of the
 
  [1]: http://distantsignal.blogspot.com
  [2]: http://www.wired.com/wired/archive/15.01/smart.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[seikatsu](http://sten.tamkivi.com/2007/03/iwii.html)** · 2007-03-06 13:40
+
+**iWii**
+
+Even though the numbers seemed funny at the time, it is obvious now that DS is a much more balanced person than I am. As of last night, my physical age is 75 and my brain age 33. Apparently the lust for (next-gen) gaming does not drop with age and Nint...

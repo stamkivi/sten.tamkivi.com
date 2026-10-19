@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: sten.tamkivi.com Revamp
 author: sten
 type: post
@@ -55,3 +56,23 @@ End of the technical interlude and hope for a more regular programming &#8211; I
  [8]: http://dreamhost.com
  [9]: http://disqus.com
  [10]: http://feeds.feedburner.com/seikatsu
+
+---
+
+## Comments (archived from the old blog)
+
+**Anonymous** · 2011-02-13 18:40
+
+Nice. Link color in text should have better contrast though, currently a bit hard to see links.
+
+**[Leho Kraav](http://twitter.com/lkraav)** · 2011-02-13 18:44
+
+hi Sten, i'd recommend hooking Twitter Tools plugin for a weekly recap of your tweets, http://leho.kraav.com/blog/2011/01/30/twitter-weekly-updates-for-2011-01-30/ for an example. that will keep at at least some information flowing through this feed.
+
+good idea with moving to disqus, planning to do the same.
+
+other than that, just keep rocking.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-14 19:37
+
+Thnx, just went to underline. :)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Give a Hundred to Save a Million Kids? Nah…
 author: sten
 type: post
@@ -49,3 +50,15 @@ Somehow I think that you don&#8217;t really need to be a Bill Gates to optimize 
  [5]: mailto:http://www.findmadeleine.com/
  [6]: http://www.timesonline.co.uk/tol/sport/more_sport/article2461339.ece
  [7]: http://news.bbc.co.uk/2/hi/asia-pacific/6997381.stm
+
+---
+
+## Comments (archived from the old blog)
+
+**[Kalju](http://kalju.ruutli.com)** · 2007-09-24 21:57
+
+Quoted for Truth
+
+**[wolli](http://wolli.blogspot.com)** · 2007-09-24 23:26
+
+..and this is exactly why most of the charity campaigns suck. they're built around maximising the PR value, not around making the world a better place.

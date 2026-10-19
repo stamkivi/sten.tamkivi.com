@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Seedcamp 2008 was fun
 author: sten
 type: post
@@ -43,3 +44,21 @@ In addition to the roster of enthusiastic startups, I am also very happy about m
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F09%2Fseedcamp_2008_was_fun%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/2870124616/ "Taavet on panel by seikatsu, on Flickr"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Jüri](http://kaljundi.blogspot.com/)** · 2008-09-21 20:55
+
+Were there any applicants this year from Estonia and the Baltic countries? What about other Eastern European countries?
+
+**[Robin Blandford](http://www.bytesurgery.com)** · 2008-09-21 21:19
+
+Hi Sten...\
+Thanks for your nice comments on D4H :-)\
+I'll keep you posted on progress!
+
+**[Dragos](http://www.ubervu.com)** · 2008-09-22 12:53
+
+Hi Sten, thanks for the kind words. We really enjoyed the time we spent with you during the mentoring panel. You guys helped a lot, we really appreciate it.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Me-too Moments: iPhone'
 author: sten
 type: post
@@ -52,3 +53,21 @@ To summarize: iPhone brings a great all-around experience with occasional sadden
  [6]: http://sten.tamkivi.com/2007/06/k800i_rulez_flickr.html
  [7]: http://docs.info.apple.com/article.html?artnum=306048
  [8]: http://www.iphonefaq.org/archives/97322
+
+---
+
+## Comments (archived from the old blog)
+
+**[Vincent Oberle](http://www.oberle.org)** · 2008-03-30 21:07
+
+You can jump back in typed text, just tap on the text, wait a sec, and a little zoom will appear and you can then drag to the right place. Works very well in fact.\
+About GMail access, note that the Mail app supports IMAP, as does GMail..
+
+**[sten](http://sten.tamkivi.com)** · 2008-03-30 21:34
+
+Thanks for the hint, Vincent! I guess this just adds to the "unintuitive tap-and-hold" bit I wrote about above... ;)\
+And yes, I use IMAP to pair iPhone Mail with GMail. Works great.
+
+**[Margus](http://devil.pri.ee)** · 2008-05-05 14:00
+
+Sten, as you're most probably using 1.1.4 firmware, the Safari not remembering passwords issue should be cleared with this: <a href="http://blog.stevienova.com/2008/04/03/iphone-firmware-114-mobile-safari-loginpassword-wont-save-cookie-permission-issue/" rel="nofollow">http://blog.stevienova.com/2008/04/03/iphone-firmware-114-mobile-safari-loginpassword-wont-save-cookie-permission-issue/</a>

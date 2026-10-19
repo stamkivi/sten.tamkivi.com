@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Aitäh, härra President!
 author: sten
 type: post
@@ -17,3 +18,15 @@ categories:
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F02%2Faitah_harra_president%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/402375539/ "Photo Sharing"
+
+---
+
+## Comments (archived from the old blog)
+
+**[sepp](http://sepp.offline.ee)** · 2007-02-26 13:18
+
+allkiri rokib sajaga :D
+
+**[methodik](http://methodik.djstore.ee)** · 2007-02-26 19:48
+
+ilus! allkiri on täiesti omaette klass :)

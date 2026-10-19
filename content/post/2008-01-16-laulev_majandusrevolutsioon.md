@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Laulev majandusrevolutsioon
 author: sten
 type: post
@@ -61,3 +62,12 @@ Ega Eesti ees täna seisvate võimaluste mastaap olegi eriti väiksem kui eelmis
  [5]: http://etv24.ee/index.php?popup=video&id=11329
  [6]: http://sten.tamkivi.com/2007/12/koige_pehmem_on_maanduda_mulka.html
  [7]: http://sten.tamkivi.com/2007/12/koige_pehmem_on_maanduda_mulka.html#comments
+
+---
+
+## Comments (archived from the old blog)
+
+**margus** · 2008-01-16 20:55
+
+Tulles otsapidi tagasi Su eelmise postituse alla kirjutatud kommentaari juurde, jäi hommikul miskit podcasti kuulates kõrva, et Eurostati andmetel peaks Eesti ELi keskmise SKT per capita taseme saavutama vist aastal 2019.\
+Lugedes nüüd kasvõi ülalviidatud lehel nelja lehekülje pikkust stsenaariumide kokkuvõtet (http://arengufond.ee/files/arengufond_voldik_pohjataht.pdf), tekib kohe küüniline mõte, kas mitte selle uuringuga pole Arengufond juba iseenda surmaotsust allkirjastanud, võttes arvesse tõsiasja, et nad on veenvalt tõestanud, et utoopilist "15. aastaga (täna juba 14.) 5 Euroopa rikkaima riigi hulka" visiooni realiseerumist näeme sama suure tõenäosusega, nagu oma kõrvu ilma peeglita?

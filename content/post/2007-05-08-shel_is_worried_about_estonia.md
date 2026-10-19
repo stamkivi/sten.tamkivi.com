@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Shel is worried about Estonia
 author: sten
 type: post
@@ -25,3 +26,19 @@ Despite how some leaders of an aggressive neighbor envision it should go.
  [1]: http://redcouch.typepad.com/about.html
  [2]: http://redcouch.typepad.com/weblog/2007/05/the_estonian_st.html
  [3]: http://redcouch.typepad.com/weblog/2007/05/skypes_stem_tam.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Jaanus on the internet](http://www.jaanuskase.com/en/2007/05/russian_continued_cyberattacks.html)** · 2007-05-11 02:46
+
+**Russian continued cyberattacks on Estonia and their implications for the Internet governance**
+
+Russian Federation continues to wage cyberattacks agains Estonian government websites. The attacks come from IP addresses connected with Russian Federation government agencies and when continued, may have a potential to harm the functioning of Estonian...
+
+**[seikatsu](http://sten.tamkivi.com/2007/05/more_on_massive_cyber_attacks.html)** · 2007-05-13 21:59
+
+**More on massive cyber attacks against Estonia**
+
+A few additional references to those who have followed up on my previous post about recent Russian cyber attacks against Estonia: There was a second wave of coordinated attacks that started on the night before May 9th. Most of the targeted sites were s...

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Post-bluescreen errors
 author: sten
 type: post
@@ -33,3 +34,11 @@ There are plenty of [guidelines][3] for [proper][4] [error][5] [message][6] [des
  [5]: http://www.useit.com/alertbox/20010624.html
  [6]: http://www.stcsig.org/usability/newsletter/9801-errormessages.html
  [7]: http://en.wikipedia.org/wiki/Design_of_error_messages
+
+---
+
+## Comments (archived from the old blog)
+
+**Juha Seppänen** · 2007-05-03 09:44
+
+The Sony Ericsson alert box has the potential to become new classic! Still my favourite one is from 80's Mac error dialog which says "On tapahtunut virhe koska on tapahtunut virhe tyyppiä -50" (roughly in English "There happened an error because an error of type -50 occurred".

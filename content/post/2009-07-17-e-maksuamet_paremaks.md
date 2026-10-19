@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: E-Maksuamet paremaks!
 author: sten
 type: post
@@ -62,3 +63,27 @@ Osalejad: [Peeter Marvet][1], [Henrik Roonemaa][2], [Henn Sarv][3], Sten Tamkivi
  [3]: http://www.linkedin.com/pub/henn-sarv/9/b88/62b
  [4]: http://www.emta.ee/24146
  [5]: http://www.emta.ee/24148
+
+---
+
+## Comments (archived from the old blog)
+
+**margus** · 2009-07-18 08:40
+
+See tagasiside ("...osalejatele, mis oli tulemus, kas miskit läks ka töösse neist mõtetest") võiks siis juba olla ju laiem, nt kasvõi siinsamas blogis. Kui ürituse kajastus siin juba oli, siis miks ei võiks MTA tagasisidet millalgi just siin anda?
+
+**[Mark Kofman](http://programeter.com)** · 2009-07-18 08:42
+
+Maksuametile, ja tegelikult kõikidele e-riik projektidele võiks ära teha\
+GetSatisfaction ja Uservoice foorumid. Usun, et miljonist kasutajast tuleks seal veelgi väga väärtuslike soovitusi:)
+
+**[Jaanus Kase](http://www.jaanuskase.com/)** · 2009-07-19 18:18
+
+Kasutajaliideste point on oluline. Kõik need Eesti e-riigi liidesed on toimivad, aga tuimad ja koledad. Näiteks USA-s on turg avatud ja on olemas hulk programme, nt TurboTax, mis sisuliselt realiseerivad e-maksuameti, aga märksa sõbralikuma kasutajaliidesega kui Eesti oma. Oluline vahe on selles, et tegu on tasulise programmiga ja turul on seega reaalne konkurents, mis ärgitab arendajaid liideseid igal aastal paremaks aretama. Eestis on üks MA, kõigile avatud ja tasuta, aga UI innovatsiooni ja reaalset arendust ei toimu.
+
+**Hannes Udde** · 2009-09-15 13:41
+
+Kolm kuud kohtumisest möödas, paras aeg kirjutada mis toimunud. Oleme kõik need ettepanekud läbi arutanud ja teatud osad ka töösse võtnud. Kohe hakkame tegelema juba 2009 aasta tulude deklareerimise ettevalmistamisega ning ideid on küllaga. Samas ehk hõikaks siis kui asi juba tehtud.\
+Mis aga tehtud? Oleme meili suhtluse teksti üle vaadanud, et seal oleks selge ja konkreetne sõnum, mitte palju tühja juttu ja seaduse paragrahve.\
+Ja veel oleme ka oma 2009 I poolaasta teeninduse kokkuvõttes sellele kohtumisele viidanud, kui positiivsele ja igati vajalikule: <a href="http://www.emta.ee/pressimaterjalid" rel="nofollow">http://www.emta.ee/pressimaterjalid</a> Teeninduskorralduse osakonna 2009 I poolaasta kokkuvõte.\
+Lähemalt juba siis kui uus tulude deklareerimine algab , siis saab öelda mis tehtud.

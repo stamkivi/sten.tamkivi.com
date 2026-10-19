@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Skype 4.0 beta 1 is out!
 author: sten
 type: post
@@ -49,3 +50,60 @@ See also: Skype 4.0 [Beta 2][10], [Beta 3][11]
  [9]: http://share.skype.com/sites/garage/2008/06/skype_40_beta_1_for_windows_in.html
  [10]: http://sten.tamkivi.com/2008/10/skype_40_is_smaller_again.html
  [11]: http://sten.tamkivi.com/2009/01/skype_40_beta_3_-_updated.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Kris Haamer](http://krishaamer.com/)** · 2008-06-18 19:04
+
+Oh jeebus, misasi see on?? Suur aken hirmutab kohe ära. Mingid asjad avanevad mitmes aknas, kiirelt ei leidnud ma võimalust asja desktopi äärde dockida (vist ei saagi?). Visuaalselt täielik segadus, eri suurusega fontid ja graafika suvalistes kohtades.\
+Väga halb-halb :(
+
+**kylli** · 2008-06-18 23:15
+
+Õnnitleme!
+
+**Marco** · 2008-06-19 11:14
+
+I suggest you to read the comments on the official skype blog.\
+<a href="http://share.skype.com/sites/en/2008/06/skype_40_beta_1_for_windows.html#comments" rel="nofollow">http://share.skype.com/sites/en/2008/06/skype_40_beta_1_for_windows.html#comments</a>\
+None of your users likes the new crappy extended full-screen all-in-one-window-non-detachable.\
+Give us back the 3.8 interface!
+
+**[sten](http://sten.tamkivi.com)** · 2008-06-23 14:59
+
+Hey Marco,\
+as said above, dozens of people at Skype are carefully monitoring all user feedback. This is why we decided to make this beta different: release early, release even feature incomplete - this we have practically never done before. All to get feedback to the more radical changes and adjust as we iterate forward.\
+"None of users like it" is not true by the way, first results are quite mixed on both extremes of love and hate. Calling it "crappy" is fine, but very subjective - I do hope you have some constructive feedback for us too:\
+<a href="http://www.skype.com/go/betafeedback" rel="nofollow">http://www.skype.com/go/betafeedback</a> and Skype Forums on 4.0 beta feedback (http://forum.skype.com/index.php?showforum=227) are open just for that.\
+Thanks in advance for helping us drive 4.0 to a landmark release! Meanwhile, nobody has taken 3.8 away from you, if you feel uneasy with beta software such as 4.0 in its current state, feel free to continue using the last proper gold release.\
+Sten
+
+**[Kris Haamer](http://krishaamer.com)** · 2008-06-25 10:31
+
+Kuigi ma olin alguses väga kriitiline, arvan nüüd, et selline uus vorm võiks isegi töötada, lihtsalt ta muudatab Skype olemust. Ma ei näe Skype enam IM tarkvaravana vaid pigem Facebooki sarnase social browserina.\
+Suurem ekraanipind annab ruumi integreerida kogu sotsiaalne Internet Skype, nagu üritab teha näiteks FriendFeed. Kui ma saaks Skype kaudu Twitterit uuendadata ja Facebooki sõpru browsida ning neile helistada, ja chat history läheks Gmaili kontole, oleksid esimesed sammud sinna poole tehtud.
+
+**Nikos Triantafyllou** · 2008-06-29 18:43
+
+Well the general consensus reading most messages on the Skype forum is that this is hardly a success and that Skype have really failed to capture our imagination with a disproportionately large, crowded bloated interface.\
+Did you do any usability testing before releasing the beta? Considering how well structured version 3.0 this looks like an appalling effort. One of the key strengths of Skype has been the excellent interface that "blended in" with the desktop - the verison 4.0 interface dominates the desktop.\
+I have re-installed 3.8 and hope that you listen to your users and either give us the option to have a version 3 "skin" or look or even better abandon this ill thought effort and go back to the drawing board. Why are you trying to break something when it works perfectly!!!
+
+**[sten](http://sten.tamkivi.com)** · 2008-07-01 00:23
+
+Hey Nikos,\
+again, we do listen. We wanted to get the feedback going releasing early to real users like you (in addition to the heavy usability lab testing we do anyway) and we certainly have achieved that. Yes, the requirement for a "compact mode" is a recurring theme, especially from long-time users with established usage patterns, so this is something we're working on for beta 2 later in the summer.\
+Mike wrote a good summary of the first 10 days here:\
+<a href="http://share.skype.com/sites/en/2008/06/10_days_later.html" rel="nofollow">http://share.skype.com/sites/en/2008/06/10_days_later.html</a>\
+BR,\
+Sten
+
+**[BommaNailia](http://www.tinyos.net/scoop/user/squirt)** · 2008-08-04 03:26
+
+Thanks !
+
+**Paul Lowry** · 2008-09-24 18:54
+
+I highly recommend you create a user survey that includes graphics and some of those classy demo videos so you can get a more systematic feedback on 4.0 features. I'm sure you guys would rather see ratings of the elements that make up 4.0 rather than just narrative that can be highly emotional. I really don't think that usage patterns tell the whole story. You need to break up features into a well designed user survey so you get measurable feedback as well as emotional comments. Frankly, I don't know how you measure some of the comments I've read so far. Are curse words a 10 and no comment a 0? Your product was so close to a bulls-eye from its very beginning. I would hate to see your vision blur at this time.

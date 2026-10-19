@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Paar päeva Eesti majanduspoliitika tegelikel teemadel
 author: sten
 type: post
@@ -66,3 +67,19 @@ konverentsil veetsin pea kogu reedese päeva. Kuigi sellest on tulemas ka DVD, o
  [8]: http://www.ettk.ee/et/koolitus/tuulelohelend2006/programm2006
  [9]: http://www.eti.ee/
  [10]: http://www.cynensis.com/conferences.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[seikatsu](http://sten.tamkivi.com/2007/02/milleks_need_reportaazhid/)** · 2007-02-17 16:29
+
+**Milleks need reportaazhid?**
+
+Sulev Vedler kirjutab viimases Eesti Ekspressis Tööandjate Keskliidu sellenädalasest võimuvõitlusest. Avastasin eile, et ekspress.ee domeenist on hakanud siia blogisse laekuma lugejaid ja seeläbi, et sealse artikli teine pool põhineb suuresti minu kokk...
+
+**[Jaanuse asjad](http://www.jaanuskase.com/et/2007/02/washingtonist_noudmiseni.html)** · 2007-02-26 01:53
+
+**Washingtonist, nõudmiseni**
+
+Istun praegu kuskil suvalises hotellis Washington D.C. lähistel ja ootan minibussi, mis mind poole tunni pärast lennujaama viib, et tagasi Euroopasse põrutada. Air France pikad lennud on ka turistiklassis täiesti sõidetavad. Lufthansa Boeing 747 võib j...

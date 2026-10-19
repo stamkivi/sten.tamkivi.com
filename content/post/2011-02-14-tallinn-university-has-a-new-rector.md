@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Tallinn University Has a New Rector
 author: sten
 type: post
@@ -53,3 +54,21 @@ I hope the professor Land&#8217;s international background will be of help and I
  [9]: http://twitter.com/#!/distantsignals
  [10]: http://distantsignal.blogspot.com/
  [11]: http://twitter.com/#!/tarmojuristo
+
+---
+
+## Comments (archived from the old blog)
+
+**[Kristjan Jansen](http://www.facebook.com/kristjanjansen)** · 2011-02-14 19:35
+
+Thanks Sten to finally break this utterly frustrating dichotomy of tech/humanitarian, hard/soft sciences and public perception of IT education happening in freezing-temp, fluorescent-light server rooms, something outside of society and humans. I'd add University of Arts to the mix to complete the triangle of technology-society-aesthetics.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-14 19:42
+
+Absolutely - I do believe "interdisciplinary" needs to be a firm underlying concept of the IT Academy initiative if it drives to be relative to modern world at all.
+
+Strong real and computer sciences competences of TÜ and TTÜ need to be complemented by other disciplines from their own house, as well as TLU, EKA - but why not the Academy of Music and Theatre and others.
+
+**julia jin** · 2011-09-30 19:17
+
+Professor Tiit Land was installed as the Rector of Tallinn University on May 11th. He took the Rector's Oath of Office before the Senate of Tallinn University & delivered his Inaugural Speech. The President of the Republic of Estonia, Toomas Hendrik Ilves placed the Chain of Office on the new Rector of Tallinn University, Tiit Land. <a href="http://jogosdemotos9.org/" rel="nofollow">jogos de motos</a>

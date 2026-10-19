@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Teema 2012: Töötajad omanikeks'
 author: sten
 type: post
@@ -71,3 +72,13 @@ Teistpidi erisoodustusmaksu kaotamine töötajate omanikeringi kaasamiselt ei v�
  [2]: http://teenusmajandus.ee/teema2012/
  [3]: http://sten.tamkivi.com/2009/11/tootajate_optsioonid_nassus_su/
  [4]: http://www.facebook.com/sten.tamkivi/posts/10150670945653793
+
+---
+
+## Comments (archived from the old blog)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-03-09 10:35
+
+Vestluses ühe juristiga tõi too välja veel ühe huvitava vaatenurga: nimelt kui järele mõelda, siis ei anna/müü \_tegelikult\_ töötajale ju aktsiaid mitte tööandja (firma jaoks ei kaasne sellega mingit kulu, mida peaks majandustegevuse tuludega katma jne), vaid \_teised_aktsionärid\_ ja töö tööandja juures on lihtsalt üks tingimus selle tehingu toimumiseks.
+
+Ehk veel üks argument selles suunas, et ei ole põhjust tööandja maksustamiseks. Ja ilmselt teisi aktsionäre (olgu need siis füüsilised või juriidilised isikud, kodust või välismaalt) me ju omanikeringi laiendamisel maksustada ei saa ega tahagi?

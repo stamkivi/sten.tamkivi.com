@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Deep Thoughts on Immigration
 author: sten
 type: post
@@ -26,3 +27,11 @@ The service we received throughout the dinner was excellent.
 
  [1]: http://www.kogo.cz/
  [2]: http://en.wikipedia.org/wiki/Republic_of_Macedonia
+
+---
+
+## Comments (archived from the old blog)
+
+**Daniel** · 2007-09-19 21:35
+
+And nations, they are a relatively new thing in world history. Maybe they will become just a temporary thing..

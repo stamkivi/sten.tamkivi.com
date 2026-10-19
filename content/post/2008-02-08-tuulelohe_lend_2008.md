@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Tuulelohe lend 2008
 author: sten
 type: post
@@ -109,3 +110,37 @@ Indrek Neivelt, Arengufondi nõukogu esimees:
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F02%2Ftuulelohe_lend_2008%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/2250382960/ "Tuulelohe lend 2008 by seikatsu, on Flickr"
+
+---
+
+## Comments (archived from the old blog)
+
+**[margus](http://claimid.com/margus)** · 2008-02-09 08:37
+
+Sinu väljatoodust ning mõnede erakondade väljaütlemistest koorub (minu arusaamist mööda) välja huvitav vastuolu:\
+\- ühed ütlevad, et riigi ülesanne on erasektorit võimalikult vähe takistada (seega ka võimalikult vähe "suunata") ning ainult alandada makse ja muid piiranguid (tööjõud paindlikumaks);\
+\- teised ütlevad, et riik peaks tegema oluliselt rohkem (Neivelti "Ainult madalate maksudega ei jõua kuhugi"/"Mis me need 9 aastat teinud oleme?" jne), mitte piirduma vaid suhtumisega "riigi ülesanne on mitte sekkuda, ei piirangute ega eesmärgiseadmisega, siis ei saa negatiivse stsenaariumi korral meid keegi süüdistada" (ehk siis kõigutamatu usk "nähtamatusse käesse")\
+Kas selline vastuolu koorus ka konverentsil välja, või näen mina vastuolu, mida pole olemas?
+
+**Madis** · 2008-02-09 12:51
+
+Mõned märkused...\
+Siin on kirjutatud, et Lippmaa väitis, et meil on doktorante 3x rohkem kui vaja... Mulle tundub see küll täiesti uskumatuna. Praegu pole neid isegi niipalju, et asendada varsti pensionile minevaid õppejõudusid, aga doktoreid on vaja ka tööstusesse. Google töötajatest on vast pooled selle kraadiga ja ülejäänud siis magistrid. Kui palju on Skype palgal doktoreid? Eriti vist pole, sest neid lihtsalt pole Eestist võimalik palgata.\
+Teine asi veel....\
+Neivelt väidab, et Microsoft sündis riigi toetuseta. See on üks järjekordne ilus müüt. Microsoft on igal aastal alates loomisest kuni tänase päevani saanud suuri maksusoodustusi.
+
+**[sten](http://sten.tamkivi.com)** · 2008-02-09 16:30
+
+Margus \>\
+ma arvan, et ei ole ületamatut vastuolu üldise majandusvabaduse (s.h ka liberaalsema tööjõuturu) ja riigi aktiivsemate meetmete vahel, mis üritavad pisut suunata, mis valdkondades ja turgudel neid vabadusi kasutatakse. Kas eksport või siseturg? Kas põllumajandus või kõrgtehnoloogia? Riik võib seada nende vahel prioriteete, isegi kui vähemprioriteetsetega tegelemist kellelgi ei piira.\
+Aga see on õige tähelepanek küll, et Eesti ühiskonnas tundub hakkavat kujunema kerge väsimus absoluutse "nähtamatu käe"-usu osas. On's see siis sotsiaalsete või keskkonna-väärtuste tõus või ühiskonda koondava tulevikuvisiooni otsimine -- need asjad ei teki absoluutsete vabadustega turumajanduses üleöö, kuna ei ole lühiajaliselt majanduslikult kasu(m)likud.
+
+**[sten](http://sten.tamkivi.com)** · 2008-02-09 16:37
+
+Madis \>\
+Lippmaa väide oli see, et kui toormaterjali ei ole, ei ole mõtet punnitada puht kvantiteedi pärast tippsportlasi toota. Et doktorantide arv ei ole oluline, vaid neist tulevate doktorite teadustöö (ja õpetamise) kvaliteet.\
+Sul jäi vist kahe silma vahele see tema järgmine punkt. Kui enda haridussüsteemist ei tule piisavalt väärikat materjali, tuleb need doktorid ja professorid sisse tuua. Et mõnekümne aasta pärast jälle oma süsteemist pealekasvu saada.
+
+**toivo** · 2008-02-12 00:20
+
+miks peaks riik toetama ettevõtlust (rahaliselt)? nagu praegu AF ja ESA kaudu? riik peaks maksma õpetajatele palka ja korraldama haridust mitte ettevõtjaid abistama.
