@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Liminal devices, or if iPhone met Wii
 author: sten
 type: post
@@ -40,3 +41,16 @@ It is just really cool that looking at iPhone, Wii and many power-feedback gamin
  [2]: http://www.jaanuskase.com/en/2007/01/iphone_initial_thoughts.html
  [3]: http://medialabeurope.org/
  [4]: http://medialabeurope.org/research/group.php?id=6
+
+---
+
+## Comments (archived from the old blog)
+
+**[kaur](http://-)** · 2007-01-21 01:54
+
+Complement that with vibrating batteries/cover and you will get instant teledildonics for the masses :)
+
+**Juha** · 2007-02-04 21:00
+
+Using motion sensors have been studied for a long time in lab prototypes and glad to see that Apple is the one to bring it to the masses. Samsung has already one clamshell GSM with motion detection but they are using that just for games. Finnish company MyOrigo had "production" ready GSM phone, cancelled.\
+Apple's iPhone probably includes just one accelerometer (1 or 2-axis) but putting in 3-axis would allow more rich applications as listed in Sten's post. Other uses could also include stuff like context awarness where device uses it's sensors (radio's, motion, mic) to detect the mode of usage and the situation and adjusts functionality accordingly.

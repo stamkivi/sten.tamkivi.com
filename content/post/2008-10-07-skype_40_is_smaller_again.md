@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Skype 4.0 is smaller again
 author: sten
 type: post
@@ -48,3 +49,17 @@ See also: Skype 4.0 [Beta 1][1], [Beta 3][6]
  [4]: http://www.flickr.com/photos/skypeconversations/sets/72157607505702184/
  [5]: http://ecustomeropinions.com/popup/survey.php?sid=662462508
  [6]: http://sten.tamkivi.com/2009/01/skype_40_beta_3_-_updated.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Taavi](http://cavist.blogspot.com)** · 2008-10-26 22:21
+
+Top stuff! Mike andis väga hea ülevaate värske beta omadustest. Mis siis muud, kui uuele aparaadile uus skaip selga...
+
+**[Aljona](http://unificationist.blogspot.com)** · 2008-11-28 23:55
+
+Kõik on tore, aga ma tahan saada programmi interface roheliseks muuta :) praegu on ta taevasinine...\
+kaalun skype'i nupu panekut enda blogisse..\
+Tänud, igatahes!

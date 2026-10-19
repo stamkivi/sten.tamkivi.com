@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Swedbank, ambitsioonid ja innovatsioon
 author: sten
 type: post
@@ -40,3 +41,18 @@ Ilusat [innovatsiooniaastat][2] teilegi, kallis Swedbank! Ja edu sellise &#8220;
 
  [1]: http://paber.ekspress.ee/viewdoc/40BAA6C6D0D40D22C2257536004DCBFB
  [2]: http://in.ee/
+
+---
+
+## Comments (archived from the old blog)
+
+**Andres Kütt** · 2009-01-19 12:30
+
+I do think you are being overly harsh towards the gentleman. By all due respect, this man has probably the best überblick of Estonian economy and its international perspectives. And he has been doing his stuff for a couple of years, I believe. So there's got to be some point to what he is saying.\
+As to countries raising from their knees through stuff "everybody does" you don't need to look that far. Remember our very own Russian crisis and 1997? Or Germany after the war?\
+That said, innovation and knowledge-based economy are the only viable long-term options Estonia has but to come out of this crisis as a winner, effort and improvement are needed right now and unfortunately innovation is not something you can just turn on.
+
+**[Mihkel Jäätma](http://www.realeyes.it)** · 2009-02-11 02:33
+
+Sten is not talking about the man, but what the man said. I haven't read the whole article, but this quote by itself really makes one grab his head in \*pain\*...\
+Waiting for better times to 'turn on the innovation' later does not make any sense. It will never be easier and more feasible to make meaningful changes than right now. The amount of unemployed, underemployed or unhappily employed people around will never be bigger and neither will be the billions available from EU Structure Funds. Quite a unique window of opportunity available only here and now.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Eesti 90 Logotype
 author: sten
 type: post
@@ -33,3 +34,15 @@ Thank you, \[Kaarel Vahtramäe\](http://www.velvet.ee/people\_eng.php?pid=3&pg=6
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F01%2Feesti_90_logotype%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://eesti90.ee/public/logo.png
+
+---
+
+## Comments (archived from the old blog)
+
+**[sepp](http://sepp.offline.ee)** · 2008-01-07 12:11
+
+oh, it's "90" there... crikey, it has always reminded me a logo of an Estonian dairy (i can't put my finger on it, which one) or a kolkhoz from my childhood :)
+
+**[Peeter P. Mõtsküla](http://peeterpaul.motskula.net)** · 2008-01-07 20:56
+
+IMO it's **way** better than the notorious welcometopalESTina, and i guess it probably didn't take EEK 14 M to create.

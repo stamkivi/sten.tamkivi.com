@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: On Tackling Really Hard Problems
 author: sten
 type: post
@@ -73,3 +74,18 @@ And if you&#8217;re still after more, recommend clicking through:
  [8]: http://www.fhi.ox.ac.uk/
  [9]: http://www.thielfoundation.org/index.php
  [10]: http://www.thielfoundation.org/index.php?option=com_content&view=article&id=15&Itemid=21
+
+---
+
+## Comments (archived from the old blog)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-10-27 19:02
+
+Found a few more thorough overviews of all presentations to share:\
+\* http://singularityhub.com/2011/10/22/singularity-summit-2011-part-i-longevity-and-health/\
+\* http://singularityhub.com/2011/10/22/singularity-summit-2011-part-ii-artificial-intelligence-and-the-brain/\
+\* http://singularityhub.com/2011/10/10/singularity-summit-2011-a-state-of-the-future/
+
+**Anonymous** · 2011-10-28 04:07
+
+did anybody else think Peter Thiel speaks a lot like Mark Zuckerberg? Maybe he's Mark Zuckerberg from the future who came to invest and advice himself. :)

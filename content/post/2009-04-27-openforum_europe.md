@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: OpenForum Europe
 author: sten
 type: post
@@ -57,3 +58,11 @@ Anyway, the cleaned-up full list of my tweets is below. You can see quite a bit 
  [6]: http://twitter.com/seikatsu
  [7]: http://search.twitter.com/search?q=%23openforum
  [8]: http://openforumeurope.org/summit2009/presentations
+
+---
+
+## Comments (archived from the old blog)
+
+**[Siim](http://siim.lepisk.com)** · 2009-04-28 12:28
+
+Perfect idea of tweeting the conference in simple briefs! Now I have good overview of who's full presentations are worth checking further for more details :)

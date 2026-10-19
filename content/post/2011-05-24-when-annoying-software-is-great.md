@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: When Annoying Software is Great
 author: sten
 type: post
@@ -80,3 +81,30 @@ What do you think?
  [10]: http://gmail.com
  [11]: http://gmailblog.blogspot.com/2008/10/new-in-labs-stop-sending-mail-you-later.html
  [12]: http://www.quora.com/When-it-is-good-for-software-to-get-in-the-users-way
+
+---
+
+## Comments (archived from the old blog)
+
+**[Daniel Vaarik](http://distantsignal.blogspot.com)** · 2011-05-24 14:17
+
+An iPad game Sword & Sworcery actually asks you to stop playing once in a while.
+
+P.S. Slavoj Žižek has observed that one of the virtual environments with most freedom - Second Life - ended with most people going ... shopping.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-05-24 17:22
+
+Hmm.. why do you think S&S does that? To create artificial scarcity?
+
+**[Daniel Vaarik](http://distantsignal.blogspot.com)** · 2011-05-24 17:40
+
+Well, first it is Canadian software:). Second, it is cool. But on a more serious note, to me this discussion is not so much about disruptive user experience or annoying software being great, but it is about the respect towards user.
+
+In most examples you brought, it is the respect towards the user's needs, tastes etc, that makes the software great. And when for that respect you need to remind the user of limitations, dangers or whatever, then be it!
+
+**[Martin Henk](http://www.facebook.com/martin.henk)** · 2011-05-24 19:17
+
+Disclaimer: I'm a co-founder at Pipedrive :)
+
+The sales management app Pipedrive.com does some nagging to get you to close more deals. Like displaying a warning next to every deal that has nothing scheduled with it. Or opening a schedule next activity dialog after after you mark the last one done. \
+It might be annoying to some, but it makes you realize that a deal with no planned next activity is a dead deal.

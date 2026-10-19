@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Töötajate optsioonid: nässus süsteem hullemaks'
 author: sten
 type: post
@@ -104,3 +105,116 @@ Kui meie töötajad ei saa olla omanikud, siis jäämegi lihtsaks allhankemaaks,
  [5]: http://www.facebook.com/sten.tamkivi?v=feed&story_fbid=203278135378
  [6]: http://tarkinvestor.ee/wiki/index.php/Optsioon
  [7]: http://kasulik.info/wlex/?act=TuMS&now=12.11.2009#p48
+
+---
+
+## Comments (archived from the old blog)
+
+**[ott](http://okmobile.blogspot.com)** · 2009-11-13 08:12
+
+Eks nende kõikide aukude "kinnitoppimise" taga on otsus hoida ettevõtte tulumaksu nullis ning individuaalse tulumaksu langetamine - kuskilt peab riik raha saama, seekord siis läbi teistsuguste maksude.\
+quote: "Loe kehtiva Tulumaksuseaduse §48 siit. Optsioonid on väärtpaberid, mille üleandmise hetkel maksustatakse neid erisoodustusena, ehk siis nii tulu- kui sotsiaalmaksuga."\
+Minu tagasihoidliku personaalse arvamuse kohaselt on see vale - optsioon klassikalises mõttes on kaubeldav, st võõrandatav kolmandale isikule. Ettevõtte optsioonide eesmärk on motiveerida töötajat, seega on nad standardina \_personaalsed\_ ning mittevõõrandatavad - see ei ole garanteeritud tulu. Tegu on siiski "õigusega soetada tulevikus kokkulepitud hinnaga aktsia", mis kuni selle otsuse hetkeni on ettevõtte oma - töötaja omab \_ainult õigust\_ seda exercise tulevikus teha.
+
+**[Kalju](http://kalju.ruutli.com)** · 2009-11-13 09:11
+
+Pealegi - täna ei teeni riik maksudena optsioonidelt midagi - neid lihtsalt ei kirjutata välja (vähemalt Eesti firmades). Kui optsioonide maksustamine asendada selle kaudu soetatud aktsiate müügist saadud kasumi maksustamisega ei teeni riik täna samuti midagi. Kuid ettevõtluskeskkond paraneb tunduvalt!
+
+**[sten](http://sten.tamkivi.com)** · 2009-11-13 09:32
+
+Hea point, mida unustasin lisada - riik ei teeni praegu ja ma kaldun arvama, et pärast sellist muudatust ei teeniks ka edaspidi, kui maksustamine toimub enne (teoreetilisi) tulusid.
+
+**[Peeter P. Mõtsküla](http://peeterpaul.motskula.net/)** · 2009-11-13 10:02
+
+Ülereageerimise all pidasin silmas just seda, et Su algne sõnum keskendus sellele, et kavandatav muudatus teeb rahvusvaheliste firmade elu Eestis kehvemaks, jättes tähelepanuta selle, et \*\*tegelikult\*\* tuleks ettevõtluskeskkonna parandamiseks parandada kohalike ettevõtjate võimalusi töötajate kompenseerimisel läbi optsioonide.\
+See kirjutis siin on sisult kordades parem kui Su tweet, mis selle diskussiooni käima lõi. Samas, diskussiooni käivitajana töötab "appi-appi-taevas-kukub-alla" alati paremini kui sisukas analüüs (Õhtulehel on rohkem lugejaid kui Sirbil).\
+Ja mu meelest väärib see postitus bookmarkimist ja kõigile töötajaoptsioonidega veel mitte kursis olevatele inimestele ettesöötmist.
+
+**[sten](http://sten.tamkivi.com)** · 2009-11-13 10:52
+
+Aitäh, Wolli. Olemegi suutnud tõestada, et 140 märgiga maailma ei muuda. :)\
+Aga jah, mul on ka väga hea meel, et diskussioon tekkis - ja kui sellel postitusel on ka lihtsalt rahvahariduslik väljund, on ka see ilmselt kirjutamisele kulutatud aega väärt.
+
+**[Ain](http://twitter.com/tekkie)** · 2009-11-13 11:40
+
+Selliseid artikleid, sõnavõtte ja oponeerimist lugedes on hämmastav, kui palju lolle ideid üks avalik sektor suudab genereerida.\
+Kuidagi on nii, et kõik see neoliberaalne majanduspoliitika saab siis otsa, kui kontod lähvad punaseks. Hakatakse maksustama mida iganes ja keda iganes, rabelema ja üle öö käibemaksu ning pensioniiga tõstma ilma väga süüvimata, kuidas see asi tegelikult on.
+
+**[Tõnu Samuel](http://no.spam.ee/~tonu/)** · 2009-11-13 19:48
+
+Kui kõik läheb nii nagu tavaliselt siis hakatakse "optsiooni optsioone" või siis "optsioone vastutavale hoiule andma" vms. Mäletate näiteks öist viinalaenutust? Müümine keelati ära aga viina laenutamine on JOKK.
+
+**Raiko Uri** · 2009-11-14 16:57
+
+Miks ma ei ole nõus Steni väidetega.\
+Eelkõige selle pärast, et seadusandlust tehes ei saa lähtud paarist näitest vaid tuleb arvestada kogu riigi ja majanduskeskkonnaga. Ja tuleb arvestada seda, et ahned kapitalistid hakkavad igat seaduse antud võimalust oma rikastamiseks ära kasutama.\
+Kui ettevõtte töötajatele antavaid optsioone ei maksustataks sotsiaalmaksuga, saaksid sellest start-up'id natuke tulu aga riik tervikuna väga palju kulu. Seega pole see mõistlik ning optsioone tuleks maksustada kõikide palkadele kehtestatud maksudega. Oluline on seejuures muidugi, et maksustataks ainult optsiooni väärtust, mitte alusvara väärtust.\
+Allpool kirjutan täpsemalt lahti näited, miks ma nii arvan. Aga enne paar vastust Steni väidetele.\
+STEN: Optsiooni vastuvõtmine on töötaja poolt sisuliselt otsus investeerida finantsturgudele ja võtta teadlikult sellega kaasnevad riskid.\
+RAIKO: Kui käsitleda töötaja optsiooni kui investeeringut finantsturgudele, siis peaks seda maksustama samamoodi kui kõiki muid investeeringuid aktsiaturgudele. Kui mina investeerin osa oma palgast kuhugi, siis on sellelt sots maks ära makstud.\
+STEN: Optsioon osta aktsiat ei ole töötasu osa, kuna see ei tähenda regulaarseid väljamakseid tööandja poolt, vaid üksnes teoreetilist tulevikutulu, mida töötaja võib, aga ei pruugi saada\
+RAIKO: See et tulu on teoreetiline ei puutu jällegi asjasse. Selle loogika järgi peaks ka igasugune muu mitte-rahaline tasustamine olema maksuvaba. Kui töötaja läheb firma kulul puhkusereisile, siis pole ju ka kindel, kas ta ikka saab ilusa ilma ja meeldiva puhkuse. Samuti võiks rääkida, et puhkus on vajalik inimese motiveerimiseks. Siiski maksustatakse selliseid tasustamisi sotsiaalmaksuga, kuna vastasel korral makstaks suur osa palka välja mitte-rahaliselt ja riigil jääks saamata suur osa sotsiaalmaksu (nagu sa ka ise mainisid, sotsiaalmaksu olemus ja suurus on eraldi teema).\
+STEN: Optsiooni üleandmise hetk on maksustamiseks täiesti vale. See, kas töötaja saab tulu või ei saa, selgub tulevikus -- ja kui see peaks juhtuma, siis tollel tulevikuhetkel tulekski maksustada saadud reaalne tulu tulumaksuga.\
+RAIKO: Miks ainult tulumaksuga, kui kõik teised töötajad maksavad oma palkadelt ja boonustelt ka sotsmaksu? Kui sinu arvates tuleks lugeda töötajapoolse hüve saamise hetkeks optsiooni realiseerimist ja aktsiate müümist, siis peaks ka sel hetkel maksustama seda kõigi töötasuga seotud maksudega. Minu arvates on siiski mõistlikum maksustada palgana optsiooni väärtust väljastamisel ja optsiooni väärtuse kasvu maksustada capital gain'ina.\
+Nüüd aga sisu juurde - sinu arvates teeb töötajatele antavate optsioonide maksustamine sotsiaalmaksuga optsiooniskeemide kasutamise start-up'idele liiga kalliks ning see ei laseks tuue meile häid firmasid ja töötajaid. Minu arvates pole see nii.\
+Näide (sama mis Facebookis):\
+Alustav ettevõte omakapitaliga 1 000 000 EEK, annab töötajale optsiooni 1% ettevõtte aktsiate ostmiseks. Alusvara väärtus täna 10 000 EEK. Optsiooni eesmärgiks on motiveerida töötajat rohkem pingutama ja anda talle võimalus teenida suurt tulu kui firmal läheb hästi.\
+Optsiooni strike price 10 000 EEK. Sisuliselt saab töötaja siis õiguse osta tulevikus aktsiaid tänase hinna pealt.\
+Mis on sellise optsiooni väärtus? Ega seda lihtne hinnata ei ole, aga ütleme et see väärtus on 500 EEK, sest tõenäosus, et optsioon realiseerub pole ju väga suur.\
+Seega tuleb 500 EEK pealt maksta ka sotsmaks.\
+Kui nüüd tulevikus firma läheb börsile ja maksab näiteks 100 MEEK, on töötajal optsiooni realiseerimisel võimalik saada 990 000 EEK tulu. Selle summa pealt makstakse ainult tulumaks.\
+Seega tüüpilise start-upi puhul räägime me üsna eba-olulistest summadest. Kui sul on infot, et Eestis maksustatakse optsiooni alusvara väärtuse (mitte optsiooni väärtuse) järgi, siis palun anna selle kohta mingi viide.\
+Ja nüüd näide, kuidas Steni poolt pakutud seadusemuudatust saab hakata kurjasti ära kasutama. Näiteks Merko aktsia maksis reede õhtul 5,19 EUR. Ütleme, et Merkos on töötaja Juku, kelle kuupalk on 5000 EUR. Reedesel palgapäeval antakse Jukule optsioon 5000/5.19=963 aktsia ostmiseks strike price'iga 0 ja exercise date'iga samal päeval. Riik ei saa kogu Juku palga pealt senitigi sotsmaksu. Näide võib tunduda jabur, aga seaduste koostamisel tuleb teha võimalikult üldised reeglid, mida saab üheselt tõlgendada. Kui iga optsiooni juhtumit peaks keegi maksuametist hakkama läbi vaatama ja subjektiivselt hindama, siis oleks süsteem nii keeruline, et ikkagi oleks peaaegu võimatu optsioone väljastada.\
+Lisaks eeltoodud näidetele hakkaksid optsioone kasutama ka kõik muud ettevõtte oma pikema-ajaliste boonuste maksmisel.\
+Seega Steni poolt soovitatud muudatus võtaks riigilt palju sotsiaalmaksutulu, aga kasu star-up'idele oleks minimaalne. Parem korjata kõikidelt palkadelt maksu võimalikult ühtselt ja panustada see raha parema ettevõtluskeskkonna loomiseks.
+
+**Keegi, ka näinu** · 2009-11-15 20:59
+
+Ka meie olime sunnitud oma peakorteri siit ära kolima just optsioonide tõttu. Alustav firma peab ikka kogu ressursi panema põhitegevuse käivitamisesse ja paraku ei ole võimalik laenurahaga maksta tulumaksu riigile optsioonide eest. Kuid optsioone on vaja. Ja see tähendab, et lühinägelikkus (kohe raha kätte) läks Eesti Vabariigile maksma päris mitukümend miljonit. Ja võib olla, et rohkemgi - eks tulevik näitab. Aga hea meelega oleks maksnud Eesti riigile mitte ühele teisele riigile. Kurb.
+
+**[sten](http://sten.tamkivi.com)** · 2009-11-16 05:11
+
+Raiko,\
+\*"Ega seda lihtne hinnata ei ole, aga ütleme et see väärtus on 500 EEK, sest tõenäosus, et optsioon realiseerub pole ju väga suur."\*\
+Palun tutvusta seda arvutuskäiku, millega Sa jõuad (ja tulevikus ka maksuametnik jõuab, läbipaistval ja kontrollitaval viisil) optsiooni väärtuseni?\
+Noteeritud ettevõtete puhul määrab need hinnad turg (nt Eestis <a href="http://lhv.delfi.ee/markets/options_ee.cfm)." rel="nofollow">http://lhv.delfi.ee/markets/options_ee.cfm).</a>\
+AGA seda tabelit vaadates peaks juba aru saama, et eriti meie õhukesel turul ei anna turg hinda omatöötaja-optsioonile olulistel parameetritel: nt mis on see optsioon väärt täna, kui\
+\* selle realiseerimistähtaeg on 4 aasta, mitte 3 kuu pärast?\
+\* kui see optsioon ise \_ei_ole\_ kaubeldav (sest omatöötaja optsioonid on nimelised ja seotud mitte ainult isikuga, vaid konkreetse töötsuhtega)\
+Ja noteeritud ettevõtteid, mille optsioonidega kaubeldakse, on Eestis ehk kümmekond -- kuidas Sa hindad ülejäänud 40,000 firma optsioonide õiglast hinda?\
+Ehk teistpidi võiks küsida, kui ma ütleks maksustamispäeval, et minu optsioonide maksustamisväärtus on null, siis kuidas Sa väidaksid midagi muud? Kõhutunde pealt ei saa makse määrata, sellega olen Sinu väidetest nõus.\
+Mis aga puudutab sigatsemisohtu, siis on "parem keelame kõik" mõtteviis minu arust vale ja arengut pärssiv. Kui on konkreetsed sigadused, mida on lihtne prognoosida, siis teeme seaduse nii, et neid välistada saaks? Sinu toodud Merko töötaja Juku näide on välistatav näiteks lihtsa kitsendusega, et (erisoodustusmaksu-vabaks) omatöötaja optsiooniks ei loeta neid optsioone, mille realiseerimine on töötajal võimalik kiiremini kui 12 kuu pärast.
+
+**[sten](http://sten.tamkivi.com)** · 2009-11-16 05:16
+
+Keegi -\
+väga huvitav näide.\
+Kas Sa saaksid sellest natuke lähemalt rääkida - mida see peakorteri kolimine täpsemalt tähendas? Kui palju töökohti jäi Eestisse ja mis kolis mujale? Kus tekib teenitav tulu ja mis sellest lõpuks Eestisse jõuab? Mis riiki eelistasite ja miks?
+
+**[sten](http://sten.tamkivi.com)** · 2009-11-16 05:18
+
+Käesolev teema nüüd ka TarkInvestori foorumites:\
+<a href="http://www.tarkinvestor.ee/foorum/viewtopic.php?p=73493" rel="nofollow">http://www.tarkinvestor.ee/foorum/viewtopic.php?p=73493</a>
+
+**[Priit Pirita](http://twitter.com/atirip)** · 2009-11-16 10:15
+
+Raiko Uri,\
+Sinu vastuse valguses - kas Sa ei seletaks lühidalt milles seisneb boonuspalga ja optsioonide fundamentaalne erinevus, esimest maksustatakse tagantjärele, optsioone aga ette. Minu jaoks on tegemist sisuliselt sama asjaga - teatud tingimuste täitudes, teatud aja jooksul saab töötaja teatud hüve. Minu nägemuses peaks ka boonuspalka siis maksustatama ette? Palkan oma ühemehe OÜ'sse müügimehe ja maksan kohe kassast kuus miljonit riigile ära.
+
+**[Priit Pirita](http://twitter.com/atirip)** · 2009-11-16 10:27
+
+Raiko Uri,\
+See Merko näide on tühine.\
+\- võimalik ainult ettevõtetes millede ühe aktsia hinna suhe ettevõtte turuväärtusesse on väike. Eestis on selliseid ettevõtteid väga vähe - nende töötajate pealt ei läheks palju maksu kaduma.\
+\- selliseid töötajaid kes oleksid nõus sellise skeemiga - sisuliselt väike palk töölepingus, sest töölepingusse vist ikka optsioone (loe: porgandeid) töötasuks ei määra - on tühine kogus. Need inimesed tahavad deklareeritud palka, sest neil on vaja laenu ja krediitkaarti.
+
+**[Tõnis Reimo](http://www.facebook.com/profile.php?id=1143940932)** · 2011-02-14 04:54
+
+Kas ma saan õigesti aru et see maksustamisskeem kehtib üksnes siis kui optsioon on väljastatud eraisikule ja mitte firmale?\
+Kui nii, siis kas on mingit põhimõttelist tõrget miks "tööandja" ei võiks väljastada optsiooni "töövõtja" loodud varahalduse OÜ'le? Sel juhul poleks võimalik töötajat siduda tööandjaga? Soliidsele firmale ei sobi selline "skeemitamine"?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-14 07:57
+
+Hea Tõnis, ma loodan, et Sind liigselt ei eksitanud, aga see tekst on kirjutet juba 2009. a lõpus. Sellest saadik on tööd tehtud ja 2010 lõpus võttis Riigikogu vastu tulumaksuseaduse parandused, mille järgi vähemalt kolmeaastase cliffiga omatöötaja optsioon on maksuvaba nii kohalikele kui välisfirmadele.
+
+Aga vastates Su küsimusele, siis jah, varasem skeemitamine ei tulnud nt viisakatest kohtadest raha tõstnud (PE, VC, börs) ettevõtetel kõne allagi.

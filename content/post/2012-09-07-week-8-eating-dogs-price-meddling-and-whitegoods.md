@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 8: Eating Dogs, Price Meddling and Whitegoods'
 author: sten
 type: post
@@ -164,3 +165,13 @@ For more posts on the Stanford GSB Sloan life – [click here to search by tag 
  [9]: http://www.gsb.stanford.edu/mastery/virtuallibrary
  [10]: http://www.gsb.stanford.edu/lowkeynotes
  [11]: http://sten.tamkivi.com/tag/sloan/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-09-08 01:29
+
+A very relevant article to illustrate the above-mentioned intuitional model of moral judgement further, especially for Fenno-Ugric readers (incl Estonians): http://bit.ly/P2wvYy - underlining paragraph 2.
+
+Hat tip to https://twitter.com/ilvestoomas

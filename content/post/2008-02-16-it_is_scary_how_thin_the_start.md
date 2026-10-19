@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: It is scary HOW thin the startup layer really is
 author: sten
 type: post
@@ -44,3 +45,11 @@ At the same time, the venture capital market looking to invest in those startups
  [4]: http://www.big4.com/newsletter/January2008/Global-VC-Investment-Reaches-US-40-Billion-in-the-Q4-2007.htm
  [5]: http://en.wikipedia.org/wiki/Paul_Graham
  [6]: http://www.paulgraham.com/vcsqueeze.html
+
+---
+
+## Comments (archived from the old blog)
+
+**toivo** · 2008-02-16 19:10
+
+jajah, sox on kõiges süüdi.

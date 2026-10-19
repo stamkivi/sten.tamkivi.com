@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Välisinvesteeringud 2: tore ei ole tobe'
 author: sten
 type: post
@@ -78,3 +79,29 @@ Aga tagasi teema enda juurde pöördudes &#8211; mis on teiste, eelkõige valimi
 
  [1]: http://sten.tamkivi.com/2011/02/valisinvesteeringud-valjamurdmine-maailma-ja-mikser/
  [2]: http://sten.tamkivi.com/2011/02/valisinvesteeringud-valjamurdmine-maailma-ja-mikser/#respond
+
+---
+
+## Comments (archived from the old blog)
+
+**Anonymous** · 2011-02-22 01:26
+
+\- Välisinvesteeringut ei valita. Välisinvesteering kas tuleb või ei tule. Ütleme Makroflexile, et ei ärge tooge kõiki oma Soome töökohti Pärnusse?
+
+\- Välja arvatud juhul kui tegeletakse üksiktulijate kohaste erandite ja soodustuste tegemisega a la Leedu. Eesti on valinud teise tee, loodan, et õige ja Leedu saab veel valusat 'Iirimaad' tunda, kus suured tegijad '00 alguses järjest poode kinni panid;
+
+\- Kapital on tark. Kui tööjõud, asukoht, infra, üles-allavoolu sidusvaldkondade olemasolu/puudumine seda tingivad, siis tuleb investeering väärtusahela alumisse otsa. Ja oleme tänulikud, et on tulnud ja tuleks veel. Mis muu meie 100k+ töötutearmee ära absorbeeriks;
+
+\- Meie innovatsioonipropaganda on liialt IT, toote/tegevuse ja originaalsuse keskne. Start-up-indus = meil IT. Miks nii? Äriideede puhul räägitakse tootest/teenusest mitte tarbimistungidest ja siin/meie poolt tegemise suhtelisest eelisest (mis pole ka lõppeks oluline). "Jaapani ime" oli ju näiteks kopeerimine. Teistmoodi ja paremini kopeerimine;
+
+\- Ettevõtlus on eelkõige idee ja ärategemise oskus. Selle taga inimesed ja inimestel on vaja innustust ja vabadust. Triviaalne vist. Raha läheb hiljem vaja.
+
+\- Leppima peab sellega, et nii raha kui ideid läheb raisku suurel hulgal enne kui asja saab. Ideid, projekte, ettevõtteid poputatakse. Liiga palju usku, et iga ettevõtja teeb esimese korraga Microsofti või Google. Liiga vähe hädatappu ja kannapöördeid. Maameeste värk;
+
+\- Vaja on vabaneda tootlikkuse müüdist. Et SKP per capita suureneb sama asja tublimalt ja efektiivsemalt tehes. Ei SKP suureneb ainult teisei kallimaid asju/teenuseid või samu asju kallimalt tehes;
+
+\- Kuna statistikat ei tea, siis raske hinnata kui suur osa otseinvesteeringutest on a la Skype - ostetakse kohalikult investorilt, kes investeerib kohapeale. Seega Allani kartus asjatu;
+
+\- Parim investeering on maksta Martinsonile, Neiveltile jne jne peale, et nad avalikult arutleksid erinevate äriideede üle ja üleüldse rohkem suud lahti teeksid (neid provotseerida);
+
+\- Ehk siis Allani jutu juurde tagasi tulles: elamiseks on vaja nii vett kui õhku, mitte emba-kumba. Välisinvesteeringud tulgu aga omamaiste ettevõtete maailma jõudmise hakatuseks oleks neid suurusjärgu võrra rohkem vaja (vt eespool), sest keda peab laia maailma jõudmiseks potitama, seda jäädaksegi potitama.

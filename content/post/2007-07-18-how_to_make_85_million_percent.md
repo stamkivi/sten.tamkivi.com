@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: How to Make 8.5 Million Percent Profit on Water
 author: sten
 type: post
@@ -29,3 +30,36 @@ And if you should ever buy something like sprayable Evian, unsubscribe from this
  [1]: http://www.flickr.com/photos/seikatsu/851420846/ "Photo Sharing"
  [2]: http://www.tallinnavesi.ee/pages.php/010101#tallinn
  [3]: http://www.triplepundit.com/pages/askpablo-exotic-bottled-water-002401.php
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres](http://asehr.blogspot.com)** · 2007-07-31 19:38
+
+Personally I think that anyone who regularly buys bottled water should stand in a corner. Not only does it make no economic sense it's also terrible for the environment in terms or redirecting water sources and the plastic waste.\
+A lot of bottled water is simply tap water that is slightly more purified as admitted now by PepsiCo.\
+<a href="http://www.businessweek.com/ap/financialnews/D8QL4BSG1.htm" rel="nofollow">http://www.businessweek.com/ap/financialnews/D8QL4BSG1.htm</a>
+
+**[Jaanus](http://www.jaanuskase.com/en/)** · 2007-07-31 23:37
+
+I haven't bought it, but what's wrong with bottling water into spray bottle and selling it to people at a high margin? It's called "capitalism". I can't see how this is any worse or different from, say, expensive wine or video games or Vertu mobile phones.
+
+**[sten](http://sten.tamkivi.com)** · 2007-08-01 13:34
+
+Jaanus, call me naive, but being a capitalist myself I still believe that short-term economic benefits need to be balanced with the environmental impact.\
+However, as you point out there is not that much wrong done by \_producing\_ it as there is utter stupidity shown by \_buying\_ it. The fact that this business is worthwhile as the demand apparently exists makes me sad.\
+And to Andres - I have to admit that as the water in my house is not quite drinkable straight from the tap I do buy bottled water. But only locally produced and in large (2-5 liter) packaging, for what it matters.
+
+**Oliver** · 2007-08-01 16:28
+
+But you can't get it sparkling from the tap.
+
+**bertrand** · 2007-08-02 10:17
+
+Hi Sten !\
+I think that having vacations on the other side of the globe is little bit more anti-environment than buying a little bottle of Evian.\
+And purchasing plastic toys from China is not so environmentally friendly..\
+same with drinking South African or Australian wines (Ok Ok, for this one, I am slightly biased ;-) )\
+etc.. etc.. the main issue is rather in our way of life. As individuals we have the choice to purchase NOT, but please, let's not put in this some kind of moral judgment. As Jaanus says, this is simply market's law...\
+But if entrepreneurs are including such costs in their strategy instead of "externalizing" them to the whole community, then we are definitely on the right way.

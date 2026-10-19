@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'On Bridges, Part 1: Realizing how Europe and Silicon Valley are drifting apart'
 author: sten
 type: post
@@ -112,3 +113,23 @@ Given the current state of ignorance I see a massive opportunity for (re)buildin
  [12]: http://sten.tamkivi.com/wp-content/uploads/2013/11/Screenshot-2013-11-02-12.47.07.jpg
  [13]: http://en.wikipedia.org/wiki/Mark_Granovetter
  [14]: http://en.wikipedia.org/wiki/Interpersonal_ties
+
+---
+
+## Comments (archived from the old blog)
+
+**Martin Henk** · 2013-11-18 21:27
+
+Looking forward to the next 2 episodes. Just stating there's not much going on wasn't really doing it for me, but the last 2 paragraphs got me interested in what the proposed solutions might be :)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-11-18 23:18
+
+Hope to live up to the interest - but based on the chats I had last week in Helsinki after this week, you would be surprised how wide is also the gap in understanding how little mindshare Europe has outside of it.
+
+When someone is pitching at a massive startup event, it can see like the whole world is watching, I guess - that's why I figured a reality check is warranted to get people out of the geographical echo-chambers first.
+
+**Jim** · 2013-11-19 14:40
+
+Very good point and I agree. I know there's been a lot of buzz about European startups, but other than the mobile game makers, this doesn't seem to have translated into much action, unfortunately.
+
+Definitely we've been seeing a lot more interest and focus lately on Asian startups, especially those in China.

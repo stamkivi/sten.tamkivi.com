@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Valentine the Cat
 author: sten
 type: post
@@ -22,3 +23,12 @@ The whole evening was just perfect. The oysters very fresh (as the should be on 
 
  [1]: http://www.flickr.com/photos/seikatsu/390428510/ "Photo Sharing"
  [2]: http://www.threesistershotel.com/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Guy from Tallinn](http://www.ee)** · 2007-02-18 22:36
+
+"the 3S hotel which hosts the restaurant would definitely be my \#1 choice for a place to stay at if I didn't live in Tallinn but just travelled here occasionally."\
+Considering it's the nicest and most expensive hotel of Tallinn, the one where the Queen stayed when she was here, of course that's the \#1 choice...

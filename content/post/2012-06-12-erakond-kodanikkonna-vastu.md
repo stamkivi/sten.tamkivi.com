@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Erakond kodanikkonna vastu
 author: sten
 type: post
@@ -83,3 +84,89 @@ Ma ei ole kindel, et isegi Sun Tzu&#8217;l tuli omal ajal pähe sõnastada mõni
  [6]: http://et.wikipedia.org/wiki/Eesti_erakondade_loend
  [7]: http://www.vvk.ee/varasemad/?v=rk2011
  [8]: http://www.stat.ee/rel2011
+
+---
+
+## Comments (archived from the old blog)
+
+**[Anna Karolin](http://www.facebook.com/people/Anna-Karolin/704740180)** · 2012-06-12 18:36
+
+Olen nõus, et rahastamisskandaal on jäletusväärne ja arvan, et selle tõeline jälkus-- et avalikke huvisid müüakse ja raha moonutab teisi  (sellega konfliktis olevaid) palju tähtsamaid riigi väärtusi-- pole veel kõigile kohale jõudnud. Ma arvan, et selline parteide etteheide annab tegelikult edasi varjatud etteheidet, et lihtne puu otsast karjuda, kui ise pole proovinud. Et igaüks, kes läheb poliitikasse, hakkab seda tegema ja väljaspool olevad inimesed lihtsalt ei saa aru. Mingis mõttes juhtub ju iga erialaga nii, et see, mis paistab väljastpoolt mäda, on ühe tööstuse paramatus ja nii see vast paistabki ka erakondade liikmetele. Ning parteides on palju inimesi, kes on liitunud täiesti legitiimsetel põhjustel (et teha midagi head ära), kuid kes on hakanud osast süsteemist ja tunnevad, et nad pole süsteemis ise süüdi.
+
+Taaskord, ma ei soovi enda kommentaariga midagi õigustada, vaid selgitada, mida Atonen mõelda võib.
+
+**[Mart Parve](http://twitter.com/martparve)** · 2012-06-12 19:02
+
+Eks mida rohkem erakondi kritiseerida ja põlastada, seda pahasema ja okkalisema siilina nad ennast kerra tõmbavad, ja seda vähem nad välisega harmoonias on, ja seda rohkem neid põlastatakse, ja seda... Noh, ja nõnda edasi. Sellele olukorrale on evolutsiooniteoorias olemas ka lahendus nimega looduslik valik. Nimelt kui erakondlasi hakatakse tajuma nii väärituna, et nendega ei olda nõus enam järglasi saama, surevad erakondlased liigina välja. 100 aastaga peaks plats suht puhas olema :) Nii et paluks veidi kannatust!
+
+**[Edgar Maloverian](http://www.facebook.com/profile.php?id=1809619389)** · 2012-06-13 01:02
+
+Ma ikka ei suuda aru saada, Taal ja mõned teised on otseselt väitnud, et Eestis sisuliselt on läbi aastate olnud oligarhia - kui on vaja viid paarsada tuhat krooni igale erakonnale ja need hääletavad Riigikogus mistahes seaduse poolt. Kas poleks loogiline valik kas a) kinnitada olemasolev olukord põhiseaduses ja lõpetada demokraatia imitatsiooi. või b) panna ikkagi kogu kahtlusaluste punt arestimajja ja sealt rahulikkult valida head uued naabrid Herman Simmile?
+
+**[Ott Heinapuu](http://twitter.com/oHpuu)** · 2012-06-13 09:58
+
+erakonna asutamist ja ajalehte artikli kirjutamist demoniseeritakse jah kuidagi kummaliselt palju. mõlemad võiksid Euroopa Liidus valitsust juhtiva erakonna liikmete meelest olla ju normaalsed asjad, mitte midagi normaalsusest hälbivat — kehtivate seaduste järgi moodustavad valitsuse riigikogus esindatud erakonnad; kehtiva tava järgi saab rahvas ajalehtede kaudu teada, mis toimub.
+
+**aarneve** · 2012-06-13 10:41
+
+Vaata kus konspiroloogia. Tegelikult vaatame ühte hästi vana uudist. 10 aastat vist vana.  \
+"Res Publica pakub annetajatele võimaluse teha seadusega keelatud anonüümseid annetusi ning  skeemidesse on segatud ka OÜ RP Majandustegevus. RP Majandustegevuse OÜs on õppinud ehk koolituse sildi all Res Publicat toetanud ettevõtjad Urmas Sõõrumaa, Toomas Annus, Jüri Käo, Toomas Sildmäe jpt "  Nüüd järsku Tamkivi ärkas. 10 aastat hiljem. Aga teeme äkki vastupidi: Tamkivi  lähebki otse nende Sõõrumaade, Annuste, Köode ja Sildmäede juurde ja teeb asja selgeks, milles asi?
+
+**[Margus Kiis](http://www.facebook.com/margus.kiis)** · 2012-06-13 11:22
+
+Huvitav, kas te nüüd aru saate (või ikkagi mitte), et RE on põhimõtteliselt uus KP, absoluutselt võimu taotlev grupp tegelasi? Kogu nende tegevus on suunatud sellele eesmärgile: haarata Eesti praktiliselt ainuvõim ja seda hoida. Seetõttu nad ka nii käituvad. KP käitumise pikaaegne fenomen oli enda eksimatuse ja kõikvõimsuse demonstreerimine. Sama teeb RE -- eitab igasuguseid vigu. Igaüks, kes KPd kritiseeris oli ühiskondlik Vaenlane. Sama liini ajab ka RE (vt. Ligi väljaütlemisi). Kõik töötas seni väga hästi kuni REs endas Meikar (kes muu) seda harmooniat lõhkuma hakkas.
+
+**[Aleksander Laane](http://www.facebook.com/aleksander.laane)** · 2012-06-13 14:23
+
+Ma mõtlen siin, et kas tõepoolest keegi enne valimisi seda eraldusjoont ei märganud? Siis on asjalood ju hirmhalvasti - minu arusaamise järgi on kõik loetletud ja nüüd nagu järsku päevavalgele tulnud probleemid kogu aeg nähtavad olnud...  Probleem pole ka vigade eitamises - probleem on aastatega ülesehitatud süsteemis, kus valijahäälte saamiseks piisab lollidest lubadustest, erakonnasisese (keskreformierakonna)vastasseisuteatri järjekordse etenduse mahamängimisest ja hirmu/armu/võimu abil kogutud kahtlasest, aga suurest rahahunnikust.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-06-13 19:14
+
+Stiilipuhas: http://memokraat.ee/2009/06/kuidas-nad-seda-teevad-2-uuem-pikem-ajakohasem-versioon/ ja Tehnika nr 1.
+
+Kuidas see puudutab minu blogipostitust? Et on varemgi kadunud erakondi, kes ehitavad "kavalaid skeeme" raha kogumiseks?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-06-13 19:25
+
+Eks ilmselt taluvuse piir eri vaatlejail eri kohas, nii iga partei sees eraldi kui formaalselt neist väljaspool. Ja mingi probleemi märkamise, selle enda jaoks mõtestamise ja lõpuks sellel teemal sõna võtmise (või mitte) vahel on ka alati ajaline distants.
+
+Oleks naiivne arvata, et minagi nägin just eile ootamatut ilmutust. Ja vaadates selle postituse levikut ja reaktsioone esimese 24h tunni jooksul tundub, et neil teemadel murelikke on praegu teisigi.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-06-13 19:37
+
+Atonen kirjutas mulle eile õhtul ka otse (mis on väga teretulnud ja kahetsusväärselt harv viis tagasisidet saada) ja meil oli minu arvates väga tsiviliseeritud mõttevahetus. Usun, et mõistan tema motivaatoreid selles juhtumis pisut paremini, ja tegin oma tekstis tema palvel ka ühe paranduse, isegi kui oleme teema käsitlusviisi mõnes osas jätkuvalt eriarvamusel. See selleks.
+
+Samas tahan alla joonida, et ma ei ole üks neist, kes võtab kasutada must-valgeid absoluute nagu "parteid on halvad", "kõik poliitikud valelikud", "mitte-parteistunud on lihtsalt argpüksid". Minuarust on seda ühe mütsiga löömist ja lihtsustavat dualismi meil ohtlikult palju - mis demotiveerib häid ja hajutab vastutust halbadelt mängijatelt.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-06-13 19:43
+
+Evolutsioon tunneb ka liike, mis muutuvad, kohanduvad (samuti muutuva) keskkonnaga ning seeläbi mitte ei hääbu, vaid tugevnevad.
+
+Pahane kerratõmbumine ei ole siinkohal mingi füüsikaseadustest tingitud paratamatu reaktsioon vaid organisatsiooni / selle juhtide valik.\
+Üritan olla oma kriitikas nii tasakaalukas kui oskan, inimesed erakondade sees ei ole rohkem ega vähem Eesti ühiskonna liikmed kui ma ise. Põlastamine ei ole plaanis.
+
+**[Mikk Rand](http://www.facebook.com/mikk.rand)** · 2012-06-13 21:14
+
+Tasub korraks mõne aastajagu ettepoole kiigata: http://www.epl.ee/news/eesti/ansipi-ja-pentuse-dialoog-tekitab-kummastust.d?id=51083534  Võib-olla ka tahtmatult, aga Keit Pentuse "ootamatu" küsimus Andrus Ansipile on hea verstapost ühe erakonna demokraatlikuks olemise ja demokraatia mängimise mõõdupuuna. Peaministri tollasest vastusest järeldades.
+
+**[Margus Ott](http://www.facebook.com/margus.ott)** · 2012-06-14 10:34
+
+Praegused suurerakonnad ei taha pirukast ilma jääda.
+
+**[Anna Karolin](http://www.facebook.com/people/Anna-Karolin/704740180)** · 2012-06-14 10:51
+
+Jah, absoluutselt.
+
+**[Anna Karolin](http://www.facebook.com/people/Anna-Karolin/704740180)** · 2012-06-14 11:00
+
+Lisaksin siia veel ühe mõtte, olles lugenud selle evolutsiooni ehk erakondade väljasuremise ideed. Nagu enne viitasin, ongi üks probleem see, et nii mängu sees olijad (ehk süüdi olevad erakonna liikmed), kui ka see evolutsiooni idee, portreteerivadki erakonda kui struktuuri kui midagi paratamatult korruptiivset ja see on tegelikult vale. Usun, et see on loogiline, et saab olla erakond, mis ei võta altkäemaksu ja ei ole üles ehitatud ainult ja peamiselt erahuvide realiseerimisele, ja ei hakka siinkohal selle üle pikemalt argumenteerima, kui keegi seda just kahtluse alla seada ei taha.\
+Samaaegselt sellega, et erakondi niimoodi kujutatakse (vabastades nende liikmed mingis mõttes nende süüst), ei ole erakondlikule demokraatiale siiamaani head alternatiivi. Occupy Wall Street liikumise poolt väljapakutud ideed, otsedemokraatia jms ei ole alternatiivid ühiskonnaliikmete huvi puudumise tõttu ning tõenäoliselt jäävad erakonnad demokraatia suunajaks ja tähtsaks elemendiks väga pikka aega.\
+Seetõttu võiks ühiskondlik debatt keskenduda sellele, et kuidas muuta kas olemasolevaid erakondi nii, et piirata nende korruptiivsust või siis tekitada juurdekasvuga muutusi või kuidas luua uusi ja edukaid erakondi, mis oleksid ka avalikke huvisid silmas pidavad.
+
+**[Mart Parve](http://twitter.com/martparve)** · 2012-06-15 17:10
+
+Ma tegin vaid arglikke katsetusi iroonia ja huumori valdkonnas :) Erakondi peabki kritiseerima, eriti tasakaalukalt ja konstruktiivselt nagu sina seda teed.
+
+Laiem avalikkus paraku ei ole nii tasakaalukas ning põlastamine on täna samasugune objektiivne reaalsus nagu see pahane kerratõmbumine. See võib meeldida või mitte meeldida, aga see lihtsalt on nii. Mina ei näe täna jõudusid või suundumisi, mis seda põlastamise-kerratõmbumise nõiaringi purustada võiksid.
+
+Huvitav, kas tänaste parteidega lähebki nagu natsi-Saksamaaga, et lõpuks istuvad esimees, peasekretär ja 3 broilerit kusagil pommivarjendis ning peavad maailmavallutusplaane, sel ajal kui peal-ilmas ruulivad juba hoopis muud jõud? Või tõesti kasvavad kaikamehed ümber ja/või teevad päris-inimestele ruumi? Ei tahaks nagu uskuda.

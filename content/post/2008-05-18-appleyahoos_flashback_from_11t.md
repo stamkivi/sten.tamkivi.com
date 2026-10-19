@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Apple/Yahoo’s Flashback from 11th Century
 author: sten
 type: post
@@ -36,3 +37,16 @@ Just checked, [Yahoo! Weather on the web][4] has the up-to-date name. So apparen
  [2]: http://www.tartu.ee
  [3]: http://en.wikipedia.org/wiki/Tartu#History
  [4]: http://weather.yahoo.com/forecast/ENXX0005.html
+
+---
+
+## Comments (archived from the old blog)
+
+**borism** · 2008-05-19 01:04
+
+probably just last latin name from US NGA (http://geonames.nga.mil/ggmagaz/geonames4.asp) or open source geonames (http://www.geonames.org/search.html?q=tarbatum&country=) database.
+
+**[Roman](http://www.financialjesus.com)** · 2008-05-29 18:22
+
+I get the same result on my iPhone.\
+Interesting indeed.

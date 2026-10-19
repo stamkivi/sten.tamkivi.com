@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Unikaalsed identifikaatorid eesti online mööbliäris
 author: sten
 type: post
@@ -26,3 +27,11 @@ Põgus pilk e-poele paneb mõtlema, et UID-revolutsioon jätkub.
 
  [1]: http://www.on24.ee
  [2]: http://www.pm24.ee
+
+---
+
+## Comments (archived from the old blog)
+
+**Muri** · 2017-05-18 08:42
+
+http://kaup24.ee/et/moobel-ja-sisustus?navigation_source=menu&feat=left Siit leiad mööblit meeldivate soodustustega.

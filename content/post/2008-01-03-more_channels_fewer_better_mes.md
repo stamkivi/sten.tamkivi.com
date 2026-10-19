@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: More Channels, Fewer Better Messages
 author: sten
 type: post
@@ -43,3 +44,12 @@ And finally, there is nothing more personal than synchronous communication. Call
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F01%2Fmore_channels_fewer_better_mes%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://skype.com/intl/en/allfeatures/videocall/
+
+---
+
+## Comments (archived from the old blog)
+
+**[sepp](http://sepp.offline.ee)** · 2008-01-04 01:32
+
+true, i... i'm sort of slow and low "merry-x-mas-to-you"'er... and also i'm ignoring all "wanna scrap all at once: CLICK HERE!" and similar mass-thingies. only those, that seem to be sent to ME get any response - sry, but i don't think you thought about me when you sent them. you thought about you and how to get it done easily and quickly. no cookie for that :)\
+ps. check your footer, there's a glitch in a matrix (Fatal error: Cannot redeclare is_valid_email() (previously declared ... blaah... blaah)

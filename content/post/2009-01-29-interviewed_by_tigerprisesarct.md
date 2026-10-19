@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Interviewed by TigerPrises/ArcticStartup
 author: sten
 type: post
@@ -34,3 +35,19 @@ Talked to [Toivo Tänavsuu][1] last week on what&#8217;s happening at Skype, how
  [4]: http://vimeo.com/2925220
  [5]: http://vimeo.com/user1136094
  [6]: http://vimeo.com
+
+---
+
+## Comments (archived from the old blog)
+
+**Martin** · 2009-01-31 06:17
+
+Austraalias on üks sari, mille nimi on The Chasers War on Everything ja igas osas teevad nad ühe nalja traditsiooniliste televisooni võtete üle portreteerida kedagi mingis situatsioonis.\
+Ühes esimese hooaja kolme esimesse ossa kuuluvas osas oli üks, mis noris selle kallal, kuidas spetsialiste spetsialistidena kujutatakse. Tavaliselt näidatakse seda kas\
+a\) raamatu või arvutis mingit materjali lehitsemisena\
+b\) kõndimisena\
+c\) sekretärile materjalide ulatamisega.\
+Antud video läks kategooriasse, kuna sisaldas kõndimist :)\
+Kahjuks isegi youtube, the allmighty, ei sisalda seda mainitud videot.\
+Ainus, mis ehk annab aimu, kuidas nad seda teemat lahendavad on see lõik:\
+<a href="http://www.youtube.com/watch?v=L-QnZwbHgwU" rel="nofollow">http://www.youtube.com/watch?v=L-QnZwbHgwU</a>

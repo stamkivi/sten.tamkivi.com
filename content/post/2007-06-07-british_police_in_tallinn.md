@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: British Police in Tallinn
 author: sten
 type: post
@@ -21,3 +22,11 @@ Actually there were the good old black helmets walking in the Old Town Tallinn, 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F06%2Fbritish_police_in_tallinn%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/533488092/ "Photo Sharing"
+
+---
+
+## Comments (archived from the old blog)
+
+**Annette Strauch** · 2007-06-14 17:13
+
+The British go wild when they are let out, or they go in groups to the pubs or restaurants or anywhere - it is the culture!! They are like children again when they go abroad because there are not so many restrictions as there are on the island. God save the Queen! I live in Wales - do not like it there..Was in Latvia recently and found they all had good manners unlike the visitors from Wales.

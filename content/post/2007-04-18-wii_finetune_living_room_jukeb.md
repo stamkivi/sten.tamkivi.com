@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Wii + Finetune: Living Room Jukebox'
 author: sten
 type: post
@@ -41,3 +42,25 @@ Also, I have no clue about Finetune&#8217;s (future) business model.
  [4]: http://www.apple.com/appletv/
  [5]: http://www.xbox.com/
  [6]: http://wii.com/
+
+---
+
+## Comments (archived from the old blog)
+
+**crz** · 2007-04-18 21:13
+
+You seem not to be an audiophile :-p\
+While I can't immediately decide is it good or bad for you:)
+
+**[sten](http://sten.tamkivi.com)** · 2007-04-19 00:44
+
+In situations like picking equipment I can be quite annoying, trust me. Not quite as bad as "vinyl with self-built pre-amp and caseless speaker elements" though. :)\
+And then in other times, like getting some random background tracks of a given theme to my living room when a bunch of friends have come over to have a glass of wine, I can give in quite a bit, like in the case above.
+
+**[timothy_lngstn](http://whalll1)** · 2007-08-31 23:40
+
+please make it so i can find indvidual songs on the artists recordings,or perhaps a song title list thankyou in advance
+
+**Donna** · 2008-06-20 00:41
+
+Can u tell me how to get my playlists to play the entire song on finetune.com thru my Wii? It just palys partial tracks....

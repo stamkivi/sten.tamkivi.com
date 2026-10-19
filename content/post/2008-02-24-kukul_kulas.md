@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Kukul Külas
 author: sten
 type: post
@@ -48,3 +49,20 @@ Nagu ikka, on audiosalvestused võrgus olemas: [esimene tund][3] ja [teine tund]
  [2]: http://www.u-pop.ee/kuku/kukusaated/?vid=5
  [3]: http://akamai.tehnokratt.net/tehnokratt/arhivaar/kukulkylas/kukulkylas_2008-02-17_13-04.wma
  [4]: http://akamai.tehnokratt.net/tehnokratt/arhivaar/kukulkylas/kukulkylas_2008-02-17_14-04.wma
+
+---
+
+## Comments (archived from the old blog)
+
+**[Peeter Marvet](http://tehnokratt.net)** · 2008-02-24 09:28
+
+saade nagu ikka ka MP3 kujul <a href="http://akamai.tehnokratt.net/podvaar/kukulkulas/kukulkulas20080217.mp3" rel="nofollow">http://akamai.tehnokratt.net/podvaar/kukulkulas/kukulkulas20080217.mp3</a> ja <a href="http://akamai.tehnokratt.net/podvaar/kukulkulas/kukulkulas20080217.ogg" rel="nofollow">http://akamai.tehnokratt.net/podvaar/kukulkulas/kukulkulas20080217.ogg</a>\
+a netist on mugavam kuulata hoopis siit: <a href="http://podcast.kolhoos.ee/podcasthtml?podcast=kukulkulas" rel="nofollow">http://podcast.kolhoos.ee/podcasthtml?podcast=kukulkulas</a>
+
+**[Andrus](http://tuhat.pravda.ee)** · 2008-02-25 13:20
+
+Tore vestlus. Polnudki ammu Kuku raadiot kuulanud.
+
+**Argo** · 2008-02-28 10:05
+
+Said väga hästi hakkama. Mulle meeldis. Miski pärast meenus mulle kui olid vist esimest korda avalikuse ees. Olid siis MHG abiturient ning rääkisite koos Linnar Viik'iga tiigrihüppest. Edu sulle.

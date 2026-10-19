@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Riots in Tallinn
 author: sten
 type: post
@@ -38,3 +39,19 @@ The vast majority of the people in Estonia, regardless of their nationality will
 
  [1]: http://en.wikipedia.org/wiki/Bronze_Soldier#Riots_and_violence
  [2]: http://en.wikipedia.org/wiki/DDoS#Distributed_attack
+
+---
+
+## Comments (archived from the old blog)
+
+**Juha Seppänen** · 2007-05-01 18:13
+
+No to comment on the reasoning for the violence and that (too stupid to understand most of that) but to comment on the how the Russian government extended their propaganda arm to Estonia.\
+To me this has started some time ago clearly already and last time it hit international news was some dispute between Russia and Poland that prevented agreement signature between EU and Russia. Russia is using their age old divide-conquer tactics to weaken its now quite powerful neighbour of EU by making bi-latelar friendships (namely Germany) and then imposing minor but annoying troubles with some other EU member states (like Poland and now perhaps also Estonia). Now that Russia is in a position to do this they will not stop at these two but will try to weaken integrity of the EU as much as they can get away with. Now, its pretty much also up to EU member states whether this is allowed to continue but so far it seems that EU is not as unified as it should be to counter these "attacks".\
+Tomorrow I have a chance to witness some of the results of the recent riots and see whether there will be more coming. I am sad of these events and hope that Estonian government remember to keep their cool and not to react to provocation.
+
+**[seikatsu](http://sten.tamkivi.com/2007/05/smoking_kills.html)** · 2007-05-07 11:18
+
+**Smoking kills?**
+
+Someone made good cigarette butt disposal use of the barb wire seen on Toompea, Tallinn, Estonia these days. These fences have been set up all around the government cabinet's Stenbock building after the recent riots....

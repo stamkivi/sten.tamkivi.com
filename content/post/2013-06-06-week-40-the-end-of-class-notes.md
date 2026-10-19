@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 40: The End of Class Notes'
 author: sten
 type: post
@@ -134,3 +135,15 @@ For all posts on the Stanford GSB Sloan life – [see the table of contents her
  [7]: http://www.farces.com/the-lost-manuscripts-doug-engelbart-augmenting-the-intellect/
  [8]: http://www.gsb.stanford.edu/users/jcpet
  [9]: http://sten.tamkivi.com/stanford-sloan-2013/
+
+---
+
+## Comments (archived from the old blog)
+
+**toivoe** · 2013-06-07 19:42
+
+"What do you read and memorize? People don’t memorize enough, many things are still worth it even if everything is searchable." What is worth of time and effort? for example?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-06-07 20:39
+
+Quite personal, I guess, but worth thinking about. Piece of poetry that touched you? Your friend's phone number? A profound quote? A funny song your kid came up with?

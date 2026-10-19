@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: The Stanford Bubbles
 author: sten
 type: post
@@ -74,3 +75,11 @@ Which unnecessary bubbles around us will you try to break, which ones you feel a
  [11]: http://www.hoover.org/publications/policy-review/article/111786
  [12]: http://en.wikipedia.org/wiki/Sand_Hill_Road
  [13]: http://extreme.stanford.edu/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Herbert Yang](http://www.guizishanren.com/)** · 2012-11-26 22:45
+
+I also drew some bubbles here ... http://guizishanren.com/coassf_006_live-stanford-life-to-the-fullest/

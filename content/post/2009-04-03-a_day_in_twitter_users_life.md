@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: A Day in Twitter User’s Life
 author: sten
 type: post
@@ -41,3 +42,16 @@ From one side I even feel a bit sorry for my friends at EMT for stealing the thu
  [7]: http://share.skype.com/sites/en/2009/04/skype_for_iphone_zooms_past_on.html
  [8]: http://www.epl.ee/artikkel/464283
  [9]: http://www.emt.ee/iphone/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Erki E.](http://dreamdrummer.com/)** · 2009-04-03 15:13
+
+And I think the EE app store news was first posted in one Skype public chat, which I copied to another multichat, where I think you picked it up and tweeted. It is interesting to see how such things move about on grassroot level and then spring up into wider media.
+
+**[sten](http://sten.tamkivi.com)** · 2009-04-03 16:34
+
+Exactly, this is the fascinating bit how a message moves through a social graph, smoothly switching the types of tools and media it passes on the way.\
+What makes it especially clear sample case is the fact that the message was not a rumor or an illegal leak - just something the audience cared about and shared faster than the service owners could properly announce anything.

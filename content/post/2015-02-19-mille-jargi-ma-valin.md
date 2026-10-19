@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Mille järgi ma valin?
 author: sten
 type: post
@@ -61,3 +62,21 @@ Ja lõpetuseks avastasin samasuguses meeleolus [4 aastat tagasi kirjutatud blog
  [14]: http://www.igav.ee/videod/video-maire-aunaste-raagib-ausalt-irl-valimiskampaaniast?id=70702173
  [15]: http://sten.tamkivi.com/2011/02/kuidas-valida-keda-valida/ "Kuidas valida, keda valida?"
  [16]: https://www.valimised.ee/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2015-02-19 09:13
+
+Praxisel on veel head kraami, vt nt blokkskeemi haridus-seisukohtade kohta siin: http://mottehommik.praxis.ee/mida-lubavad-erakonnad-koolivorguga-peale-hakata/
+
+**toivoe** · 2015-02-19 18:50
+
+Lisaks veel EPL
+
+http://epl.delfi.ee/news/valimisturniir/
+
+**Neeme Praks** · 2015-02-19 23:25
+
+Natuke teist moodi "kompass" http://nihilist.fm/lihtne-valijakompass/

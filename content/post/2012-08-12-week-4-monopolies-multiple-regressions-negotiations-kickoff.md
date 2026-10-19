@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 4: Monopolies, Multiple Regressions & Negotiations Kickoff'
 author: sten
 type: post
@@ -89,3 +90,11 @@ For more posts on the Stanford GSB Sloan life &#8211; [click here to search by t
 
  [1]: http://en.wikipedia.org/wiki/Chatham_House_Rule
  [2]: http://sten.tamkivi.com/tag/sloan/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Herbert Yang](http://www.facebook.com/herbert.yang)** · 2012-08-23 06:15
+
+nice summary!

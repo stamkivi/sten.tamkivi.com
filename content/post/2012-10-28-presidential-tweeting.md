@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Presidential Tweeting
 author: sten
 type: post
@@ -84,3 +85,29 @@ President has already chipped in, too (oops &#8211; using Latin?! Could it still
  [7]: http://www.youtube.com/watch?v=SyMN3hmcoHE
  [8]: http://www.futurebrand.com/news/in-the-news/futurebrand-launches-the-8th-annual-country-brand-index/
  [9]: http://president.ee/en/president/biography/index.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andreas Kaju](http://andreaskaju.com)** · 2012-10-29 11:30
+
+sten, a good post and i appreciate much of what you say, but i'd also give @naakums some slack here. All in all, he/she has got the correct stereotype that helps make right choices about most "high-value" political twitter accounts. In other words, they are not run by the people they are representing.
+
+**[Borat van Schaerbeek](http://twitter.com/BoratSchaerbeek)** · 2012-10-29 12:15
+
+yes, thanks for the video link, I got the sense. more berlusconi than monti. much more berlusconi.
+
+**[Borat van Schaerbeek](http://twitter.com/BoratSchaerbeek)** · 2012-10-29 14:22
+
+I spent too much time on this, but here is a thought: this naakums seems to be from Latvia and you would expect he knows something about the president of his neighbouring country. Though it does seem a bit strange that a head of state is getting intense with American schoolgirls on Twitter. Even NYT columnist, in especially the tone used, is a bit weird choice of opponent for someone who essentially gets paid to bear on his shoulders the dignity of a nation (the rest is done by PM itseems). Perhaps real dignity is not highly rated in that 'hood and the "street cred" is?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-10-29 17:57
+
+Fair 'nuff, I was reacting much more to the amusing analysis, rather than @naakums' original question that triggered it.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-10-29 18:33
+
+Interestingly, when I think of Berlusconi, I think of dozens of trials for economic crimes that occasionally even end in conviction, bunga-bunga stories and videos like this one: http://www.youtube.com/watch?v=QMX3EgnI6xg
+
+You obviously have to be thinking of something (or someone) else to even come to this parallel... \*shrug\*

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Welcome to Estonia, kõigi maade tööturistid!
 author: sten
 type: post
@@ -46,3 +47,13 @@ Ilmunud: [Äripäev, 8. september 2006][1]
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2006%2F09%2Fwelcome_to_estonia_koigi_maade%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.aripaev.ee/3337/arv_kolumn_uus_333701.html
+
+---
+
+## Comments (archived from the old blog)
+
+**[seikatsu](http://sten.tamkivi.com/2007/01/valistoojoud_jaa_hakkab_sulama/)** · 2007-01-09 17:01
+
+**Välistööjõud: jää hakkab sulama**
+
+ETV24 vahendusel saame lugeda, et Majandusministeeriumi komisjon, mis pandi kokku Eestisse kutsutava välistööjõu ees lebavate muldvallide lammutamiseks, hakkab tasapisi esimeste ettepanekutega üles Toompeale sörkima....

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 35: Virality, Freemium, Bitcoin & Asteroids'
 author: sten
 type: post
@@ -386,3 +387,21 @@ Guests: Ed Lu & Scott Hubbard ([B612 Foundation][31])
  [30]: http://www.youtube.com/playlist?list=PL5C14B375A7F2FEA8&feature=plcp
  [31]: http://b612foundation.org/
  [32]: http://www.liebertpub.com/global/pressrelease/emnew-space-empreview-issue-of-groundbreaking-journal-for-the-new-era-of-space-exploration-launched-at-faa-commercial-space-conference-washington-dc/1196/
+
+---
+
+## Comments (archived from the old blog)
+
+**Douglas Fernando da Silva** · 2013-05-07 16:10
+
+Sten, what's your process to generate your weekly summaries? Do you take notes in a computer during the classes and then consolidate them weekly before publishing? How long does it take? BTW, thanks for the great summaries, I've been saving them all and I think they will be very useful for me this year.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-05-07 22:33
+
+Hey, glad if the notes are useful somehow. I am taking them mostly directly to Evernote, except for the few classes that have a closed laptop policy, in which case I take some 15 minutes to type up a quick summary from my scribbles on hand-outs. When reading books, cases and articles it varies more - more often than not I don't have time to use the computer in parallel, but sometimes just feel the need to take note of something nevertheless.
+
+And, usually on Sundays, I take another 30-60 minutes to scan through the week's notes again, add photos and graphs if any and a bunch of missing links to people, books, videos, etc and then copy-paste to Wordpress. Part of this is just technical pre-publishing, but also I've found it helpful as personal reflection time on most interesting stuff I've learned that week.
+
+**Douglas Fernando da Silva** · 2013-05-10 14:56
+
+Thanks for the answer, I will try to adopt the same practice! Do you create an Evernote note per week or per class?

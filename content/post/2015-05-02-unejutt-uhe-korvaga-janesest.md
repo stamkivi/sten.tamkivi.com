@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Unejutt ühe kõrvaga jänesest
 author: sten
 type: post
@@ -48,3 +49,15 @@ Doktor Viivika ei ehitanud ju endale uut kõrva mitte selle pärast, et see puud
 Nii selguski, et Jänesetüdruk Viivika puuduv kõrv ei olnud mitte probleem, vaid suur võimalus teisi aidata.
 
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2015%2F05%2Funejutt-uhe-korvaga-janesest%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+
+---
+
+## Comments (archived from the old blog)
+
+**Kristjan Lepik** · 2015-05-07 21:52
+
+Lapsed nõudsid unelugu ja tuli just see meelde - kuulajad jäid rahule! Hunt Hälvo oli lemmik :)
+
+**Kristjan Lepik** · 2015-05-07 21:56
+
+Nüüd ilmneb, et Hunt Hälvo sai Viivikalt inspiratsiooni ja leiutas biokütusel töötava ratastel vetsupoti

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Visioonist Lahendusteni 2008
 author: sten
 type: post
@@ -44,3 +45,22 @@ Kui ürituse slaidid võrku jõuavad, soovitan lugeda Jaan Pillesaare (ettepanek
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F09%2Fvisioonist_lahendusteni_2008%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.innoeurope.eu/index.php?lang=est&main_id=543
+
+---
+
+## Comments (archived from the old blog)
+
+**[Märt Ridala](http://mridala.blogspot.com)** · 2008-09-13 21:53
+
+Suured tänud märkmete eest. Neid triipkoodilugejaga kärusid on ka mujal. Mina kohtasin selliseid Brüsselis, DelHeize vist oli selle supermarketi keti nimi.\
+Tegelikult tahaks tunnustada Rein Langi, Justiitsiministeeriumi ja RIK-i selle eest, et nad on nii palju äriregistri ja teiste riiklike registrite teenuseid internetis kättesaadavaks teinud. Teised ministeeriumid võiks neist ja MATA-st eeskuju võtta!
+
+**Andres** · 2008-09-15 08:58
+
+Singapuris on huvitavalt kombineeritud teemad: Informatsiooni, Kommunikatsiooni ja Kunstide ministeerium.\
+Indias käib matemaatika mitte reaalainete vaid kunsti alla.
+
+**[Siim](http://siim.lepisk.com)** · 2008-10-12 20:56
+
+Väga abiks märkmed! Sel aastal oli tudengeid kohal heal juhul kümmekond - loodetavasti võtab keegi sellest üleskutsest järgmisel aastal paremini vedu: "Vaadates suure saali tühjasid rõdusid, tekkis mõte, et sinna oleks võinud tuua nt 6-7 bussitäit abituriente või tudengeid."\
+Täpsusta aga kasutusvaldkonda - "product planning" - mis selle alla käib?

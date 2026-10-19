@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Internetikasutajate õigused kirja
 author: sten
 type: post
@@ -89,3 +90,61 @@ ITL juhatuse liikmena kavatsen selle IT-sektorit koondava seltsi tegevusi terve 
  [9]: http://peeterpaul.motskula.net/2012/02/08/rick-falkvinge-keegi-ei-noudnud-kulmikumaksu/
  [10]: http://peeterpaul.motskula.net/
  [11]: http://kogukond.org/2012/02/justiitsministeeriumi-esindaja-acta-ee-vaited-on-pohjatu-vale-isegi-siioni-protokollid-on-usutavamad/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Peeter P. Mõtsküla](http://twitter.com/ppmotskula)** · 2012-02-11 17:54
+
+Aitäh viite eest, Sten! Aga mis Rattusesse puutub, siis ma ei usu, et ta kunagi vabandab. Need, kelle vastu me täna Vabaduse väljakul seisime, kaitsevad oma positsioone viimase veretilgani.
+
+**[Viljar Sepp](http://twitter.com/tuulelohe)** · 2012-02-11 20:32
+
+Tänane "Parise valik" on kahjuks olnud viidatud postituse FBst eemaldamine (peitmine)...
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-11 21:31
+
+Kui Krister selle privaatsemaks keeras, ei sobi mulgi ilmselt täies mahus kopeerida. Aga temalt siis idee, et Ansipi üllatuseks seisab laialt promotava e-riigi taga ka e-ühiskond, kes võib tänavale tulla.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-11 21:46
+
+Olen nüüd natukene ringi surfanud, et leida muu maailma näiteid internetikasutajate üldiste põhiõiguste kirjapanekust. Tundub, et riik-haaval polegi seda eriti kuskil tehtud (Eesti võimalus!), ja palju on killustatud/sügavuti alamteemade katmist eraldi (privacy, access, governance, expression, etc).
+
+Selliseid "paneme kasutajavaate ühte dokumenti nii et vanaema ka aru saab" eriti ei leiagi. Üks väheseid kätte juhtunuid siiani: APC Internet Rights Charter (2001; 2006): http://www.apc.org/en/node/5677/
+
+Kui keegi oskab veel midagi sarnast viidata, oleks edasiliikumisel abiks.
+
+**[Märt Põder](http://www.facebook.com/people/Mart-Poder/1720288088)** · 2012-02-11 22:00
+
+Ma ole tuttav selle teleka/LED-paneeli näite taustaga. Kas keegi selgitaks, mis riigi mis piirangul see põhineb?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-11 22:31
+
+Aitäh - sellised manifesti-laadsed näited kipuvad alati kandma mingeid autori subjektiivseid rõhuasetusi ja tundeid ka, mitte ei loetle lihtsalt üheselt mõistetavaid kokkuleppeid. Aga viimane, Jarvise oma, on päris hea siiski.
+
+Tühja kasseti tasu laiendamise katsest, millele ka ITL vastu oli, leidsin kokkuvõtte siit: http://www.koda.ee/seadusandlus-14/
+
+**[Indrek Ibrus](http://twitter.com/IndrekIbrus)** · 2012-02-12 01:33
+
+Ma oleksin skeptiline. Eriti miskite selliste riikide-põhiste deklaratsioonide osas. Sest ainult deklaratsioon selline ettevõtmine vaid olla saab. Minu meelest on hästi naljakad need mõne riigi ettevõtmised kuulutada Internet inimõiguseks. Sest õigus internetile pole muud, kui õigus võlaigussuhteks ISPga konkreetse riigi territooriumil. Teiseks, mis on Internet? See on võrkude võrk, hulk võrgustandardeid + massiivne hulk regulatsioone + de facto kasutuspraktikaid (ehk siis: artefaktid, normid ja käitumine). Ja kõik need komponendid on vähem või rohkem üleilmsed. Seega, kui Eesti tahab midagi teha, tuleks madistada reaalsetel rahvusvahelistel rinnetel, kus "internetivabadus" kuidagi objektiks. Näiteks sellised teemad: võrguneutraalsus (ELi tasand, kuigi see lahing on ilmselt juba kaotatud), ACTA-laadsed IPRi kontrollilepped, multiterriotoriaalne litsenseerimine, alternatiivsete litsentsiskeemide parem võimaldamine, kogu WIPO tegevus ehk autoriõiguste tulevik. Meile kui perifeersele väikeriigile on kõige olulisem küllap siiski ELi sees multiterritoriaalse litsenseerimise käima saamine. Seda teab õnneks ka Linnar hästi ja pushib seda. Jõudu talle ses osas.
+
+**[Märt Põder](http://www.facebook.com/people/Mart-Poder/1720288088)** · 2012-02-12 01:59
+
+Seda sotsiaalvõrgustike kasutajate õiguste deklaratsiooni kasutab, muide, Diaspora: http://blog.diasporafoundation.org/2011/10/24/diaspora-adopts-computers-freedom-and-privacys-social-network-users-bill-of-rights.html
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2012-02-12 11:56
+
+"kui Eesti tahab midagi teha, tuleks madistada reaalsetel rahvusvahelistel rinnetel, kus "internetivabadus" kuidagi objektiks."
+
+Muidugi tuleb. See, mida ma välja pakun, on lisaks siseriiklikule läbi arutamisele teisalt  suunatud ka väljapoole, et paneks kirja, millised õigused ja vabadused meil kasutajate seisukohalt olulised on, \_mille\_ eest me võitleme?
+
+Täna osaleb (või saaks osaleda) Eesti kõigis neis aruteludes, aga teeb seda ilmselt üksikute diplomaatide või ametnike isiklike arusaamade, nö common sense'i põhjal. Ja vaadates nüüd avaldusi peaministrist justiitsministeeriumi osakonnajuhatajateni, kas Sulle tundub, et nende meid läbirääkimistes esindavate inimeste common sense on seal kus Sinu või minu oma? Ma ei olen kurvastusega avastanud, et arusaamad on päris erinevad. Sestap pakungi, et paneks kodanikena oma "tellimuse" kirja, mida meie valitud ja palgatud esindajad oma kodanike huvidena kaitsma peaks.
+
+Eile hilisõhtul helistas mulle Eesti saadik ühe rahvusvahelise organisatsiooni juures ja kinnitas, et tema on sellisest asjast praktilises töös puudust tundnud ja nüüd arutanud ka Välisministeeriumiga, mis on ka igati internetivabaduste töövahendina kirjapanekust huvitatud. Sealt läheb nüüd asi vast liikuma, ja eks paistab, kas memost saab edasi ka seadus või...
+
+**[Märt Põder](http://www.facebook.com/people/Mart-Poder/1720288088)** · 2012-02-13 22:24
+
+Karmen Turk viitas veel seda "Interneti õiguste ja põhimõtete hartat": http://irpcharter.org/charter/ ja eesti keeles lühidalt http://irpcharter.org/site/wp-content/uploads/2011/09/pdf/estonian.pdf
+
+Neid on töötanud välja akadeemikud, kodanikeühendused jt ÜRO Internet Governance Forum'i raames vist eelkõige viimase kolme aasta jooksul ning peaks olema sisuliselt inimõiguste deklaratsiooni transleering Interneti konteksti.

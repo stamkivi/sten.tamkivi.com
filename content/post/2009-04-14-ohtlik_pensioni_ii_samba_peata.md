@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Ohtlik pensioni II samba peatamise retoorika
 author: sten
 type: post
@@ -43,3 +44,25 @@ Kuidas tekiks olukord, kus riigi mistahes valdkonna pikaajalised projektid suuda
  [1]: http://www.e24.ee/?id=105094
  [2]: http://www.arengufond.ee/videocasts/videocast982/
  [3]: http://www.minueesti.ee/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Eimar](http://eimar-veldre.blogspot.com)** · 2009-04-14 23:40
+
+Lihtne vastus püsivuseks on see, et kodanikud ei luba selliselt ümber-, üle-, maha-, uuesti jne otsustamistel lihtsalt nii kergesti sündida.\
+Valitsuse otsusele (mis korrektsuse mõttes on valituse kokkulepe, et tehakse riigikogule ettepanek muuta vastavaid seadusi) peatada pensionisamba sissemaksed ei reageerinud ükski juhtiv kodanikuühendus; ometi puudutab see kõiki - ametiühingud, tudengid, õpilased, lapsevanemad, tööandjad, vabaühendused, teadlased, haritlased, omavalitsused jne jne.\
+Meil on võimalus öelda selge ei kui asi jõuab riigikokku. Iseasi on sellise ei põhjendatus (ehk siis tuleb enne otsustamist arutada võimaluste üle).\
+Seega kui juunist tahetakse peatada, jõuaksime ühe korraliku mõttetalgu väärika ja rahaliselt kindlustatud vanadusea teemal ära teha :)
+
+**[Mart](http://miljonsinistkassi.blogspot.com/)** · 2009-04-15 09:35
+
+"Kuidas tekiks olukord, kus riigi mistahes valdkonna pikaajalised projektid suudaksid elus püsida ilma, et neid piltlikult öeldes Kapo või Kaitseministeeriumi eelarvesse peitma ei peaks?" -- selleks on meil ju justkui ühiskondlik kokkulepe, aga noh, tolle teksti hammaste teravus jätab\
+õnnetuseks üksjagu soovida, rääkimata sellest, et leppega liitunute hulgas pole kaht Eestis kõige enam mõjuvõimu omavat erakonda.\
+Samas ei leia ma endiselt, et II sammas iseenesest oleks miskitpidi taganutmist väärt asi. Retoorika on samas ohtlik, kuid ka mitmesuguste varasemate reformikatsete puhul justkui nähtud (näiteid ei oska praegu paraku tuua).
+
+**Liis** · 2009-04-15 12:23
+
+Miks ei reageerinud üksi kodanikuühendus? Vastus on Mardi kommentaaris:\
+"Samas ei leia ma endiselt, et II sammas iseenesest oleks miskitpidi taganutmist väärt asi."

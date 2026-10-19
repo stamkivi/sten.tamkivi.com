@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Ingenious Motivator for Tech Investments
 author: sten
 type: post
@@ -40,3 +41,16 @@ I wish Estonian government would spend some time seeking out similar ideas from 
 
  [1]: http://www.discoverycapital.com/about/team.cfm?detail=harry
  [2]: http://www.discoverycapital.com/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres](http://sehr.ca/blog)** · 2008-05-27 14:35
+
+Another advantage (for Canadians) of participating in VC funds like the ones Discovery has is that you have the option of investing via your Registered Retirement Savings Plan (RRSP) which means that any profits you make are tax free until you retire (at which point you'll most likely be in a lower tax bracket). The downside to that is you can't spend the profits until retirement though.
+
+**[Kalju](http://kalju.ruutli.com)** · 2008-05-27 17:01
+
+"I wish Estonian government would spend some time seeking out similar ideas from the world... and implementing the best ones fast."\
+Do we all...

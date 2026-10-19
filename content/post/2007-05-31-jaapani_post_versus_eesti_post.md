@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Jaapani Post versus Eesti Post
 author: sten
 type: post
@@ -30,3 +31,20 @@ UPDATE: Viimsi postkontorisse jõudis kaup 1. juuniks, minu kätte 6ndaks.
 
  [1]: http://www.tokyoflash.com/en/
  [2]: http://www.post.japanpost.jp/index.html
+
+---
+
+## Comments (archived from the old blog)
+
+**fp** · 2007-05-31 15:50
+
+Sama asi läbi tehtud, kokku kümne päevaga sai uuri kätte. Ilgelt ajas närvi et kooriti ka tollimaksu ja paberite vormistamise maksu ja ma ei tea veel mis maksu.
+
+**[Agris Koppel](http://agriskoppel.blogspot.com)** · 2007-06-01 10:08
+
+Väga lahedad kellad (aga ilma viledeta ;)! Aga vaadates disaini, siis ei imesta, et pakk viibib. Kõik postitöötajad tahavad neid imeasjakesi oma käega vaadata. Ja võibolla on need tehnikavidinad ka kuskil kapo tehnilises kontrollis ;)\
+Skype telefonid võiks sellised välja näha, siis oleks veel rohkem kasutajaid :)
+
+**Sander V.** · 2007-06-01 14:22
+
+Tellisin ka kella sealt ja mul kulus jaapanist eestisse kaks ja pool päeva vist. Eesti tollis seevastu tiksus üle nädala!!

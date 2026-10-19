@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: iPod revisited
 author: sten
 type: post
@@ -54,3 +55,22 @@ Somehow the latter option seems less fussy. If you have any good tips on which u
  [3]: http://www.nintendo.com/channel/ds
  [4]: http://www.shure.com/PersonalAudio/Products/Earphones/ESeries/index.htm
  [5]: http://maps.google.com/maps?f=q&hl=en&q=Infinite+Loop,+Cupertino,+CA+95014&layer=&sll=37.332904,-122.030747&sspn=0.006876,0.021629&ie=UTF8&z=16&ll=37.332204,-122.02843&spn=0.006876,0.021629&t=k&om=1
+
+---
+
+## Comments (archived from the old blog)
+
+**Andres** · 2007-03-26 16:17
+
+*A blank iTunes host install tries to clean out the iPod and start all over.*\
+If you select the option to "Manually Manage your Ipod" in iTunes it shouldn't clean out the ipod when connecting to a new, blank iTunes install.
+
+**[Peeter Marvet](http://www.tehnokratt.net)** · 2007-03-27 07:49
+
+I have Shure e4c and can listen to music next to large web-offset press at full speed, so some bachelors-on-a-plane shouldn't be a problem :-)\
+And as 3rd-party util I use Anapod: <a href="http://www.redchairsoftware.com/anapod" rel="nofollow">http://www.redchairsoftware.com/anapod</a>
+
+**Oliver** · 2007-03-27 12:34
+
+Let me just say one thing - v-moda vibe :)\
+<a href="http://www.anythingbutipod.com/archives/2006/12/vmoda-vibe-review.php" rel="nofollow">http://www.anythingbutipod.com/archives/2006/12/vmoda-vibe-review.php</a>

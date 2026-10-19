@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Getting Settled at Stanford
 author: sten
 type: post
@@ -68,3 +69,11 @@ Older posts on my Stanford adventure:
  [7]: http://www.hollywoodmeetssiliconvalley.com/
  [8]: http://sten.tamkivi.com/2012/02/why-and-how-i-became-a-stanford-student/ "Why and How I Became a Stanford Student"
  [9]: http://sten.tamkivi.com/2012/04/sloan-2013-orientation-notes/ "Sloan 2013 Orientation Notes"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Simon Mui](http://www.facebook.com/simon.mui.18)** · 2012-07-17 19:50
+
+Happy to sit next to you in class ! / Simon Mui

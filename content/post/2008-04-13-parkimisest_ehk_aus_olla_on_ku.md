@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Parkimisest ehk aus olla on kulukas
 author: sten
 type: post
@@ -51,3 +52,16 @@ PS: [www.tallinn.ee][1] ei leidnud ma praegu parkimise hindu esimese paarikümne
 
  [1]: http://www.tallinn.ee
  [2]: http://www2.tallinn.ee
+
+---
+
+## Comments (archived from the old blog)
+
+**Andres** · 2008-04-21 12:09
+
+Peeter Marvet on ka sel teemal müristanud hiljuti: <a href="http://tehnokratt.net/2008/04/05/pargi-3-paeva-2-hinnaga/." rel="nofollow">http://tehnokratt.net/2008/04/05/pargi-3-paeva-2-hinnaga/.</a> Järjekordne näide sellest, et tehnoloogia ilma seda toetava avatud ja kliendile suunatud mõtlemiseta ei ole automaatselt väärt asi.\
+Samas tunnen mobiilparkimisest koos kõigi tema puudustega teravalt puudust iga kord, kui USAs või kuskil mujal autot kuhugi jätta tahan...
+
+**Martin** · 2008-05-14 20:47
+
+Minul on mitmed tuttavad, kes vanalinna autot parkides ootavadki parkimistrahvi, sest peale pidu taksoga koju sõites ja hommikul autole järele tulles on majanduslikult mõeldes trahv odavam kui legaalne parkimine. Rohelises linnas on elu juba selline, omapärane :)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Visual Connotations in the World of Rabbits
 author: sten
 type: post
@@ -32,3 +33,11 @@ PS: Didn&#8217;t try it, but was told it was quite drinkable&#8230; in the 4-eur
 
  [1]: http://www.flickr.com/photos/seikatsu/609800269/ "Photo Sharing"
  [2]: http://en.wikipedia.org/wiki/Tetrapak
+
+---
+
+## Comments (archived from the old blog)
+
+**[Kalju](http://kalju.ruutli.com)** · 2007-06-25 14:49
+
+Haven't tried it myself as well but I've witnessed the trial that resulted with terrible hangover...:-)

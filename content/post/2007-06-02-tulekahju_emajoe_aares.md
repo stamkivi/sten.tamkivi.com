@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Tulekahju Emajõe ääres
 author: sten
 type: post
@@ -24,3 +25,11 @@ Aga jäi (vaata veel pilte siit: [1][2], [2][3], [3][4]). Ja jälgides päästja
  [2]: http://www.flickr.com/photos/seikatsu/525445422/
  [3]: http://www.flickr.com/photos/seikatsu/525448986/in/photostream/
  [4]: http://www.flickr.com/photos/seikatsu/526582491/in/photostream/
+
+---
+
+## Comments (archived from the old blog)
+
+**[sepp](http://sepp.offline.ee)** · 2007-06-04 00:56
+
+mh, maailm on väike. käisin just täna... st. eile põgusalt abis, et tagajärgi likvideerida. ja jooksin seal kokku veel ühe ühise kolleegiga...

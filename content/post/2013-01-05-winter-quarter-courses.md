@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Winter Quarter Courses
 author: sten
 type: post
@@ -98,3 +99,38 @@ See also:
  [26]: http://sten.tamkivi.com/2012/09/autumn-quarter-courses/ "Autumn Quarter Courses"
  [27]: http://www.goodreads.com/shelf/show/stanford-sloan
  [28]: http://sten.tamkivi.com/stanford-sloan-2013/ "Stanford Sloan 2013"
+
+---
+
+## Comments (archived from the old blog)
+
+**[Juha Seppänen](http://twitter.com/juhsep)** · 2013-01-05 11:48
+
+STRAMGT 354 - just wow. If I could just pay money in order to attend this course I would.
+
+Juha
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-01-05 21:20
+
+Technically, everyone pays (per unit as part of their tuition) - so this is the least of the barriers. :)\
+GSB has a randomized Super Round process to manage through competing applications for every students 2 top wanted classes a year and 354 is definitely way up there. It was my \#1 choice and I won the lottery.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-01-05 22:02
+
+@twitter-69275388:disqus and others: you might enjoy digging around the resources (many of them freely online) at Stanford's Center for Entrepreneurial Studies site here: http://www.gsb.stanford.edu/ces
+
+**[Tracee Cheng Bonnici](http://www.facebook.com/tracee.chengbonnici)** · 2013-01-10 04:03
+
+Holy full courseload Batman!
+
+**Erik** · 2013-01-11 17:51
+
+Sten- how do electives work? Can they be selected from any graduate course offered at Stanford? Or are there restrictions / requirements that need to be met?
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-01-11 21:40
+
+As an underlying principle: you can take any electives from anywhere in Stanford. In GSB lingo, the other 6 schools (law, engineering, medical, humanities, sciences, education - see http://www.stanford.edu/academics/departments2.html ) are called "across the street", researching them and fitting them into your schedule is a little more complex.
+
+In reality, of course, there is a more intricate system with prerequisite courses esp in some advanced CS classes I've looked at require a certain list of other courses before - and for a reason. And you have to consider just overall targeting to your stage of studies (undergraduate, masters or PhD). Crossovers are possible with professor's permission, but there is friction either way, up or down. If you're the only grad student among 21-year-olds, class discussions can feel really off as just life experiences are too different. And you have to consider that even if you're passionate about a topic, are you really willing to take a reading load of a few thousand pages per week for a single advanced PhD seminar.
+
+And sometimes there are unexplained surprises, like my classmate's attempt to take a Liberal Arts class on Marx & Mao or something - which he was declined because he was from business school... If that segregation is not something that leads to Occupy movement - I don't know what is :)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Skype’i töötajate blogid Eesti “oluliseimad”
 author: sten
 type: post
@@ -81,3 +82,17 @@ PS: Ahjaa, Topi andmetel on sten.tamkivi.com PageRank&#8230; null. 🙂
  [5]: http://en.wikipedia.org/wiki/Larry_Page
  [6]: http://www.orkut.com
  [7]: http://www.linkedin.com
+
+---
+
+## Comments (archived from the old blog)
+
+**gloobus** · 2007-03-22 22:57
+
+Võib olla hoopis seda, et skype inimesed lingivad kõik omavahel?
+
+**[sten](http://sten.tamkivi.com)** · 2007-03-23 12:36
+
+gloobus \>\
+Paarikümne blogi omavahelisest ristviitamisest kindlasti ei piisa PageRanki upitamiseks nii kõrgele. Minuteada on neis algoritmides sees ka pisut sellesuunalist intelligentsi, et kunstlik kitsas ringis ülesupitamine liiga tõhus ei oleks.\
+Kes, kellele ja kui palju lingib küsimuses võib muidugi technorati.com abil veel rohkem sügavuti minna kui huvi on.

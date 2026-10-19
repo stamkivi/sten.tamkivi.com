@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Eesti haridussüsteem on Titanic
 author: sten
 type: post
@@ -35,3 +36,12 @@ Alusprobleemid, millele ta viitab (pika visiooni puudumine, oma konnatiiki kapse
  [4]: http://www.arengufond.ee/news/foresight/news503/
  [5]: http://www.linkedin.com/pub/3/723/398
  [6]: http://www.arengufond.ee/blogs/investment/blog35/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Taavi](http://cavist.blogspot.com)** · 2008-12-12 00:13
+
+Päris huvitavad mõtted. Muutus mõtlemises ning pea liiva seest välja tõmbamine on juba suur muutus. Märkused koolide kohta, mis kohalikuks tarbeks inimesi koolitavad, tuletab meelde väljendi "Local shop for local people!" sarjast League of Gentlemen.\
+Vast saavad haridust juhtivad ja noorte tulevikku kujundavad inimesed jaole enne, kui rong on läinud!

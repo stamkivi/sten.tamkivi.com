@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Kirjutasin oma rahvasaadikule
 author: sten
 type: post
@@ -35,3 +36,16 @@ Lihtsalt, et kui keegi veel tunneb, et ei taha toimuvat pelgalt pealt vaadata: k
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F03%2Fkirjutasin_oma_rahvasaadikule%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.epl.ee/artikkel/379289
+
+---
+
+## Comments (archived from the old blog)
+
+**[methodik](http://methodik.djstore.ee)** · 2007-03-22 22:30
+
+aitäh!
+
+**Agris** · 2007-04-02 10:44
+
+Hei Sten,\
+Ma kasutasin ka hiljuti sama taktikat "oma saadiku" puhul ning vastus oli kiire ning asjalik. Äkki meil on ühine saadik :) Eks kunagi kuskil võib ju rääkida osalusdemokraatia kogemustest.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Managing the Idea Buffet
 author: sten
 type: post
@@ -96,3 +97,35 @@ Obviously, this is an illustration for the structure rather than contents of wha
 
  [1]: http://sten.tamkivi.com/2013/12/so-what-does-an-eir-actually-do/ "So… What Does an EIR Actually Do?"
  [2]: http://a16z.com
+
+---
+
+## Comments (archived from the old blog)
+
+**[MarkK](http://300.mg)** · 2013-12-29 07:06
+
+one interesting observation from last business we are working on, is that some aspects/criterias are not obvious in the first iteration of idea. You have to build them into the business over the time. Something that might feel non-scalable in the beginning, might actually become one after you work on that. Same can be true in relation to things like notable problem, simple business model, ..
+
+Good example from real life is that Google didn't have clear business model in early days.
+
+So I would add one important criteria to your list - intuition. It should feel right to you :)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-12-29 07:31
+
+For sure. Intuition is the part of this art I don't even try to pose as science and contain in a framework. :)
+
+Also, it is ok to answer many of these criteria with "who the hell knows" at early stages. But you still can guess which way it will likely tilt. Your GOOG example: doubt they seriously considered they'll start charging users for every search even very early.
+
+**toivoe** · 2013-12-29 22:45
+
+"let winning be decided by innovation & execution, not just \_regulatory environment\_ or any other dominant party-\> healthcare, \_education\_, consumer finance, e-democracy have notable yellow flags here"
+
+really? how come?
+
+**Marc Aafjes** · 2014-01-07 09:21
+
+Look what I found from Oct 2012 -- early brainstorm on the topic at the GSB :)
+
+**[Jonathan Marks](http://www.jonathanmarks.com)** · 2014-01-23 16:14
+
+Congrats on the excellent series about the divide between West&Central Europe and the West Coast of the US. Various important ideas there which helped a group of us work out what needs to happen next on this side of the Atlantic. I also appreciate your thoughts on building a better filter. The big problem with many of the accelerators is that they believe success is linked to big numbers. Having 2000 applications for a program sounds like a nightmare to me - how will you pick the right teams and what are they really expecting? I like the Plancruncher.com model, which filters ideas and teams in a clever way, making comparison so much easier. Also, I believe in focussing on companies that are disrupting a particular industry. If the team cannot define what they are disrupting, they get crossed off my list. I don't believe that those teams who are simply copying stand a chance of displacing the incumbent- alongside those who are either making an existing process better or making a process more efficient. The latter two just create capital but don't lead to growth.

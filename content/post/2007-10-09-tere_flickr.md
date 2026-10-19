@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Tere, Flickr!
 author: sten
 type: post
@@ -33,3 +34,24 @@ Maybe there are more cognitive (not just functional) tricks around the successfu
 
  [1]: http://www.flickr.com/photos/seikatsu/1525943050/ "Photo Sharing"
  [2]: http://Flickr.com
+
+---
+
+## Comments (archived from the old blog)
+
+**[Siim](http://siim.lepisk.com)** · 2007-12-12 09:25
+
+Are there any specific reasons why you prefer Flickr over Picasa web?
+
+**[sten](http://sten.tamkivi.com)** · 2007-12-18 11:49
+
+Flickr very specifically solved my mobile photo upload problem at the time with their email gateway. I've moved only more recently to add "regular" (non-mobile) photos there as well.\
+Over time I've grown to love the web2.0ish mindset they have, like:\
+\* tagging-centricity\
+\* loose sets (as opposed to picasaweb's hierarchical folders)\
+\* adding visual notes on photos\
+\* mashup ecosystem around them (like a blip.tv video upload adding a crosslinked screenshot to my flickr account)\
+\* per photo privacy/licence options\
+\* AJAX-based organizer\
+\* ...\
+The photos that make my laptop (mobile ones don't) still reside in Picasa. So I naturally have missed the one click upload to Flickr. However, with the new Uplodr, Flickr has improved their desktop presence a lot.

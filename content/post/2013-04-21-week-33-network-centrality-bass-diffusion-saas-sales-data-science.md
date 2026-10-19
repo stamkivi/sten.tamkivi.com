@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 33: Network Centrality, Bass Diffusion, SaaS Sales & Data Science'
 author: sten
 type: post
@@ -447,3 +448,18 @@ Guest speaker: [DJ Patil][29] (Data Science @ Greylock, ex-eBay, ex-LinkedIn)
  [30]: http://www.amazon.com/gp/product/B008HMN5BE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008HMN5BE&linkCode=as2&tag=seikatsu-20
  [31]: http://www.amazon.com/gp/product/B005O4U3ZE/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005O4U3ZE&linkCode=as2&tag=seikatsu-20
  [32]: http://www.imdb.com/title/tt1210166/
+
+---
+
+## Comments (archived from the old blog)
+
+**miranda** · 2015-03-18 09:17
+
+Thanks For Your Exciting Article. Other Thing Is That Mesothelioma Is Generally\
+Attributable To The Breathing Of Dust From Asbestos Fiber, Which Is A Extremely\
+Dangerous Material. It Truly Is Commonly Viewed Among Staff In The Structure\
+Industry That Have Long Exposure To Asbestos. It's Also Caused By Residing In\
+Asbestos Insulated Buildings For A Long Period Of Time, Inherited Genes Plays A\
+Crucial Role, And Some Persons Are More Vulnerable On The Risk Than Others.
+
+<a href="http://amyinohio.com" rel="nofollow">amyinohio</a>

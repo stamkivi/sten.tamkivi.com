@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: A few more seats at ArcticEvening
 author: sten
 type: post
@@ -38,3 +39,11 @@ I will be there sitting in a panel with [Allan][7] and [Taneli Tikka][8] from [R
  [7]: http://mtvp.ee/ourteam/allanmartinson/
  [8]: http://www.crunchbase.com/person/taneli-tikka
  [9]: http://www.crunchbase.com/company/runtoshop
+
+---
+
+## Comments (archived from the old blog)
+
+**[Jüri](http://kaljundi.com/)** · 2009-01-21 12:05
+
+And if you have a cool startup, please let us know (information on the evnt page) and come pitch for some international visibility, investor contacts etc. We extended the startup pitch application deadline to January 25th as well!

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Välisinvesteeringud, väljamurdmine maailma ja Mikser
 author: sten
 type: post
@@ -58,3 +59,41 @@ Vastusepakkumised ja diskussioon on väga teretulnud.
  [8]: http://www.bloomberg.com/news/2010-09-17/ibm-venture-in-lithuania-shows-investment-czar-may-beat-baltic-rivals.html
  [9]: http://sten.tamkivi.com/2011/02/valisinvesteeringud-2-tore-ei-ole-tobe/
  [10]: http://sten.tamkivi.com/2011/02/kuidas-valida-keda-valida/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Ain Tohvri](http://tekkie.flashbit.net/)** · 2011-02-20 12:13
+
+Hea teemapüstitus ja müstiline mõtteavaldus Mikserilt iseäranis sotsiaaldemokraatlikust perspektiivist. Ütleks isegi, et vastuoluline.
+
+**[Valdar Liive](http://www.facebook.com/valdar.liive)** · 2011-02-20 17:31
+
+Konverentsi ülekande leiad http://www.tuulelohe.ee/et/ylekanne ja 4.paneel algab ajaliselt 6:14:40
+
+**[Valdar Liive](http://www.facebook.com/valdar.liive)** · 2011-02-20 17:33
+
+Konverentsi ülekande leiad http://www.tuulelohe.ee/et/ylekanne 4. paneel algab 6:14:40
+
+**[TELLAKVERE](http://twitter.com/tellakvere)** · 2011-02-20 18:04
+
+"Küll aga paluksin lugejatelt, eriti neil, kes viibisid Tuulelohel kohapeal ja/või kuuluvad Sotside toetajate sekka, pisut tõlkeabi samast sessioonist."
+
+cool, aga miks mitte temalt endalt küsida? skype aadress on ... ok, ma ei tea, aga emaili leiab riigikogu kodulehelt.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-20 20:26
+
+Aitäh Valdar, nüüd tuleb veel leida see tunnike (või kogunisti seitse), mida reedel ei leidnud, et materjal tagantjärgi läbi töötada... :)
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-20 20:27
+
+Hea mõte, kirjutan ja ehk on ta nõus ka siin oma vastust jagama.
+
+**[Toomas Mölder](http://www.facebook.com/toomas.molder)** · 2011-02-20 23:44
+
+Sven Mikseri vastav arvamuseavaldus algab http://www.tuulelohe.ee/et/ylekanne 6:51:30 ja minu kõrv kuuleb seda küll kui “Oma investeeringutel põhinev Skype oleks veel to\*R\*edam kui välismaised otseinvesteeringud,”
+
+**[Siim Lepisk](http://siim.lepisk.com/)** · 2011-02-27 20:15
+
+See ülekanne on praeguseks maha võetud. Error 404. Kusagilt järelvaadata saab?

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: China Is Larger Than Germany
 author: sten
 type: post
@@ -50,3 +51,22 @@ If you are interested in this power play, I recommend reading the [ChinAfrica po
  [1]: http://www.bloomberg.com/apps/news?pid=20601087&sid=aShY0wM1pD_Y&refer=home
  [2]: http://www.washingtonpost.com/wp-dyn/content/article/2009/01/14/AR2009011401456.html?hpid=sec-world
  [3]: http://sten.tamkivi.com/2008/07/chinafrica.html
+
+---
+
+## Comments (archived from the old blog)
+
+**toivo** · 2009-01-15 17:19
+
+You have to measure apples with apples. How large is EUR zone?
+
+**[sten](http://sten.tamkivi.com)** · 2009-01-16 16:33
+
+Compared to the US or China, EU could hardly be viewed as a single unified economic unit. The internal freedom of movement of goods, services, labour, etc; federal control and harmonization of regulations and taxes are just not quite there yet I think. Maybe one day they will be?\
+According to\
+<a href="http://en.wikipedia.org/wiki/Economy_of_the_European_Union#Economies_of_member_states" rel="nofollow">http://en.wikipedia.org/wiki/Economy_of_the_European_Union#Economies_of_member_states</a> , yes EU would be the largest economy in the world if viewed as one - at \$18.5 trillion in 2008.
+
+**[sten](http://sten.tamkivi.com)** · 2009-01-16 16:38
+
+Found an even better link, US vs EU GDP comparision (PPP-adjusted though) with countries/states breakdown:\
+<a href="http://politicalcalculations.blogspot.com/2008/12/2007-us-vs-eu-gdp-ppp-cage-match.html" rel="nofollow">http://politicalcalculations.blogspot.com/2008/12/2007-us-vs-eu-gdp-ppp-cage-match.html</a>

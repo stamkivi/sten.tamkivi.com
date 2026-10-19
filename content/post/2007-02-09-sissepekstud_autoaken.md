@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Sissepekstud autoaken
 author: sten
 type: post
@@ -25,3 +26,12 @@ Ahjah, positiivseid killukesi (teadlik sõnavalik) kogu asja juures siiski ka. M
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2007%2F02%2Fsissepekstud_autoaken%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.flickr.com/photos/seikatsu/384464130/ "Photo Sharing"
+
+---
+
+## Comments (archived from the old blog)
+
+**Sirje Kask** · 2007-02-16 20:20
+
+PALUN!\
+"skypecast" eesti keeles? Kelle käest küsida? Ma EI SAA enne rahu, kui teada saan. Vabandan tülitamise pärast.

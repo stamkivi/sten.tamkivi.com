@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Kuidas valida, keda valida?
 author: sten
 type: post
@@ -70,3 +71,45 @@ Kuidas mu hääl teie kätte jõuaks, läbi peibutuspartide ja d&#8217;Hondti me
  [4]: http://valijakompass.err.ee/info#methods
  [5]: http://www.postimees.ee/?id=335521
  [6]: http://www.praxis.ee/index.php?id=47&tx_comtool_pi1[employeeId]=22&cHash=01973ee989
+
+---
+
+## Comments (archived from the old blog)
+
+**[Daniel Vaarik](http://distantsignal.blogspot.com)** · 2011-02-18 07:23
+
+Kindlasti ei saagi olla see kompass poliitika tundmise aseaineks.
+
+Hiljuti ühel debatil osaledes vaatasin, kuidas erakonnad rääkisid täiesti sarnast juttu, ainult et ma teadsin, et nende tegelik poliitika selles küsimuses on kindlasti üsna erinev.
+
+Ilmselt ka kompassi vastuste kalibreerimisel on sama probleem - erakonnad proovivad ette aimata, mis inimestele meeldib (jah, ma usun, et metoodika tegijad näevad seda mingil määral ka ette, samas mitte lõpuni).
+
+Seega siis - osad erakondadest mõtlevad kompassis leiduvaid asju tõsiselt aga osad mitte. Kuidas teha vahet nendel, kes ütlevad lihtsalt asju ja nendel, kes tahavad teha? Kuidas teha vahet mesilase moodi kärbsel ja tegelikult mesilasel? Ainus tõsiselt võetav võimalus on vist proovida tundma õppida enda valitavat poliitikut pikema aja jooksul.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-18 08:12
+
+Muidugi on seal kompassis asju, mis võiks olla teisiti (seesama "maksustabiilsus", tõesti), aga siiski on sellel minuarust suur väärtus mingi mõtteloogika juurutamisel.
+
+Kui 85,000 inimest, kes praegu seda tätinud on, hakkavad rohkem mõtlema, et "tegelt võiks saata maili kolmele parteile ja küsida, mis nad mulle olulisest teemast arvavad" või "näe, Y võiks olla võimalik alternatiiv X-le" ja siis veel mõni kirjutab oma mõtted blogiposti, on selle tööriista eesmärk juba täidetud. Sealt võikski kasvada välja see poliitika(/u) tundmine pikema aja jooksul.
+
+**[TELLAKVERE](http://twitter.com/tellakvere)** · 2011-02-18 17:49
+
+Kuidas mu hääl teie kätte jõuaks...
+
+... läbi avaliku toetuse, ehk kui kedagi valid, siis anna sellest blogis ja tviidis teada. keda, miks, mis eeldustel. eelduseks siis et see info levib ja sa mõjutad oma otsusetaga ka teisi valijaid kodanikke.
+
+**[Siim Lepisk](http://siim.lepisk.com/)** · 2011-02-27 20:48
+
+Tõmbaks siis müsteeriumi-loori eest ning ütleks, kes need on, keda usaldada võib?
+
+**[Daniel Vaarik](http://distantsignal.blogspot.com)** · 2011-02-27 21:00
+
+Ma seda tahangi öelda, et seda ei saagi keegi ette öelda, ise peab tööd tegema ja jälgima nii öelda endale olulisi poliitikuid kogu aeg (umbes nagu mõned jälgivad jalgpalli).
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2011-02-28 19:02
+
+Ma jõudsin sarnase loogikaga samasse kohta nagu Wolli siin kirjeldab (talle omased reljeefsusi kõrvale jättes): http://peeterpaul.motskula.net/2011/02/26/minu-haal/
+
+Aga siis mõtlesin nende pingutuste peale, mida ise olen otse teinud nt sotsiaalmaksu lae jm tarkade töökohtade ja nutika ettevõtluse suunaliste muutuste juhtumiseks Eestis ja ei tõusnud käsi neis asjus tihti vastanduvaid Sotse toetama, olgu mu frustratsioon ansipliku populismi ja dialoogipuudusega sama suur kui paljudel...
+
+Seega loodan selle peale, et on võimalik ka teistsugune liberalism, mis kuulab, otsib tasakaalu ja hoolib rohkem. Ja loodan, et Kaja Kallases on potentsiaali seda suunda arendada oma partei sees. Temale siis seekord minu hääl.

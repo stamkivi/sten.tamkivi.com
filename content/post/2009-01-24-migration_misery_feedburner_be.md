@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Migration Misery: Feedburner becomes Google'
 author: sten
 type: post
@@ -48,3 +49,21 @@ Apologies to all subscribers who are missing content or &#8211; I really don&#82
  [8]: http://www.google.com/analytics/
  [9]: http://www.google.com/support/feedburner/
  [10]: http://feeds2.feedburner.com/seikatsu
+
+---
+
+## Comments (archived from the old blog)
+
+**[Erki Esken](http://dreamdrummer.com/)** · 2009-01-24 01:21
+
+"...fell from 271 to 128 ... vanished from the stats is Google Reader..."\
+Interestingly in Google Reader it shows (Show details link in your feed view) this for your feed - "Subscribers: 139" - which is almost exactly the nr of discrepancy you noted. I wonder why they don't include Reader stats any more.
+
+**[sten](http://sten.tamkivi.com)** · 2009-01-24 15:20
+
+Yup, correct you are, that's the gap. And now they've fixed it, finally.\
+Also, to get really granular in how they manage the feeds - it seems that Google Feedfetcher harvests for both Reader and iGoogle RSS widgets. So the number you see through Reader could exclude the latter.
+
+**[Rando](http://blog.kall.pri.ee)** · 2009-01-30 09:27
+
+I had the same problems but seems that from last night at least del.icio.us is working again. I was able to add my del.icio.us user name to Link Splicer.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: On Skype and European Innovation at Stanford
 author: sten
 type: post
@@ -49,3 +50,15 @@ As you might notice, my slides were just a light framework this time and most of
  [5]: http://www.flickr.com/photos/jurvetson/
  [6]: http://www.europeanentrepreneursatstanford.com/watch_online/index.php
  [7]: http://scpd.stanford.edu/
+
+---
+
+## Comments (archived from the old blog)
+
+**[rizzn](http://rizzn.com)** · 2009-03-21 01:44
+
+I'm finding it nigh impossible to find the video.
+
+**[Jaanus](http://www.jaanuskase.com/)** · 2009-03-21 23:20
+
+I found it eventually, but indeed, it was difficult to find.

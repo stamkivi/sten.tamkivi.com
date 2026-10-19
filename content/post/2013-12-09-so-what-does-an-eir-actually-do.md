@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: So… What Does an EIR Actually Do?
 author: sten
 type: post
@@ -65,3 +66,27 @@ Which is what an EIR fundamentally tries to do, much like any entrepreneur, in o
  [2]: http://www.businessinsider.com/eir-faq-what-you-need-to-know-2012-3
  [3]: http://www.quora.com/Entrepreneurs-in-Residence
  [4]: http://a16z.com/portfolio/
+
+---
+
+## Comments (archived from the old blog)
+
+**badboyboyce** · 2013-12-13 00:34
+
+Great post! Thanks much for sharing. Would be cool to see this contribute to the Quora thread on EIRs (http://www.quora.com/search?q=EIR): think you would have an awesome perspective to add.
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-12-13 01:11
+
+Thanks - posted a link to this post on Quora now too. (Which I know is not what they actually hope for there :))
+
+**adam** · 2013-12-16 23:09
+
+"Which could be a blog post in itself, if anyone cares" - yes! Please write!
+
+**Pepe Anguita** · 2013-12-18 09:27
+
+I sign in as well !
+
+**[Sten Tamkivi](http://sten.tamkivi.com)** · 2013-12-29 03:06
+
+Here you go: http://sten.tamkivi.com/2013/12/managing-the-idea-buffet/

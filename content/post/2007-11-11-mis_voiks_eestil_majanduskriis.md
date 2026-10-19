@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Mis võiks Eestil majanduskriisist kasu olla?
 author: sten
 type: post
@@ -74,3 +75,29 @@ PS: selle mõtteavalduse sisu on puhtisiklik ja põhjustatud sellest, et olen Ee
  [7]: http://www.arileht.ee/?majandus=407355&kommentaarid=0
  [8]: http://www.postimees.ee/online/kommentaarikeskus.php?ARTIKKEL_ID=294665&TASK=KOMMENTAARID
  [9]: http://www.sloleht.ee/index.aspx?v=forum&subtopicID=74036#form
+
+---
+
+## Comments (archived from the old blog)
+
+**mõhh** · 2007-11-11 21:47
+
+milline on skype 10 aasta pärast? palun kirjelda detailset vajadust töötajate järgi ja s. poolt pakutavaid tooteid.
+
+**[sten](http://sten.tamkivi.com)** · 2007-11-11 22:07
+
+Ma ei näe, et pikalt ühe konkreetse ettevõtte visiooni lahkav vastus oleks praegu teemasse.\
+Aga selles olen küll kindel, et igal viimasel kui ühel maailma innovaatiliseimatest ettevõtetest on mistahes ajahetkel oma tulevikust oluliselt selgem visioon (ja püstitatud seda toetavad konkreetsed eesmärgid) kui Eesti riigil täna.\
+Sama kehtib ka tublide väikeriikide kohta - Iirimaa? Taiwan? Singapur?\
+Kas Sina tead, mis on Eesti visioon?\
+Sten
+
+**mõhh** · 2007-11-11 22:11
+
+kui s. seda ei tea, miks peaks riik teadama?
+
+**[sten](http://sten.tamkivi.com)** · 2007-11-11 22:35
+
+Kust Sa võtad, et S. ei tea, kuhu ta jõuda tahab? Aga nagu mu postituse lõpp ütleb, see siin on minu erablogi ja see ei ole teema.\
+Teemasse siis tagasi - võib-olla on Sul õigus ja Eesti ei peagi teadma, kuhu ta läheb. Äkki ka põhjendad, miks nii arvad? Kas äkki on selle peale mõelda tüütu ja keeruline, võrreldes niisama olemisega?\
+Ja kuidas riigi areng saab ilma eesmärkideta toimuda? Lihtsalt anarhistlikult, sinna kuhu juhtub arenema, eks pärast vaatab?

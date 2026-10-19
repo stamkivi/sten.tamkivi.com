@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Veel viiteid majanduskriisihuvilistele
 author: sten
 type: post
@@ -40,3 +41,11 @@ Aitäh.
  [6]: http://asehr.blogspot.com/2007/11/economic-crisis-good-thing.html
  [7]: http://www.jaanuskase.com/et/2007/11/pohi_ja_ulikoolist_ja_veterani.html
  [8]: http://blog.mindmap.ee/?p=96
+
+---
+
+## Comments (archived from the old blog)
+
+**[Kaido](http://www.kaidoirval.com)** · 2007-11-16 14:07
+
+Ohoo, teretulemast Mindmapi sõprade sekka!

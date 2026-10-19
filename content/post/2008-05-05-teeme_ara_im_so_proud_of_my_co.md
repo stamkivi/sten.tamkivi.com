@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Teeme Ära: I’m so proud of my colleagues'
 author: sten
 type: post
@@ -50,3 +51,15 @@ And congratulations, [Rainer & the team][8] for pulling this through.
  [6]: http://afp.google.com/article/ALeqM5iXHC_GRa3lblAUSZfJts6peFNm3Q
  [7]: http://blog.wired.com/sterling/2008/05/estonias-digiti.html
  [8]: http://www.teeme2008.ee/?op=body&id=70
+
+---
+
+## Comments (archived from the old blog)
+
+**bertrand** · 2008-05-06 00:14
+
+Hi Sten !\
+Beyond your colleagues, you can be proud of your country. It was amazing. All kind of people, in every place of Estonia, united to make their country a better place. No emphasis, just simple good mood, a sense of responsibility, and a strong will to make it happen. (under a very cooperative sun ;-) )\
+Kennedy said "\[...\] ask not what your country can do for you; ask what you can do for your country.". This may look like emphatic, but this is precisely what the Estonian people did last week. In France for example, the same proportion would mean that more than 1.8 Million persons would behave in the same way.. I doubt ;-)\
+This is also a lesson about how IT allows to change the way citizens are interacting with public affairs. What was the monopoly of the State, and then accessible only to corporations, is now under the reach of an ad-hoc group of private individuals, equipped with a reasonably affordable infrastructure of communications.\
+It is not the first time E-stonia is taking the lead in transforming public management. After the doubts that may have been expressed in the previous post on innovation, this shows that there is still a clear momentum here. Let's keep it going on.. and make daring ideas become real. This won't happen without a possibly difficult discussion on where the Government should concentrate its resources in order to make it comparatively easier to innovate and to invest in research. At least, "Teeme Ära" showed that there are persons who actually care about the country and its future. That's already big step to have such engaged citizen ! You have the will, now invent the way ;-)

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Solving the Home Storage Problem
 author: sten
 type: post
@@ -33,3 +34,25 @@ End of the amateur-geekiest post this blog has probably seen.
  [1]: http://www.markit.eu
  [2]: http://www.iomega-europe.com/item?sku=204133351
  [3]: http://en.wikipedia.org/wiki/Upnp
+
+---
+
+## Comments (archived from the old blog)
+
+**toivo** · 2007-08-10 20:12
+
+miks iomega, mitte mõni teine bränd?
+
+**[sten](http://sten.tamkivi.com)** · 2007-08-13 14:47
+
+(In response to the question "why Iomega?")\
+As it usually goes - asked a few friends for their experience (and apparently it was quite limited), searched for comparative reviews (like <a href="http://www.computerworld.com.au/index.php/id;1909082084;fp;2;fpid;2;pf;1" rel="nofollow">this one</a>) and then finally checked the actual availability and prices in Estonia from Markit.ee.\
+I think my shortlist finally was Buffalo, Western Digital and Iomega. Iomega won mostly on the combined features (printer serving, gigabit ethernet, UPnP, number of drives used for redundancy, both PC & Mac support, reviewer claims on software usability) basis.
+
+**michael** · 2007-08-14 02:16
+
+I bought LaCie equivalent. It's noisy. Not the cooling fans, but disks being accessed constantly. And by what ? I have no clue. Even with ethernet disconnected there is constant disk access. Very annoying.\
+Also, shares disappear off network for no reason, sometimes in the middle of a large directory copy.\
+All sounds very unlikely, if I hadn't seen it myself I would say that I was talking rubbish. But I have\
+Why LACie ? Because previous purchases have been ok, plus device has inbuilt media server for watching pictures on ethernet connected Philips TV with inbuilt media player. That bit works well.\
+Also Dynamic DNS built in.

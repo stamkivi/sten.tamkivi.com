@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Numbers to Prove How Much I Love Skype Chats
 author: sten
 type: post
@@ -30,3 +31,12 @@ And I also found out that my SQL skills have gone really, really rusty even comp
 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fsten.tamkivi.com%2F2008%2F05%2Fnumbers_to_prove_how_much_i_lo%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
  [1]: http://www.skype.com
+
+---
+
+## Comments (archived from the old blog)
+
+**[Vincent Oberle](http://www.oberle.org)** · 2008-05-14 22:18
+
+Way more than me :)\
+I did the same calculation but before it could be done with SQL <a href="http://www.oberle.org/blog/2007/05/28/110000/" rel="nofollow">http://www.oberle.org/blog/2007/05/28/110000/</a>

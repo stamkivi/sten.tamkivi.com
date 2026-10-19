@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: 'Week 3: Strong Cultures and Hello Regressions'
 author: sten
 type: post
@@ -109,3 +110,15 @@ For more posts on the Stanford GSB Sloan life &#8211; [click here to search by t
  [2]: http://www.flickr.com/photos/seikatsu/7708108858/ "Organizational Design Class by seikatsu, on Flickr"
  [3]: https://gsbapps.stanford.edu/cases/detail1.asp?Document_ID=2795
  [4]: http://sten.tamkivi.com/tag/sloan/
+
+---
+
+## Comments (archived from the old blog)
+
+**[Andres Kütt](http://www.facebook.com/people/Andres-Kütt/668019416)** · 2012-08-03 21:52
+
+Ha, awesome thought-provoking summary as ever. Keep up the good work!\
+\- If we combine "...culture consists of a set of assumptions that have developed as a consequence of org’s attempts to adapt to internal & external problems" and "Main mechanisms for developing a strong culture:" we get a dissonance as, since new challenges keep popping up, the hiring and socialization rituals must as well. Spear has a very interesting case on on-boarding in Toyota on the same topic\
+\- "In 1981 (note the pre-internet communication overhead!!), Johnson & Johnson had managed to create a decentralised structure of 150 wholly owned companies that ranged from 6 to 6500 employees." Visa is another example worth looking at
+
+As to the crisis and change, I wrote down an interesting observation today at a strategy class. Many tech companies ask themselves "How do I meet my revenue projection \[showing linear/exponential growth\]" rather than "how do I spend my resources in a most efficient manner". The thing is that the environment might have shifted enough for that projection to become obsolete and now you are spending more and more resources on chasing a more and more elusive goal instead of investing into managing the transition. Goes strongly with the cultural issue - since culture is the essence of having successfully solved problems, culture is resilient as people have seen it work. If the nature of the problems changes, however, these tools stop working and the culture becomes a resistor to change.

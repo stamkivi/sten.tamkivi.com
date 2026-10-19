@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Palju, aga samas ka vähe tarku inimesi
 author: sten
 type: post
@@ -40,3 +41,11 @@ Seega, müts maha tänaste doktorantide ees. Kavatsen neid nõu ja jõuga ka eda
  [4]: http://www.itcollege.ee/
  [5]: http://www.itl.ee/
  [6]: http://www.tarbija24.ee/251006/esileht/olulised_teemad/tarbija24/tehnika/225028.php?r
+
+---
+
+## Comments (archived from the old blog)
+
+**[edvard](http://edvardsblog.blogspot.com/)** · 2007-12-12 10:19
+
+doktorandide blog/portaali peaks tegema ruttu võib-olla. seis on üsna nukker muidu jah.

@@ -1,4 +1,5 @@
 ---
+archived_comments: true
 title: Paberil ajakirjade tellimisodüsseia
 author: sten
 type: post
@@ -49,3 +50,27 @@ Kokkuvõttes, head Lehepunkti-inimesed, pange endal eesti perioodika tellimine k
  [3]: http://www.telli.ee
  [4]: http://www.kirilind.ee
  [5]: http://www.lehepunkt.ee
+
+---
+
+## Comments (archived from the old blog)
+
+**[Anton](http://sourcekibitzer.org)** · 2008-01-09 22:27
+
+Tere, Sten!\
+Kui see ei ole saladus, siis millised ajakirjad veel äratasid Sinu huvi\
+Anton
+
+**Jens** · 2008-01-10 12:01
+
+Just minu mõtted, üritasin eelmine nädal Ekspressi tellida otsekorraldusega nende kodukalt. Ligi tund aega mässasin lihtsalt sportlikust huvist.\
+Muidu oli tellimine igati ok, aga mingi number mis tuli pangas sisestada, seda ei saanud mujalt kuskilt kätte kui protsessi käigus mulle salaja saadetud emailist. Kui pole meili vahepeal lugenud, ei oleks teadnudki et kuskohast seda saab.
+
+**[sten](http://sten.tamkivi.com)** · 2008-01-10 16:57
+
+Anton, ei ole saladus.\
+Kirjeldatud eksperimendis osalesid:\
+\* Arvutimaailm, Digi, Maatriks (toetamaks kohalikku IT-meediat)\
+\* Wired, FastCompany ja National Geographic (sest tuli jälle meelde, et neid tahaks lugeda paberil ja regulaarsemalt, kui nad erinevates lennujaamades näppu juhtuvad)\
+\* FHM (sest nende aastalõpunumbri Nõmedate Asjade ja Soovimatute Jõulukinkide edetabelite peale naersin laginal)\
+Sten
